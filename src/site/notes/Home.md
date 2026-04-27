@@ -4,4 +4,4 @@
 
 Elliott's digital garden! 🌱
 
-[[What is this?\|What is this?]]
+[[Ponderings/What is this?\|What is this?]]
