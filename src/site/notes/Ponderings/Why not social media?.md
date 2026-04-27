@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponderings/why-not-social-media/","created":"2026-04-27T12:04:11.624-04:00","updated":"2026-04-27T15:20:44.526-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponderings/why-not-social-media/","created":"2026-04-27T12:04:11.624-04:00","updated":"2026-04-27T15:30:02.760-04:00","dg-note-properties":{}}
 ---
 
 #raw 
@@ -10,6 +10,7 @@
 	* Have friends who are also not using instagram
 * Strava (my favorite social media <3) is fun for sharing random little updates but also not meant for blogging and not a great way to share more broadly
 * Email list could be nice, but emails are quite transient and not as nicely organized together. See below section as may still want to incorporate email
+* Thus came the general idea of a blog, further narrowed to the digital garden concept that I had been thinking about per [[Ponderings/What is this?\|What is this?]]
 
 ### Things to figure out
 * Is there a simple way to set up a mailing list for new blog posts (in a specific subfolder of the digital garden ideally?)
