@@ -3,5 +3,5 @@
 ---
 
 ### Hello
-Wahoo [Welcome page](Welcome)
+Wahoo [[Welcome\|Welcome]]
 Retriggering build!
