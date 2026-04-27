@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://elliott-ruebush.github.io">
-    <title>Digital Garden</title>
+    <title>Elliott&#39;s Site</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" >
     <link href="https://elliott-ruebush.github.io" >
-    <updated>2026-04-27T14:58:51Z</updated>
+    <updated>2026-04-27T15:06:34Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
                 What is this?
                 
             </title>
-            <updated>2026-04-27T14:58:40Z</updated>
+            <updated>2026-04-27T15:06:23Z</updated>
             <id>https://elliott-ruebush.github.io/what-is-this/</id>
             <content type="html">
                 &lt;p&gt;Wahoo &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
@@ -23,7 +23,7 @@
                 Home
                 
             </title>
-            <updated>2026-04-27T14:58:40Z</updated>
+            <updated>2026-04-27T15:06:23Z</updated>
             <id>https://elliott-ruebush.github.io/</id>
             <content type="html">
                 &lt;p&gt;Elliott&#39;s digital garden&lt;/p&gt;
