@@ -1,7 +1,7 @@
 [
 {
 		"title": "Home",
-		"date":"Mon Apr 27 2026 15:06:46 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Apr 27 2026 15:30:30 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Elliott's digital garden\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/what-is-this/\">What is this?</a>",
 		"tags": [ "note","gardenEntry"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "What is this?",
-		"date":"Mon Apr 27 2026 15:06:46 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Apr 27 2026 15:30:30 GMT+0000 (Coordinated Universal Time)",
 		"url":"/what-is-this/",
 		"content": "Wahoo <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>",
 		"tags": [ "note"]
