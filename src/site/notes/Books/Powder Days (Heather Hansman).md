@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/books/powder-days-heather-hansman/","created":"2026-04-27T11:52:27.404-04:00","updated":"2026-04-27T11:58:52.139-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/books/powder-days-heather-hansman/","created":"2026-04-27T11:52:27.404-04:00","updated":"2026-04-27T15:21:27.961-04:00","dg-note-properties":{}}
 ---
+
+#polished #nature #ski 
 
 *Powder Days* by Heather Hansman was a really fun recent read. It's especially topical for where I am in life at the moment, so led to some pondering. I took a bit of time to play book reviewer and write up some structured thoughts. This was also a mini creative writing endeavor as I do enjoy some flowery prose from time to time. See review below!
 

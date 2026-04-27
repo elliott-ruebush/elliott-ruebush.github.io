@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/movies/princess-mononoke-1997/","created":"2026-04-27T14:41:37.960-04:00","updated":"2026-04-27T15:20:55.218-04:00","dg-note-properties":{}}
+---
+
+#raw #nature 
+
+A beautiful movie in many ways! Recommended to me by the internet while searching for animated movies that might capture some of the same vibe as an Ursula K. Le Guin novel.
+
+My immediate first reaction was: "**Wow that was touching and evocative and cool and an interesting slightly different angle than I think an equivalent American film would’ve taken****"
+
+I have some more in-depth thoughts and character notes in a Google Doc
+
