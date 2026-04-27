@@ -3,17 +3,18 @@
     <title>Free Range Elliott</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" >
     <link href="https://elliott-ruebush.github.io" >
-    <updated>2026-04-27T18:12:45Z</updated>
+    <updated>2026-04-27T19:24:05Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
                 Why not social media? (WIP)
                 
             </title>
-            <updated>2026-04-27T16:23:59.387Z</updated>
+            <updated>2026-04-27T19:20:44.526Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/why-not-social-media-wip/</id>
             <content type="html">
-                &lt;h3 id=&quot;what-options-are-out-there-and-why-not-social-media&quot; tabindex=&quot;-1&quot;&gt;What options are out there and why not social media?&lt;/h3&gt;
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;what-options-are-out-there-and-why-not-social-media&quot; tabindex=&quot;-1&quot;&gt;What options are out there and why not social media?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;I&#39;m going off on Alaska adventure to work for the NPS and try to pursue a more scientific career and I want to share updates with friends and family per their request. Also want to centralize a place to share thoughts on books, movies, etc that isn&#39;t subject to some corporate overlord&#39;s platform. (Granted I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files)&lt;/li&gt;
 &lt;li&gt;In past adventures I enjoyed keeping track of things on free range elliott IG account BUT I don&#39;t really like instagram and don&#39;t wanting to support / force usage of big brainrot-inducing ad tech platforms.
@@ -60,16 +61,32 @@
         </entry>
         <entry>
             <title>
+                Princess Mononoke (1997)
+                
+            </title>
+            <updated>2026-04-27T19:20:55.218Z</updated>
+            <id>https://elliott-ruebush.github.io/movies/princess-mononoke-1997/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#nature&quot;&gt;#nature&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A beautiful movie in many ways! Recommended to me by the internet while searching for animated movies that might capture some of the same vibe as an Ursula K. Le Guin novel.&lt;/p&gt;
+&lt;p&gt;My immediate first reaction was: &amp;quot;&lt;strong&gt;Wow that was touching and evocative and cool and an interesting slightly different angle than I think an equivalent American film would’ve taken&lt;/strong&gt;**&amp;quot;&lt;/p&gt;
+&lt;p&gt;I have some more in-depth thoughts and character notes in a Google Doc&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/movies/princess-mononoke-1997/" >
+        </entry>
+        <entry>
+            <title>
                 (meta) The List of Movies
                 
             </title>
-            <updated>2026-04-27T16:47:31.038Z</updated>
+            <updated>2026-04-27T19:21:42.935Z</updated>
             <id>https://elliott-ruebush.github.io/movies/meta-the-list-of-movies/</id>
             <content type="html">
                 &lt;p&gt;My Chicago roommate gave me the beautiful gift of a personalized list of movie recommendations. 157 movies that are, in his words, &amp;quot;minimum 8/10 movies&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://letterboxd.com/jaysamuel/list/elliotts-movie-watchlist/detail/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://letterboxd.com/jaysamuel/list/elliotts-movie-watchlist/detail/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Maybe I should just use Letterboxd since that&#39;s kind of its whole point, but will at least initially start keeping track of watch order here&lt;/p&gt;
-&lt;h3 id=&quot;watch-log&quot; tabindex=&quot;-1&quot;&gt;Watch Log&lt;/h3&gt;
+&lt;p&gt;Maybe I should just use Letterboxd since that&#39;s kind of its whole point, but I&#39;ll at least initially start keeping track of watch order here&lt;/p&gt;
+&lt;h3 id=&quot;watch-log-from-the-list&quot; tabindex=&quot;-1&quot;&gt;Watch Log from the List&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;The Truman Show (April 17th, 2026)&lt;/li&gt;
 &lt;li&gt;The Intouchables (April 26th, 2026)&lt;/li&gt;
@@ -94,13 +111,40 @@
         </entry>
         <entry>
             <title>
+                The Left Hand of Darkness (Ursula K. Le Guin)
+                
+            </title>
+            <updated>2026-04-27T19:21:25.493Z</updated>
+            <id>https://elliott-ruebush.github.io/books/the-left-hand-of-darkness-ursula-k-le-guin/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#nature&quot;&gt;#nature&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#draft&quot;&gt;#draft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Left Hand of Darkness&lt;/em&gt; ended up as one of my favorite novels of the past few years and kicked off a love of Le Guin&#39;s work. It&#39;s a unique, groundbreaking, character-driven science fiction novel that ages extraordinarily well -- even 50+ years after its original publish date in 1969. This review has some spoilers, so if you haven&#39;t read the novel I&#39;d recommend you do that first. Please let me know if you do as I&#39;d love to hear your thoughts!&lt;/p&gt;
+&lt;p&gt;See below for my slightly rambling and excited goodreads review from December 11th, 2024&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!WARNING] Spoilers Below&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;p&gt;Realized I totally don’t mark spoilers in my reviews oops. This one might (totally will) have some.&lt;/p&gt;
+&lt;p&gt;Wow I really grew to love this novel. I was making my way through it a bit at a time, but then I was absolutely absorbed into the crazy journey across the ice. Stayed up to finish reading it this past Sunday night and it was totally worth it. Le Guin’s “social science fiction” is super interesting and I love the deep focus on our two core characters.&lt;/p&gt;
+&lt;p&gt;Exploring cultural and physiological changes and how that could affect interpersonal interactions shines as a spin on science fiction that is perhaps more timeless than more technologically focused scifi. Speaking of timelessness, this novel is from 1969 and it holds up extraordinarily well for being over 50 years old. I think for me the most telling sign of its age was some of the viewpoints of Genly Ai (our main PoV) that seemed to reflect a little bit different style of internalized misogyny than one would likely write today. Also, perhaps most directly, the usage of he/him pronouns to refer to the Gethenians rather than they/them (which were not commonly considered as singular pronouns at the time of publishing like they are now) certainly changes some of the mental processing. HOWEVER, I actually think, as a modern reader, you could rationalize these inconsistencies as an aspect of the narrator (Genly), rather than a reflection of the novel. If taking this path, then the viewpoints and the pronoun usage are a reflection of Genly’s own inability to overcome the explicit and implicit biases associated with his somewhat fragile masculinity. It’s not so hard to believe someone could still come up with a similar perspective to his today (see the backlash against pronoun usage from some people). Nevertheless, beyond Genly’s flaws, we also see so much of his humanity and the deep personal relationship that he forms with Estraven. The progression of this relationship builds so beautifully over the course of the entire novel, starting from the just about the first page to the very last paragraph.&lt;/p&gt;
+&lt;p&gt;ALSO the glacier journey and the whole fricken planet of Gergen is such a fascinating and well built out winter environment. As a snow enthusiast, I absolutely loved reading about the glaciers and the blizzards and the mountains and all the details of life that they shape for the Gethenians. The descriptions of winter travel felt pretty reasonable based on my experience and I was so happy getting to read about the nuances and variance in varieties of frozen water and how they can affect traveling on said medium. +1 point for use of the word “sastrugi”. Also the glacier vocab too. I would be totally lying if I didn’t say that this boosted the novel in my eyes as I felt like I had (atl some) of the lived experience and interest in winter environments to really visualize what was going on. Now I don’t know that I’d want to live permanently on Gethen BUT it would be such A SICK PLACE to go on a ski expedition too I bet they have some absolutely crazy ski infrastructure in place.&lt;/p&gt;
+&lt;p&gt;Cutting short my gleeful rambling about snow, I’ll close off with a reference back to some of the core themes of the novel, by adding a few follow-ups that I really enjoyed reading. The 1976 foreword to the novel and this additional essay on gender (1976 with revisions/comments from 1988) from Le Guin are really interesting additions to go through after the novel. It’s cool to see the author&#39;s own perspective on her work and to see her own ideas and opinions evolve over time (especially present in the comments on the essay).&lt;br /&gt;
+&lt;a href=&quot;https://americanfuturesiup.wordpress.com/wp-content/uploads/2013/01/is-gender-necessary.pdf&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://americanfuturesiup.wordpress....&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overall very highly recommend! Regardless of if you enjoy scifi normally, I think this is just a great all around novel to read if you’re a human.&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/books/the-left-hand-of-darkness-ursula-k-le-guin/" >
+        </entry>
+        <entry>
+            <title>
                 Powder Days (Heather Hansman)
                 
             </title>
-            <updated>2026-04-27T15:58:52.139Z</updated>
+            <updated>2026-04-27T19:21:27.961Z</updated>
             <id>https://elliott-ruebush.github.io/books/powder-days-heather-hansman/</id>
             <content type="html">
-                &lt;p&gt;&lt;em&gt;Powder Days&lt;/em&gt; by Heather Hansman was a really fun recent read. It&#39;s especially topical for where I am in life at the moment, so led to some pondering. I took a bit of time to play book reviewer and write up some structured thoughts. This was also a mini creative writing endeavor as I do enjoy some flowery prose from time to time. See review below!&lt;/p&gt;
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#polished&quot;&gt;#polished&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#nature&quot;&gt;#nature&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#ski&quot;&gt;#ski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Powder Days&lt;/em&gt; by Heather Hansman was a really fun recent read. It&#39;s especially topical for where I am in life at the moment, so led to some pondering. I took a bit of time to play book reviewer and write up some structured thoughts. This was also a mini creative writing endeavor as I do enjoy some flowery prose from time to time. See review below!&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;The privilege of traveling purely to slide down fresh snow on some far-off peak is inherently indulgent. Ever ethereal, a powder day occupies a fleeting point in time spent desperately clamoring for the scarce resource of untracked turns.&lt;/p&gt;
 &lt;p&gt;Nevertheless, the memories and community built around those experiences can crystallize into something more enduring. In Powder Days, Heather Hansman deftly showcases the history and humans that shape skiing’s core. Drawing on her past as a winter worker and ski bum, Hansman overlays personal reflection onto a season spent documenting the triumphs and challenges of skiing’s most dedicated practitioners.&lt;/p&gt;
@@ -109,23 +153,5 @@
 
             </content>
             <link href="https://elliott-ruebush.github.io/books/powder-days-heather-hansman/" >
-        </entry>
-        <entry>
-            <title>
-                Powder Days (Heather Hansman) e
-                
-            </title>
-            <updated>2026-04-27T15:58:52.139Z</updated>
-            <id>https://elliott-ruebush.github.io/books/powder-days-heather-hansman-e/</id>
-            <content type="html">
-                &lt;p&gt;&lt;em&gt;Powder Days&lt;/em&gt; by Heather Hansman was a really fun recent read. It&#39;s especially topical for where I am in life at the moment, so led to some pondering. I took a bit of time to play book reviewer and write up some structured thoughts. This was also a mini creative writing endeavor as I do enjoy some flowery prose from time to time. See review below!&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;The privilege of traveling purely to slide down fresh snow on some far-off peak is inherently indulgent. Ever ethereal, a powder day occupies a fleeting point in time spent desperately clamoring for the scarce resource of untracked turns.&lt;/p&gt;
-&lt;p&gt;Nevertheless, the memories and community built around those experiences can crystallize into something more enduring. In Powder Days, Heather Hansman deftly showcases the history and humans that shape skiing’s core. Drawing on her past as a winter worker and ski bum, Hansman overlays personal reflection onto a season spent documenting the triumphs and challenges of skiing’s most dedicated practitioners.&lt;/p&gt;
-&lt;p&gt;Along the way, a variety of existential questions arise. There is always variance in the snowpack, but after a historically bad winter in the American West, the dilemma of ski resorts’ economic viability proves especially salient. Sure, we’ll still have deep days and years where the snow keeps dumping. However, what happens when you’re operating in the red after only receiving 76 inches of snow through late March (like Taos in 2026)? Shallower snowpacks, fewer local ski resorts, increasing economic inequality—how does one reconcile concerning trends with the hope that a beloved activity can be shared more broadly? Beyond recreation, what happens to communities when water resources are lacking and wildfires are raging?&lt;/p&gt;
-&lt;p&gt;Powder Days doesn’t have solutions for all the hard questions, nor does it claim the rigor of peer-reviewed research, but Hansman’s storytelling compellingly weaves together the history and challenges of the ski industry into a coherent snapshot of the present. As someone who hasn’t committed to work winters in a mountain town, yet has let a love for the outdoors fostered in the wintry peaks motivate the direction I take my life, I was enthralled by Hansman’s writing. I now find myself reflecting on the same open question of how, when, and if to chase the fleeting dream of snow and storms. At the heart of that question remains a halcyon lifestyle that paradoxically may never truly exist but whose intoxicating ideal exerts a perennial pull.&lt;/p&gt;
-
-            </content>
-            <link href="https://elliott-ruebush.github.io/books/powder-days-heather-hansman-e/" >
         </entry>
 </feed>
