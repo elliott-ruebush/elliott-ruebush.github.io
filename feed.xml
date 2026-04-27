@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://elliott-ruebush.github.io/">
+    <title>Digital Garden</title>
+    <link href="https://elliott-ruebush.github.io//feed.xml" rel="self" >
+    <link href="https://elliott-ruebush.github.io/" >
+    <updated>2026-04-27T14:45:00Z</updated>
+    <id>https://elliott-ruebush.github.io/</id>
+        <entry>
+            <title>
+                Welcome
+                
+            </title>
+            <updated>2026-04-27T14:44:49Z</updated>
+            <id>https://elliott-ruebush.github.io//</id>
+            <content type="html">
+                &lt;p&gt;Elliott&#39;s digital garden &lt;a href=&quot;https://elliott-ruebush.github.io/Testing&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Testing&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io//" >
+        </entry>
+        <entry>
+            <title>
+                Testing
+                
+            </title>
+            <updated>2026-04-27T14:44:49Z</updated>
+            <id>https://elliott-ruebush.github.io//testing/</id>
+            <content type="html">
+                &lt;h3 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello&lt;/h3&gt;
+&lt;p&gt;Wahoo &lt;a href=&quot;https://elliott-ruebush.github.io/Welcome&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Welcome page&lt;/a&gt;&lt;br /&gt;
+Retriggering build!&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io//testing/" >
+        </entry>
+</feed>
