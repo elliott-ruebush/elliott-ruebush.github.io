@@ -1,7 +1,7 @@
 [
 {
 		"title": "Powder Days (Heather Hansman) e",
-		"date":"Mon Apr 27 2026 16:30:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Apr 27 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/books/powder-days-heather-hansman-e/",
 		"content": "Powder Days by Heather Hansman was a really fun recent read. It's especially topical for where I am in life at the moment, so led to some pondering. I took a bit of time to play book reviewer and write up some structured thoughts. This was also a mini creative writing endeavor as I do enjoy some flowery prose from time to time. See review below!\n\nThe privilege of traveling purely to slide down fresh snow on some far-off peak is inherently indulgent. Ever ethereal, a powder day occupies a fleeting point in time spent desperately clamoring for the scarce resource of untracked turns.\nNevertheless, the memories and community built around those experiences can crystallize into something more enduring. In Powder Days, Heather Hansman deftly showcases the history and humans that shape skiing’s core. Drawing on her past as a winter worker and ski bum, Hansman overlays personal reflection onto a season spent documenting the triumphs and challenges of skiing’s most dedicated practitioners.\nAlong the way, a variety of existential questions arise. There is always variance in the snowpack, but after a historically bad winter in the American West, the dilemma of ski resorts’ economic viability proves especially salient. Sure, we’ll still have deep days and years where the snow keeps dumping. However, what happens when you’re operating in the red after only receiving 76 inches of snow through late March (like Taos in 2026)? Shallower snowpacks, fewer local ski resorts, increasing economic inequality—how does one reconcile concerning trends with the hope that a beloved activity can be shared more broadly? Beyond recreation, what happens to communities when water resources are lacking and wildfires are raging?\nPowder Days doesn’t have solutions for all the hard questions, nor does it claim the rigor of peer-reviewed research, but Hansman’s storytelling compellingly weaves together the history and challenges of the ski industry into a coherent snapshot of the present. As someone who hasn’t committed to work winters in a mountain town, yet has let a love for the outdoors fostered in the wintry peaks motivate the direction I take my life, I was enthralled by Hansman’s writing. I now find myself reflecting on the same open question of how, when, and if to chase the fleeting dream of snow and storms. At the heart of that question remains a halcyon lifestyle that paradoxically may never truly exist but whose intoxicating ideal exerts a perennial pull.",
 		"tags": [ "note"]
@@ -9,15 +9,31 @@
 
 {
 		"title": "Home",
-		"date":"Mon Apr 27 2026 16:30:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Apr 27 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "Elliott's digital garden! 🌱\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/what-is-this/\">What is this?</a>",
+		"content": "Elliott's digital garden! 🌱\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/ponderings/what-is-this/\">What is this?</a>",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
 		"title": "What is this?",
-		"date":"Mon Apr 27 2026 16:30:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Apr 27 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
+		"url":"/ponderings/what-is-this/",
+		"content": "TLDR: A digitial garden is a place on the Internet to share thoughts, updates, ponderings, etc. Old school web style.\nInspired by Brian after he shared the concept of a &quot;digital garden&quot; and proceeded to set up his own page. See his description here: https://garden.briancher.in/meta/on-blogging/what-is-this/\nA few points from that I really like:\n\nBut a digital garden has an emphasis on a few things:\n\nPosts don't have to be perfectly polished - they can be incomplete or in-progress at any given moment\nPosts aren't viewed as untouchable pieces of work - they can be changed and updated over time\n\nSome additional thoughts on why I'm doing it this way\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/ponderings/why-not-social-media-wip/\">Why not social media? (WIP)</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Why not social media? (WIP)",
+		"date":"Mon Apr 27 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
+		"url":"/ponderings/why-not-social-media-wip/",
+		"content": "What options are out there and why not social media?\n\nI'm going off on Alaska adventure to work for the NPS and try to pursue a more scientific career and I want to share updates with friends and family per their request. Also want to centralize a place to share thoughts on books, movies, etc that isn't subject to some corporate overlord's platform. (Granted I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files)\nIn past adventures I enjoyed keeping track of things on free range elliott IG account BUT I don't really like instagram and don't wanting to support / force usage of big brainrot-inducing ad tech platforms.\n\nHave quite enjoyed not using instagram much recently (although the linkedin doomscroll while searching for jobs recently was almost more soulless at times)\nHave friends who are also not using instagram\n\nStrava (my favorite social media &lt;3) is fun for sharing random little updates but also not meant for blogging and not a great way to share more broadly\nEmail list could be nice, but emails are quite transient and not as nicely organized together. See below section as may still want to incorporate email\n\nThings to figure out\n\nIs there a simple way to set up a mailing list for new blog posts (in a specific subfolder of the digital garden ideally?)\nIs there a good way to facilitate responses (email? text? etc.) from people to my posts. One nice thing about social media is the interactive aspect. A &quot;text me&quot; or &quot;call me&quot; button would be fun but also don't want to just post my phone number publicly",
+		"tags": [ "note"]
+},
+
+{
+		"title": "What is this?",
+		"date":"Mon Apr 27 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/what-is-this/",
 		"content": "TLDR: A digitial garden is a place on the Internet to share thoughts, updates, ponderings, etc. Old school web style.\nInspired by Brian after he shared the concept of a &quot;digital garden&quot; and proceeded to set up his own page. See his description here: https://garden.briancher.in/meta/on-blogging/what-is-this/\nA few points from that I really like:\n\nBut a digital garden has an emphasis on a few things:\n\nPosts don't have to be perfectly polished - they can be incomplete or in-progress at any given moment\nPosts aren't viewed as untouchable pieces of work - they can be changed and updated over time\n\nSome additional thoughts on why I'm doing it this way\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/why-not-social-media-wip/\">Why not social media? (WIP)</a>",
 		"tags": [ "note"]
@@ -25,7 +41,7 @@
 
 {
 		"title": "Why not social media? (WIP)",
-		"date":"Mon Apr 27 2026 16:30:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Apr 27 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/why-not-social-media-wip/",
 		"content": "What options are out there and why not social media?\n\nI'm going off on Alaska adventure to work for the NPS and try to pursue a more scientific career and I want to share updates with friends and family per their request. Also want to centralize a place to share thoughts on books, movies, etc that isn't subject to some corporate overlord's platform. (Granted I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files)\nIn past adventures I enjoyed keeping track of things on free range elliott IG account BUT I don't really like instagram and don't wanting to support / force usage of big brainrot-inducing ad tech platforms.\n\nHave quite enjoyed not using instagram much recently (although the linkedin doomscroll while searching for jobs recently was almost more soulless at times)\nHave friends who are also not using instagram\n\nStrava (my favorite social media &lt;3) is fun for sharing random little updates but also not meant for blogging and not a great way to share more broadly\nEmail list could be nice, but emails are quite transient and not as nicely organized together. See below section as may still want to incorporate email\n\nThings to figure out\n\nIs there a simple way to set up a mailing list for new blog posts (in a specific subfolder of the digital garden ideally?)\nIs there a good way to facilitate responses (email? text? etc.) from people to my posts. One nice thing about social media is the interactive aspect. A &quot;text me&quot; or &quot;call me&quot; button would be fun but also don't want to just post my phone number publicly",
 		"tags": [ "note"]
