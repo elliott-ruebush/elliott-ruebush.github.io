@@ -3,3 +3,5 @@
 ---
 
 Elliott's digital garden [Testing](Testing)
+
+[[Testing\|Testing]]
