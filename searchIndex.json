@@ -1,9 +1,17 @@
 [
 {
 		"title": "Testing",
-		"date":"Mon Apr 27 2026 14:39:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Apr 27 2026 14:42:25 GMT+0000 (Coordinated Universal Time)",
 		"url":"/testing/",
 		"content": "Hello\nWahoo Welcome page\nRetriggering build!",
 		"tags": [ "note"]
+},
+
+{
+		"title": "Welcome",
+		"date":"Mon Apr 27 2026 14:42:25 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "Elliott's digital garden Testing",
+		"tags": [ "note","gardenEntry"]
 }
 ]
