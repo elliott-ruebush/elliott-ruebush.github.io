@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/powder-days-heather-hansman/","dg-note-properties":{}}
 ---
 
-*Powder Days* by Heather Hansman was a really fun recent read. It's especially topical for where I am in life at the moment, so led to some pondering. I took a bit of time to play book reviewer and write up some structured thoughts. This was also a mini creative writing endeavor as I do enjoy some flowery prose from time to time.
+*Powder Days* by Heather Hansman was a really fun recent read. It's especially topical for where I am in life at the moment, so led to some pondering. I took a bit of time to play book reviewer and write up some structured thoughts. This was also a mini creative writing endeavor as I do enjoy some flowery prose from time to time. See review below!
 
 ---
 
