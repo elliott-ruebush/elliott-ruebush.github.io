@@ -3,8 +3,38 @@
     <title>Free Range Elliott</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" >
     <link href="https://elliott-ruebush.github.io" >
-    <updated>2026-04-27T19:24:05Z</updated>
+    <updated>2026-04-27T19:26:31Z</updated>
     <id>https://elliott-ruebush.github.io</id>
+        <entry>
+            <title>
+                Why not social media?
+                
+            </title>
+            <updated>2026-04-27T19:20:44.526Z</updated>
+            <id>https://elliott-ruebush.github.io/ponderings/why-not-social-media/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;what-options-are-out-there-and-why-not-social-media&quot; tabindex=&quot;-1&quot;&gt;What options are out there and why not social media?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I&#39;m going off on Alaska adventure to work for the NPS and try to pursue a more scientific career and I want to share updates with friends and family per their request. Also want to centralize a place to share thoughts on books, movies, etc that isn&#39;t subject to some corporate overlord&#39;s platform. (Granted I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files)&lt;/li&gt;
+&lt;li&gt;In past adventures I enjoyed keeping track of things on free range elliott IG account BUT I don&#39;t really like instagram and don&#39;t wanting to support / force usage of big brainrot-inducing ad tech platforms.
+&lt;ul&gt;
+&lt;li&gt;Have quite enjoyed not using instagram much recently (although the linkedin doomscroll while searching for jobs recently was almost more soulless at times)&lt;/li&gt;
+&lt;li&gt;Have friends who are also not using instagram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Strava (my favorite social media &amp;lt;3) is fun for sharing random little updates but also not meant for blogging and not a great way to share more broadly&lt;/li&gt;
+&lt;li&gt;Email list could be nice, but emails are quite transient and not as nicely organized together. See below section as may still want to incorporate email&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;things-to-figure-out&quot; tabindex=&quot;-1&quot;&gt;Things to figure out&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is there a simple way to set up a mailing list for new blog posts (in a specific subfolder of the digital garden ideally?)&lt;/li&gt;
+&lt;li&gt;Is there a good way to facilitate responses (email? text? etc.) from people to my posts. One nice thing about social media is the interactive aspect. A &amp;quot;text me&amp;quot; or &amp;quot;call me&amp;quot; button would be fun but also don&#39;t want to just post my phone number publicly&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/ponderings/why-not-social-media/" >
+        </entry>
         <entry>
             <title>
                 Why not social media? (WIP)
@@ -40,7 +70,7 @@
                 What is this?
                 
             </title>
-            <updated>2026-04-27T16:31:28.489Z</updated>
+            <updated>2026-04-27T19:25:27.773Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/what-is-this/</id>
             <content type="html">
                 &lt;p&gt;TLDR: A digitial garden is a place on the Internet to share thoughts, updates, ponderings, etc. Old school web style.&lt;/p&gt;
@@ -54,10 +84,30 @@
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Some additional thoughts on why I&#39;m doing it this way&lt;br /&gt;
-&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/why-not-social-media-wip/&quot;&gt;Why not social media? (WIP)&lt;/a&gt;&lt;/p&gt;
+&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/why-not-social-media/&quot;&gt;Why not social media?&lt;/a&gt;&lt;/p&gt;
 
             </content>
             <link href="https://elliott-ruebush.github.io/ponderings/what-is-this/" >
+        </entry>
+        <entry>
+            <title>
+                States of Pages
+                
+            </title>
+            <updated>2026-04-27T19:26:05.761Z</updated>
+            <id>https://elliott-ruebush.github.io/ponderings/states-of-pages/</id>
+            <content type="html">
+                &lt;p&gt;For some pages, I have tags denoting at what point in the creative process they fall. There&#39;s not a commitment to move from one stage to another, but it&#39;s more just an FYI for the reader and a note for my own benefit if I&#39;m looking to iterate on initial pages.&lt;/p&gt;
+&lt;p&gt;The below are loose definitions of the three different tiers I might tag with.&lt;/p&gt;
+&lt;h3 id=&quot;raw&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Could literally just be train-of-thought writing. Perhaps it&#39;s just a list of bullet points. It could have incomplete sentences and may not have a clear structure.&lt;/p&gt;
+&lt;h3 id=&quot;draft&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#draft&quot;&gt;#draft&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Written up into some sort of essay/review format. Perhaps trimmed down and with actual sentences/paragraphs&lt;/p&gt;
+&lt;h3 id=&quot;polished&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#polished&quot;&gt;#polished&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Edited and refined to some degree. Whether or not it&#39;s &amp;quot;actually&amp;quot; polished is of course up to the reader.&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/ponderings/states-of-pages/" >
         </entry>
         <entry>
             <title>
