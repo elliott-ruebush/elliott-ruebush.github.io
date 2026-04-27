@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponderings/what-is-this/","created":"2026-04-27T10:15:24.006-04:00","updated":"2026-04-27T12:31:28.489-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponderings/what-is-this/","created":"2026-04-27T10:15:24.006-04:00","updated":"2026-04-27T15:25:27.773-04:00","dg-note-properties":{}}
 ---
 
 TLDR: A digitial garden is a place on the Internet to share thoughts, updates, ponderings, etc. Old school web style.
@@ -12,4 +12,4 @@ A few points that I liked:
 >- Posts aren't viewed as untouchable pieces of work - they can be changed and updated over time
 
 Some additional thoughts on why I'm doing it this way
-[[Ponderings/Why not social media? (WIP)\|Why not social media? (WIP)]]
+[[Ponderings/Why not social media?\|Why not social media?]]
