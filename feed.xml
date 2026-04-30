@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://elliott-ruebush.github.io">
     <title>Free-range Elliott</title>
-    <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" >
-    <link href="https://elliott-ruebush.github.io" >
-    <updated>2026-04-30T15:36:52Z</updated>
+    <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" ///// >
+    <link href="https://elliott-ruebush.github.io" ///// >
+    <updated>2026-04-30T15:46:03Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
@@ -34,7 +34,7 @@
 &lt;/ul&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/ponderings/why-not-social-media/" >
+            <link href="https://elliott-ruebush.github.io/ponderings/why-not-social-media/" ///// >
         </entry>
         <entry>
             <title>
@@ -60,7 +60,7 @@
 &lt;p&gt;This was the name I came up with for an Instagram account where I was making posts for/with friends while I traveled post-college. The free-range moniker was supposed to refer to adventuring around outside before the corporate office grind. I thought it had a decent ring to it too!&lt;/p&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/ponderings/what-is-this/" >
+            <link href="https://elliott-ruebush.github.io/ponderings/what-is-this/" ///// >
         </entry>
         <entry>
             <title>
@@ -80,7 +80,7 @@
 &lt;p&gt;Edited and refined to some degree. Whether or not it&#39;s &amp;quot;actually&amp;quot; polished is of course up to the reader.&lt;/p&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/ponderings/states-of-pages/" >
+            <link href="https://elliott-ruebush.github.io/ponderings/states-of-pages/" ///// >
         </entry>
         <entry>
             <title>
@@ -96,7 +96,7 @@
 &lt;p&gt;I have some more in-depth thoughts and character notes in a Google Doc. Will consider what to pull over from there eventually.&lt;/p&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/movies/princess-mononoke-1997/" >
+            <link href="https://elliott-ruebush.github.io/movies/princess-mononoke-1997/" ///// >
         </entry>
         <entry>
             <title>
@@ -116,7 +116,7 @@
 &lt;/ul&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/movies/meta-the-list-of-movies/" >
+            <link href="https://elliott-ruebush.github.io/movies/meta-the-list-of-movies/" ///// >
         </entry>
         <entry>
             <title>
@@ -130,7 +130,7 @@
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/what-is-this/&quot;&gt;What is this?&lt;/a&gt;&lt;/p&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/" >
+            <link href="https://elliott-ruebush.github.io/" ///// >
         </entry>
         <entry>
             <title>
@@ -156,7 +156,7 @@
 &lt;p&gt;Overall very highly recommend! Regardless of if you enjoy scifi normally, I think this is just a great all around novel to read if you’re a human.&lt;/p&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/books/the-left-hand-of-darkness-ursula-k-le-guin/" >
+            <link href="https://elliott-ruebush.github.io/books/the-left-hand-of-darkness-ursula-k-le-guin/" ///// >
         </entry>
         <entry>
             <title>
@@ -175,6 +175,6 @@
 &lt;p&gt;Powder Days doesn’t have solutions for all the hard questions, nor does it claim the rigor of peer-reviewed research, but Hansman’s storytelling compellingly weaves together the history and challenges of the ski industry into a coherent snapshot of the present. As someone who hasn’t committed to work winters in a mountain town, yet has let a love for the outdoors fostered in the wintry peaks motivate the direction I take my life, I was enthralled by Hansman’s writing. I now find myself reflecting on the same open question of how, when, and if to chase the fleeting dream of snow and storms. At the heart of that question remains a halcyon lifestyle that paradoxically may never truly exist but whose intoxicating ideal exerts a perennial pull.&lt;/p&gt;
 
             </content>
-            <link href="https://elliott-ruebush.github.io/books/powder-days-heather-hansman/" >
+            <link href="https://elliott-ruebush.github.io/books/powder-days-heather-hansman/" ///// >
         </entry>
 </feed>
