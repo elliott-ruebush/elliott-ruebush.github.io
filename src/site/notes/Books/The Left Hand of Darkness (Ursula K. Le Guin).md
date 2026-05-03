@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/the-left-hand-of-darkness-ursula-k-le-guin/","created":"2026-04-27T14:43:00.718-04:00","updated":"2026-04-27T15:21:25.493-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/books/the-left-hand-of-darkness-ursula-k-le-guin/","created":"2026-04-27T13:43:00.718-05:00","updated":"2026-04-27T14:21:25.493-05:00","dg-note-properties":{}}
 ---
 
 #nature #draft 
