@@ -3,17 +3,17 @@
     <title>Free-range Elliott</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" ///// >
     <link href="https://elliott-ruebush.github.io" ///// >
-    <updated>2026-04-30T16:08:12Z</updated>
+    <updated>2026-05-03T01:21:16Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
                 Why not social media?
                 
             </title>
-            <updated>2026-04-27T19:32:15.556Z</updated>
+            <updated>2026-05-03T01:20:03.504Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/why-not-social-media/</id>
             <content type="html">
-                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;what-options-are-out-there-and-why-not-social-media&quot; tabindex=&quot;-1&quot;&gt;What options are out there and why not social media?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;I&#39;m going off to Alaska to work for the NPS and try to pursue a more scientific career and I want to share updates with friends and family per their request. I also orthogonally want to centralize a place to document thoughts on books, movies, etc that isn&#39;t necessarily part of a corporate overlord&#39;s platform. (Granted I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files)&lt;/li&gt;
@@ -41,10 +41,11 @@
                 What is this?
                 
             </title>
-            <updated>2026-04-27T19:30:58.451Z</updated>
+            <updated>2026-05-03T01:20:10.013Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/what-is-this/</id>
             <content type="html">
-                &lt;p&gt;TLDR: A digitial garden is a place on the Internet to share thoughts, updates, ponderings, etc. Old school web style. Kinda like a blog.&lt;/p&gt;
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;br /&gt;
+TLDR: A digital garden is a place on the Internet to share thoughts, updates, ponderings, etc. Old school web style. Kinda like a blog.&lt;/p&gt;
 &lt;p&gt;Inspired by Brian after he shared the concept of a &amp;quot;digital garden&amp;quot; and proceeded to set up his own page. See his description here: &lt;a href=&quot;https://garden.briancher.in/meta/on-blogging/what-is-this/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://garden.briancher.in/meta/on-blogging/what-is-this/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A few points that I liked:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -58,6 +59,7 @@
 &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/why-not-social-media/&quot;&gt;Why not social media?&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;why-and-quot-free-range-elliott-and-quot&quot; tabindex=&quot;-1&quot;&gt;Why &amp;quot;Free-range Elliott&amp;quot;?&lt;/h3&gt;
 &lt;p&gt;This was the name I came up with for an Instagram account where I was making posts for/with friends while I traveled post-college. The free-range moniker was supposed to refer to adventuring around outside before the corporate office grind. I thought it had a decent ring to it too!&lt;/p&gt;
+&lt;p&gt;Note: technically I&#39;d rather be a pasture-raised Elliott than a free-range Elliott (pasture-raised is a stricter designation for poultry farming and generally signifies better nutrients + a )&lt;/p&gt;
 
             </content>
             <link href="https://elliott-ruebush.github.io/ponderings/what-is-this/" ///// >
@@ -67,10 +69,11 @@
                 States of Pages
                 
             </title>
-            <updated>2026-04-27T19:26:05.761Z</updated>
+            <updated>2026-05-03T01:20:15.838Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/states-of-pages/</id>
             <content type="html">
-                &lt;p&gt;For some pages, I have tags denoting at what point in the creative process they fall. There&#39;s not a commitment to move from one stage to another, but it&#39;s more just an FYI for the reader and a note for my own benefit if I&#39;m looking to iterate on initial pages.&lt;/p&gt;
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;br /&gt;
+For some pages, I have tags denoting at what point in the creative process they fall. There&#39;s not a commitment to move from one stage to another, but it&#39;s more just an FYI for the reader and a note for my own benefit if I&#39;m looking to iterate on initial pages.&lt;/p&gt;
 &lt;p&gt;The below are loose definitions of the three different tiers I might tag with.&lt;/p&gt;
 &lt;h3 id=&quot;raw&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Could literally just be train-of-thought writing. Perhaps it&#39;s just a list of bullet points. It could have incomplete sentences and may not have a clear structure.&lt;/p&gt;
@@ -81,6 +84,28 @@
 
             </content>
             <link href="https://elliott-ruebush.github.io/ponderings/states-of-pages/" ///// >
+        </entry>
+        <entry>
+            <title>
+                The List of Movies
+                
+            </title>
+            <updated>2026-05-03T01:20:39.603Z</updated>
+            <id>https://elliott-ruebush.github.io/movies/the-list-of-movies/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;br /&gt;
+My Chicago roommate gave me the beautiful gift of a personalized list of movie recommendations. 157 movies that are, in his words, &amp;quot;minimum 8/10 movies&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://letterboxd.com/jaysamuel/list/elliotts-movie-watchlist/detail/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://letterboxd.com/jaysamuel/list/elliotts-movie-watchlist/detail/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Maybe I should just use Letterboxd since that&#39;s kind of its whole point, but I&#39;ll at least initially start keeping track of watch order here&lt;/p&gt;
+&lt;h3 id=&quot;watch-log-from-the-list&quot; tabindex=&quot;-1&quot;&gt;Watch Log from the List&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Truman Show (April 17th, 2026)&lt;/li&gt;
+&lt;li&gt;The Intouchables (April 26th, 2026)&lt;/li&gt;
+&lt;li&gt;The Devil Wears Prada (May 2nd, 2026)&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/movies/the-list-of-movies/" ///// >
         </entry>
         <entry>
             <title>
