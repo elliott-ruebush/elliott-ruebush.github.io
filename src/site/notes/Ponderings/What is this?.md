@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponderings/what-is-this/","created":"2026-04-27T09:15:24.006-05:00","updated":"2026-05-02T20:20:10.013-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponderings/what-is-this/","created":"2026-04-27T06:15:24.006-08:00","updated":"2026-05-10T12:31:02.636-08:00","dg-note-properties":{}}
 ---
 
 #meta 
@@ -18,4 +18,6 @@ Some additional thoughts on why I'm doing it this way
 ### Why "Free-range Elliott"?
 This was the name I came up with for an Instagram account where I was making posts for/with friends while I traveled post-college. The free-range moniker was supposed to refer to adventuring around outside before the corporate office grind. I thought it had a decent ring to it too!
 
-Note: technically I'd rather be a pasture-raised Elliott than a free-range Elliott (pasture-raised is a stricter designation for poultry farming and generally signifies better nutrients + a )
+Note: technically I'd rather be a pasture-raised Elliott than a free-range Elliott (pasture-raised is a stricter designation for poultry farming where birds have more space to roam free and generally signifies better nutrients + happier hens)
+[Egg designations](https://www.goodrx.com/well-being/diet-nutrition/free-range-vs-pasture-raised-eggs?srsltid=AfmBOorViDHh8qL0iHmKleTQ0vRnl71kDVwdLHG8wcuiomVTmHDx4zZy)
+![Pasted image 20260510123101.png](/img/user/Pasted%20image%2020260510123101.png)

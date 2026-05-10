@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-list-of-movies/","created":"2026-04-27T11:36:29.581-05:00","updated":"2026-05-02T20:20:39.603-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/movies/the-list-of-movies/","created":"2026-04-27T08:36:29.581-08:00","updated":"2026-05-10T08:18:31.431-08:00","dg-note-properties":{}}
 ---
 
 #meta 
@@ -12,3 +12,5 @@ Maybe I should just use Letterboxd since that's kind of its whole point, but I'l
 - The Truman Show (April 17th, 2026)
 - The Intouchables (April 26th, 2026)
 - The Devil Wears Prada (May 2nd, 2026)
+- Moneyball (May 8th, 2026)
+- Interstellar (May 8th, 2026)
