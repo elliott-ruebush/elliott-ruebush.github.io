@@ -3,28 +3,35 @@
     <title>Free-range Elliott</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" ///// >
     <link href="https://elliott-ruebush.github.io" ///// >
-    <updated>2026-05-03T01:21:44Z</updated>
+    <updated>2026-05-10T22:04:05Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
                 Why not social media?
                 
             </title>
-            <updated>2026-05-03T01:20:03.504Z</updated>
+            <updated>2026-05-10T17:40:26.611Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/why-not-social-media/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;m going off to Alaska to work for the NPS and try to pursue a more scientific career and I want to share updates with friends and family per their request. I also orthogonally want to centralize a place to document thoughts on books, movies, etc that isn&#39;t necessarily part of a corporate overlord&#39;s platform.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The escape from the corporate overlords isn&#39;t perfect since I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files too. Also, GitHub at least feels a little more like it&#39;s simply a platform for hosting my own files, and I shouldn&#39;t be too locked in to it.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&quot;what-options-are-out-there-and-why-not-social-media&quot; tabindex=&quot;-1&quot;&gt;What options are out there and why not social media?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Instagram&lt;/strong&gt; (and other similar social media)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;I&#39;m going off to Alaska to work for the NPS and try to pursue a more scientific career and I want to share updates with friends and family per their request. I also orthogonally want to centralize a place to document thoughts on books, movies, etc that isn&#39;t necessarily part of a corporate overlord&#39;s platform. (Granted I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files)&lt;/li&gt;
-&lt;li&gt;In past adventures I enjoyed keeping track of things on free-range elliott IG account BUT I don&#39;t really like instagram and don&#39;t wanting to support / force usage of big brainrot-inducing ad tech platforms.
+&lt;li&gt;In past adventures I enjoyed keeping track of things on an Instagram account BUT I don&#39;t really like Instagram and don&#39;t wanting to support / encourage usage of big brainrot-inducing ad-tech platforms. Too many highly paid engineers and data scientists are spending their days architecting the optimal software platform (TODO LINK TO INSTAGRAM TECH BLOG) for user engagement to maximize ad revenue and thus shareholder value. Our lil brains are fighting an uphill battle trying to stop from being addicted to scrolling.
 &lt;ul&gt;
-&lt;li&gt;Have quite enjoyed not using instagram much recently (although the linkedin doomscroll while searching for jobs recently was almost more soulless at times)&lt;/li&gt;
-&lt;li&gt;Have friends who are also not using instagram&lt;/li&gt;
+&lt;li&gt;I&#39;ve deleted Instagram from my phone and have quite enjoyed not using it recently. Although I must say that the LinkedIn doomscroll I accidentally found myself participating in while searching for jobs recently was almost more soulless at times.&lt;/li&gt;
+&lt;li&gt;Additionally, I have friends and family who are also not really using Instagram, so I would like to provide a platform agnostic place to see updates on my life.&lt;br /&gt;
+&lt;strong&gt;Strava&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Strava (my favorite social media &amp;lt;3) is fun for sharing random little updates but also not meant for blogging and not a great way to share more broadly&lt;/li&gt;
-&lt;li&gt;Email list could be nice, but emails are quite transient and not as nicely organized together. See below section as may still want to incorporate email&lt;/li&gt;
+&lt;li&gt;Strava (my favorite social media &amp;lt;3) is fun for sharing random little updates but is not meant for blogging and not a great way to share updates more broadly. Also has the same app lock-in issue.&lt;br /&gt;
+&lt;strong&gt;Email&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;I plan to distribute blog-like updates (e.g. &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/&quot;&gt;Denali Blog - Intro&lt;/a&gt;) via an email list as well to notify people about new posts.&lt;/li&gt;
+&lt;li&gt;However, I want the source of truth for the content to live somewhere where it&#39;s easier to look back on in the future and is nicely organized.&lt;/li&gt;
 &lt;li&gt;Thus came the general idea of a blog, further narrowed to the digital garden concept that I had been thinking about per &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/what-is-this/&quot;&gt;What is this?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;things-to-figure-out&quot; tabindex=&quot;-1&quot;&gt;Things to figure out&lt;/h3&gt;
@@ -41,7 +48,7 @@
                 What is this?
                 
             </title>
-            <updated>2026-05-03T01:20:10.013Z</updated>
+            <updated>2026-05-10T20:31:02.636Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/what-is-this/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;br /&gt;
@@ -59,7 +66,9 @@ TLDR: A digital garden is a place on the Internet to share thoughts, updates, po
 &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/why-not-social-media/&quot;&gt;Why not social media?&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;why-and-quot-free-range-elliott-and-quot&quot; tabindex=&quot;-1&quot;&gt;Why &amp;quot;Free-range Elliott&amp;quot;?&lt;/h3&gt;
 &lt;p&gt;This was the name I came up with for an Instagram account where I was making posts for/with friends while I traveled post-college. The free-range moniker was supposed to refer to adventuring around outside before the corporate office grind. I thought it had a decent ring to it too!&lt;/p&gt;
-&lt;p&gt;Note: technically I&#39;d rather be a pasture-raised Elliott than a free-range Elliott (pasture-raised is a stricter designation for poultry farming and generally signifies better nutrients + a )&lt;/p&gt;
+&lt;p&gt;Note: technically I&#39;d rather be a pasture-raised Elliott than a free-range Elliott (pasture-raised is a stricter designation for poultry farming where birds have more space to roam free and generally signifies better nutrients + happier hens)&lt;br /&gt;
+&lt;a href=&quot;https://www.goodrx.com/well-being/diet-nutrition/free-range-vs-pasture-raised-eggs?srsltid=AfmBOorViDHh8qL0iHmKleTQ0vRnl71kDVwdLHG8wcuiomVTmHDx4zZy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Egg designations&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510123101.png&quot; alt=&quot;Pasted image 20260510123101.png&quot; /&gt;&lt;/p&gt;
 
             </content>
             <link href="https://elliott-ruebush.github.io/ponderings/what-is-this/" ///// >
@@ -90,7 +99,7 @@ For some pages, I have tags denoting at what point in the creative process they 
                 The List of Movies
                 
             </title>
-            <updated>2026-05-03T01:20:39.603Z</updated>
+            <updated>2026-05-10T16:18:31.431Z</updated>
             <id>https://elliott-ruebush.github.io/movies/the-list-of-movies/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;br /&gt;
@@ -102,6 +111,8 @@ My Chicago roommate gave me the beautiful gift of a personalized list of movie r
 &lt;li&gt;The Truman Show (April 17th, 2026)&lt;/li&gt;
 &lt;li&gt;The Intouchables (April 26th, 2026)&lt;/li&gt;
 &lt;li&gt;The Devil Wears Prada (May 2nd, 2026)&lt;/li&gt;
+&lt;li&gt;Moneyball (May 8th, 2026)&lt;/li&gt;
+&lt;li&gt;Interstellar (May 8th, 2026)&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
@@ -136,6 +147,65 @@ My Chicago roommate gave me the beautiful gift of a personalized list of movie r
 
             </content>
             <link href="https://elliott-ruebush.github.io/" ///// >
+        </entry>
+        <entry>
+            <title>
+                Where is Denali?
+                
+            </title>
+            <updated>2026-05-10T22:02:27.694Z</updated>
+            <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/where-is-denali/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;getting-to-denali&quot; tabindex=&quot;-1&quot;&gt;Getting to Denali&lt;/h3&gt;
+&lt;p&gt;IF I had driven to Denali from Chicago, it would have taken ~60 hours (longer than driving cross-country from NYC to LA). I considered it, but I also would&#39;ve had to acquire a vehicle which sounded expensive and like a bit of a hassle.&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510125700.png&quot; alt=&quot;Pasted image 20260510125700.png&quot; /&gt;&lt;br /&gt;
+Instead, I flew from Chicago to Fairbanks (~6.5hrs) and then got a car ride down to Denali (~2.5hrs)&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510124415.png&quot; alt=&quot;Pasted image 20260510124415.png&quot; /&gt;&lt;br /&gt;
+Image Source: Google Maps&lt;/p&gt;
+&lt;h3 id=&quot;where-is-denali&quot; tabindex=&quot;-1&quot;&gt;Where is Denali?&lt;/h3&gt;
+&lt;p&gt;Denali National Park and Preserve is in the interior of Alaska, about a 4 hour drive from Anchorage on the coast.&lt;br /&gt;
+&lt;a href=&quot;https://www.researchgate.net/figure/Location-of-Denali-National-Park-and-Preserve-DENA-in-Alaska_fig1_280311351&quot;&gt;&lt;img src=&quot;https://www.researchgate.net/profile/Santosh-Panda-9/publication/280311351/figure/fig1/AS:432098969427978@1480031830425/Location-of-Denali-National-Park-and-Preserve-DENA-in-Alaska.png&quot; alt=&quot;Location of Denali National Park and Preserve (DENA) in Alaska.&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+High-resolution permafrost modeling in Denali National Park and Preserve - Scientific Figure on ResearchGate. Available from: &lt;a href=&quot;https://www.researchgate.net/figure/Location-of-Denali-National-Park-and-Preserve-DENA-in-Alaska_fig1_280311351&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.researchgate.net/figure/Location-of-Denali-National-Park-and-Preserve-DENA-in-Alaska_fig1_280311351&lt;/a&gt; [accessed 10 May 2026]&lt;/p&gt;
+&lt;h3 id=&quot;how-big-is-denali&quot; tabindex=&quot;-1&quot;&gt;How big is Denali?&lt;/h3&gt;
+&lt;p&gt;Denali National Park and Preserve combines 4.7 million acres of park with 1.3 million acres of preserve for approximately 6 million acres (9492 square miles) of NPS-managed land.&lt;/p&gt;
+&lt;p&gt;For comparison, that&#39;s roughly the size of the state of New Hampshire!&lt;br /&gt;
+&lt;a href=&quot;https://www.nps.gov/dena/learn/management/statistics.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;NPS Denali Statistics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note: A National Park generally has stricter regulation around activities like hunting and resource extraction than a National Preserve does.&lt;/p&gt;
+&lt;h3 id=&quot;alaska-public-lands&quot; tabindex=&quot;-1&quot;&gt;Alaska Public Lands&lt;/h3&gt;
+&lt;p&gt;An additional interesting note on Alaska as a whole is that the vast majority (~89%) of land is publicly owned. For reference, the next highest percentages of public lands are from states like Nevada and Utah (&lt;a href=&quot;https://www.ncsl.org/resources/map-monday-this-land-is-our-land&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;NCSL Public Land Ownership&lt;/a&gt;)&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510124733.png&quot; alt=&quot;Pasted image 20260510124733.png&quot; /&gt;&lt;br /&gt;
+Image Source: &lt;a href=&quot;https://www.nps.gov/anch/planyourvisit/regions-in-alaska.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;NPS Regions of Alaska&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nearly 90 percent of the land in Alaska is publicly owned, including both federal and state land ownership. Approximately 65 percent of Alaska is owned and managed by the U.S. Federal government as public lands, including national forests, national parks, and national wildlife refuges. The State of Alaska owns 24.5 percent of the land. Ten percent of the land in Alaska is owned by 12 regional Native corporations and dozens of local Native corporations created under the Alaska Native Claims Settlement Act of 1971 (ANCSA). Less than 1% of the land is owned privately. (State of Alaska 2023).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Source: &lt;a href=&quot;https://ready.alaska.gov/Documents/Mitigation/SHMP/2023%20SHMP%20Chapter%2002%20Background.pdf&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Alaska SHMP&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/denali-blog-summer-2026/where-is-denali/" ///// >
+        </entry>
+        <entry>
+            <title>
+                Denali Blog - Intro
+                
+            </title>
+            <updated>2026-05-10T22:03:20.353Z</updated>
+            <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt;&lt;br /&gt;
+Subscribe to my Alaska Blog&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;COMING SOON ONCE I FIGURE THINGS OUT - Subscription for email blog updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hi, my name is Elliott. I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but...&lt;/p&gt;
+&lt;p&gt;...I want to contribute to Earth systems science and be closer to the mountains, so I quit and now I&#39;m spending the summer working on noise pollution modeling and monitoring for the National Park Service in Denali National Park and Preserve! &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/where-is-denali/&quot;&gt;Where is Denali?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nps.gov/orgs/1778/index.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Natural Resources Stewardship and Science Directorate&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nps.gov/orgs/1050/index.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Natural Sounds and Night Skies Division&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/" ///// >
         </entry>
         <entry>
             <title>
@@ -181,5 +251,76 @@ My Chicago roommate gave me the beautiful gift of a personalized list of movie r
 
             </content>
             <link href="https://elliott-ruebush.github.io/books/powder-days-heather-hansman/" ///// >
+        </entry>
+        <entry>
+            <title>
+                2026-05-04 to 2026-05-10 - Packing and Moving
+                
+            </title>
+            <updated>2026-05-10T22:02:34.271Z</updated>
+            <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hellooooooo folks! First official blog update of the summer. See &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/why-not-social-media/&quot;&gt;Why not social media?&lt;/a&gt; for some more context on why I&#39;m blogging. Had a fun time putting this together alongside some other pages &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/&quot;&gt;Denali Blog - Intro&lt;/a&gt; | &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/where-is-denali/&quot;&gt;Where is Denali?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As always, don&#39;t be a stranger feel free to shoot me a text or email response!&lt;/p&gt;
+&lt;h3 id=&quot;packing-and-travel&quot; tabindex=&quot;-1&quot;&gt;Packing and Travel&lt;/h3&gt;
+&lt;p&gt;After a rejuvenating couple weeks spent catching up with friends and family on the east coast after quitting my previous job, I returned to Chicago to pack up my life and hop on a plane up to Alaska (departing May 8th).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510112746.png&quot; alt=&quot;Pasted image 20260510112746.png&quot; /&gt;&lt;br /&gt;
+The culmination of a busy week of packing for Alaska and moving my belongings into a storage unit in Chicago! Thankfully my roommates are amazing and offered to hang on to some of the stuff (most notably a bed and kitchen items) in the apartment since they&#39;ll be continuing to live there.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510115303.png&quot; alt=&quot;Pasted image 20260510115303.png&quot; /&gt;&lt;br /&gt;
+In Alaska, the endemic snowblowers have evolved to hunt for snow on the roofs of buildings. Unfortunately this specimen seems to be stranded with a rapidly dwindling supply of sustenance. Hopefully a kind soul will relocate it somewhere safer for summer hibernation. (Pic at like 10pm from outside my hotel in Fairbanks where I stayed the night I arrived).&lt;/p&gt;
+&lt;h4 id=&quot;lost-luggage&quot; tabindex=&quot;-1&quot;&gt;Lost Luggage :(&lt;/h4&gt;
+&lt;p&gt;Sadly, my checked suitcase with half my camping gear, my rice cooker, towel, sheets, bulk toiletries, and my other shoes besides the hiking boots I wore on the plane somehow did not make it onto my direct flight from O&#39;Hare to Fairbanks. Maybe TSA had to do an additional check because of the weird assortment of items or something?&lt;/p&gt;
+&lt;p&gt;It arrived on the next flight in from O&#39;Hare (24 hours later). However, as of the morning of Sunday May 10th, they haven&#39;t sent it down for delivery yet. Hoping to get it later this evening!&lt;/p&gt;
+&lt;p&gt;I&#39;m mostly pissed at not having my running shoes tbh &amp;gt;:(&lt;br /&gt;
+How am I supposed to get my last run for the week in!?&lt;/p&gt;
+&lt;h3 id=&quot;fairbanks-has-a-lot-of-thai-food&quot; tabindex=&quot;-1&quot;&gt;Fairbanks has (a lot of) Thai Food!&lt;/h3&gt;
+&lt;p&gt;Thai restaurants in Alaska!? For a city in the middle of the Alaskan interior with a population of ~31k in the city limits and ~96k in the metro area, Fairbanks has a wonderfully high density of Thai food. On Google maps, I count ~20 results for a search of &amp;quot;Thai restaurants&amp;quot;, and that&#39;s potentially missing some of the seasonal Thai food trucks that apparently pop up around the city. That gives us a ratio of 1 Thai restaurant for every ~5000 people in the metro area. For the city limits this is likely closer to 1 Thai restaurant for every ~1600 people (assuming 31k people / 19 restaurants.&lt;/p&gt;
+&lt;p&gt;For comparison this&lt;a href=&quot;https://rentechdigital.com/smartscraper/business-report-details/united-states/list-of-thai-restaurants-in-new-york&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt; random marketing source&lt;/a&gt; claims that there are ~500 Thai restaurants in NYC. (I&#39;m not going to sit there and count them, I suppose could try programmatically querying maps results somehow but we&#39;ll just trust this number for the moment). Assuming an NYC population of ~8 million, that gives us a ratio of 1 Thai restaurant for every 16,000 people.&lt;/p&gt;
+&lt;p&gt;So there you have it! I don&#39;t claim scientific rigor, but it seems like Fairbanks, AK may have about 10x more Thai restaurants per capita than New York, NY!&lt;/p&gt;
+&lt;h3 id=&quot;drive-to-denali&quot; tabindex=&quot;-1&quot;&gt;Drive to Denali&lt;/h3&gt;
+&lt;p&gt;Didn&#39;t actually take many pics here, but had a wonderful drive down to Denali from Fairbanks. My supervisor for the summer was kind enough to help out by picking me up from Fairbanks and driving me to get checked into my housing in the park.&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510120609.png&quot; alt=&quot;Pasted image 20260510120609.png&quot; /&gt;&lt;br /&gt;
+Views from the passenger seat when coming up on the entrance to Denali National Park and Preserve.&lt;/p&gt;
+&lt;h4 id=&quot;alaska-fun-facts&quot; tabindex=&quot;-1&quot;&gt;Alaska Fun Facts&lt;/h4&gt;
+&lt;p&gt;Learned a few fun facts about Alaska on the way too.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Migratory bird season is just starting up here. We saw a massive high flying flock of hundreds and hundreds of birds pass by near Nenana.&lt;/li&gt;
+&lt;li&gt;The ice along the rivers is just breaking up as well. The Tanana River has an &lt;a href=&quot;https://www.nenanaakiceclassic.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;annual betting pool&lt;/a&gt; called the Nenana Ice Classic for when the ice will melt out (down to the minute). The official method of determining the time is when the iconic &amp;quot;tripod&amp;quot; (which is not actually a tripod?) placed out on the river falls in.&lt;/li&gt;
+&lt;li&gt;When leaving Alaska, folks will just refer to &amp;quot;going outside&amp;quot;&lt;/li&gt;
+&lt;li&gt;One nickname you may have heard for Alaska is &amp;quot;The Last Frontier&amp;quot;. However, this name is kind of ironic because Alaska was actually also &amp;quot;The First Frontier&amp;quot; where people crossed the Bering Strait into North America.&lt;/li&gt;
+&lt;li&gt;I learned the term &lt;a href=&quot;https://en.wikipedia.org/wiki/Aufeis&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;&amp;quot;aufeis&amp;quot;&lt;/a&gt; or &amp;quot;overflow&amp;quot; ice which refers to a sheet of ice that forms from water freezing in successive layers to form a sheet of ice. We saw a really cool instance of this right outside the park entrance where an ice dam/blockage in the main part of the Nenana river had caused aufeis formation where one of its tributary streams joined in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;moving-in&quot; tabindex=&quot;-1&quot;&gt;Moving In&lt;/h3&gt;
+&lt;p&gt;I&#39;m living in C-Camp (the site of the old Civilian Conservation Corps campsite during the depression era) in a lovely little cabin.&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510120801.png&quot; alt=&quot;Pasted image 20260510120801.png&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510120817.png&quot; alt=&quot;Pasted image 20260510120817.png&quot; /&gt;&lt;br /&gt;
+Home sweet home for the next 5 months! No running water yet, so we make use of that big orange jug and get water from the common shower house until the temps warm up enough that the pipes in the cabins won&#39;t be at risk of freezing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510125345.png&quot; alt=&quot;Pasted image 20260510125345.png&quot; /&gt;&lt;br /&gt;
+Grocery haul from Fairbanks! Costco card came in clutch and was responsibles for ~$380 of grocery spend&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510125009.png&quot; alt=&quot;Pasted image 20260510125009.png&quot; /&gt;&lt;br /&gt;
+No sheets due to MIA luggage, but I luckily did have sleeping bags and a shirt that functions(ish) as a pillowcase!&lt;br /&gt;
+Also pictured:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;part of an old map of Denali with fieldwork sites marked that my supervisor gave me (left wall)&lt;/li&gt;
+&lt;li&gt;my blackout curtain (sheet of plastic) to block the late night sun and create a dark little sleeping cave.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;what-s-next&quot; tabindex=&quot;-1&quot;&gt;What&#39;s next?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I will attempt to recover my luggage this evening! And hopefully also meet some folks around C-Camp&lt;/li&gt;
+&lt;li&gt;I&#39;ll start work on Monday, will try to report back with an update after the first week with any fun discoveries and more details on the work I&#39;ll be doing!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, I&#39;ll leave you with some views from (a) my front porch, (b) my bedroom window, and (c) the entrance to the bathhouse&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510135655.png&quot; alt=&quot;Pasted image 20260510135655.png&quot; /&gt;&lt;br /&gt;
+Front porch views. Center building is the rec hall while others are cabins&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510135424.png&quot; alt=&quot;Pasted image 20260510135424.png&quot; /&gt;&lt;br /&gt;
+The pile of plowed snow + mountain and park buildings from my bedroom window (would get ya a better picture, but it&#39;s a screened window)&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510135455.png&quot; alt=&quot;Pasted image 20260510135455.png&quot; /&gt;&lt;br /&gt;
+Evening views at 10pm from the entrance to the bathhouse - not bad!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510135232.png&quot; alt=&quot;Pasted image 20260510135232.png&quot; /&gt;&lt;br /&gt;
+A snowshoe hare - there seem to be lots of these lil homies roaming around C-Camp. They&#39;re like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/" ///// >
         </entry>
 </feed>
