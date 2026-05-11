@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T21:57:05.501-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T22:05:31.713-08:00","dg-note-properties":{}}
 ---
 
 #alaska 
@@ -59,19 +59,21 @@ Also pictured:
 * my blackout curtain (sheet of plastic) to block the late night sun and create a dark little sleeping cave.
 
 ### Meeting People and Wildlife
-I had a blast meeting a bunch of folks around C-Camp Sunday afternoon/evening. Made a little key chain
+I had a blast meeting a bunch of folks around C-Camp Sunday afternoon/evening.
 
 First, in the afternoon I got a ride with some new friends up the park road a ways and had some lucky wildlife sightings! Saw two moose, two bears, and various birds. Also saw some majestic alpine landscapes. It's otherworldly up here, a gorgeous snowy subarctic wilderness!
 
+Then, I made a little key chain at craft night and met a bunch of cool people.
+
 
 ![Pasted image 20260510135232.png](/img/user/Pasted%20image%2020260510135232.png)
-A snowshoe hare - there seem to be lots of these lil homies roaming around C-Camp. They're like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!
+A snowshoe hare out there! Seems to be lots of these lil homies roaming around C-Camp. They're like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!
 
 ![Pasted image 20260510215309.png](/img/user/Pasted%20image%2020260510215309.png)
 Moose on the loose! His antlers are growing in nicely! These animals actually have more negative interactions with humans than the predatory animals do. 
 
 ![Pasted image 20260510215355.png](/img/user/Pasted%20image%2020260510215355.png)
-Bear on a tear! (for underground tubers). Picture taken via a scope from across the frozen river. First grizzly bear sighting I've ever had!
+Bear on a tear! (looking for underground tubers). Picture taken via a scope from across the frozen river. First grizzly bear sighting I've ever had!
 
 ![Pasted image 20260510215532.png](/img/user/Pasted%20image%2020260510215532.png)
 Frozen river and snow-capped peaks!
