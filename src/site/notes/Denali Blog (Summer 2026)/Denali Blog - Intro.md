@@ -1,14 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-10T14:03:20.353-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-10T14:13:48.980-08:00","dg-note-properties":{}}
 ---
 
 #alaska
-Subscribe to my Alaska Blog
-* COMING SOON ONCE I FIGURE THINGS OUT - Subscription for email blog updates
+Subscribe to Alaska Blog!
+* COMING SOON ONCE I FIGURE THINGS OUT - Subscription for email blog updates. I want to have a nice way to easily view the posts
 
 Hi, my name is Elliott. I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but... 
 
 ...I want to contribute to Earth systems science and be closer to the mountains, so I quit and now I'm spending the summer working on noise pollution modeling and monitoring for the National Park Service in Denali National Park and Preserve! [[Denali Blog (Summer 2026)/Where is Denali?\|Where is Denali?]]
 
+Where does my role fall in the NPS org structure?
 [Natural Resources Stewardship and Science Directorate](https://www.nps.gov/orgs/1778/index.htm)
  - [Natural Sounds and Night Skies Division](https://www.nps.gov/orgs/1050/index.htm)
+
+As always, don't be a stranger! Feel free to shoot me a text or email response! Also let me know if you have any recs for format, things you want to hear about, etc. Part of the point of this blog is just for myself, but it's also to share my summer with friends n fam else and keep up with y'all. Friendly comments and hate mail are accepted alike!

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponderings/why-not-social-media/","created":"2026-04-27T08:04:11.624-08:00","updated":"2026-05-10T09:40:26.611-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponderings/why-not-social-media/","created":"2026-04-27T08:04:11.624-08:00","updated":"2026-05-10T14:08:11.599-08:00","dg-note-properties":{}}
 ---
 
 #raw #meta
@@ -8,11 +8,13 @@
  * The escape from the corporate overlords isn't perfect since I am hosting this on GitHub pages in a GitHub repo which is owned by Microsoft but alas at least I theoretically have the raw markdown source files too. Also, GitHub at least feels a little more like it's simply a platform for hosting my own files, and I shouldn't be too locked in to it. 
 ###  What options are out there and why not social media?
 **Instagram** (and other similar social media)
-* In past adventures I enjoyed keeping track of things on an Instagram account BUT I don't really like Instagram and don't wanting to support / encourage usage of big brainrot-inducing ad-tech platforms. Too many highly paid engineers and data scientists are spending their days architecting the optimal software platform (TODO LINK TO INSTAGRAM TECH BLOG) for user engagement to maximize ad revenue and thus shareholder value. Our lil brains are fighting an uphill battle trying to stop from being addicted to scrolling.
+* In past adventures I enjoyed keeping track of things on an Instagram account BUT I don't really like Instagram and don't wanting to support / encourage usage of big brainrot-inducing ad-tech platforms. Too many highly paid engineers and data scientists are spending their days architecting the optimal software platform (e.g. [2020 Instagram tech blog](https://about.instagram.com/blog/engineering/designing-a-constrained-exploration-system)) for user engagement to maximize ad revenue and thus shareholder value. Our lil brains are fighting an uphill battle trying to stop from being addicted to scrolling.
 	* I've deleted Instagram from my phone and have quite enjoyed not using it recently. Although I must say that the LinkedIn doomscroll I accidentally found myself participating in while searching for jobs recently was almost more soulless at times.
 	* Additionally, I have friends and family who are also not really using Instagram, so I would like to provide a platform agnostic place to see updates on my life. 
+
 **Strava**
 * Strava (my favorite social media <3) is fun for sharing random little updates but is not meant for blogging and not a great way to share updates more broadly. Also has the same app lock-in issue.
+
 **Email**
 * I plan to distribute blog-like updates (e.g. [[Denali Blog (Summer 2026)/Denali Blog - Intro\|Denali Blog - Intro]]) via an email list as well to notify people about new posts.
 * However, I want the source of truth for the content to live somewhere where it's easier to look back on in the future and is nicely organized.

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T14:02:34.271-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T21:56:11.887-08:00","dg-note-properties":{}}
 ---
 
 #alaska 
 
 Hellooooooo folks! First official blog update of the summer. See [[Ponderings/Why not social media?\|Why not social media?]] for some more context on why I'm blogging. Had a fun time putting this together alongside some other pages [[Denali Blog (Summer 2026)/Denali Blog - Intro\|Denali Blog - Intro]] | [[Denali Blog (Summer 2026)/Where is Denali?\|Where is Denali?]]
 
-As always, don't be a stranger feel free to shoot me a text or email response!
+As always, don't be a stranger feel free to shoot me a text or email response! Also let me know if you have any recs for format, things you want to hear about, etc. Part of the point of this blog is just for myself, but it's also to share my summer with everyone else and solicit some interaction. Friendly comments and hate mail are accepted alike!
 ### Packing and Travel
 
 After a rejuvenating couple weeks spent catching up with friends and family on the east coast after quitting my previous job, I returned to Chicago to pack up my life and hop on a plane up to Alaska (departing May 8th).
@@ -58,8 +58,28 @@ Also pictured:
 * part of an old map of Denali with fieldwork sites marked that my supervisor gave me (left wall)
 * my blackout curtain (sheet of plastic) to block the late night sun and create a dark little sleeping cave.
 
+### Meeting People and Wildlife
+I had a blast meeting a bunch of folks around C-Camp Sunday afternoon/evening. Made a little key chain
+
+First, in the afternoon I got a ride with some new friends up the park road a ways and had some lucky wildlife sightings! Saw two moose, two bears, and various birds. Also saw some majestic alpine landscapes. It's otherworldly up here, a gorgeous snowy subarctic wilderness!
+
+
+![Pasted image 20260510135232.png](/img/user/Pasted%20image%2020260510135232.png)
+A snowshoe hare - there seem to be lots of these lil homies roaming around C-Camp. They're like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!
+
+![Pasted image 20260510215309.png](/img/user/Pasted%20image%2020260510215309.png)
+Moose on the loose! His antlers are growing in nicely!
+
+![Pasted image 20260510215355.png](/img/user/Pasted%20image%2020260510215355.png)
+Bear on a tear! (for underground tubers). Picture taken via a scope from across the frozen river. First grizzly bear sighting I've ever had!
+
+![Pasted image 20260510215532.png](/img/user/Pasted%20image%2020260510215532.png)
+Frozen river and snow-capped peaks!
+
+![Pasted image 20260510215517.png](/img/user/Pasted%20image%2020260510215517.png)
+Arts n crafts!
 ### What's next?
-* I will attempt to recover my luggage this evening! And hopefully also meet some folks around C-Camp
+* I will attempt to recover my luggage - not sure it's happening this evening (May 10th) but maybe tomorrow...?
 * I'll start work on Monday, will try to report back with an update after the first week with any fun discoveries and more details on the work I'll be doing!
 
 Finally, I'll leave you with some views from (a) my front porch, (b) my bedroom window, and (c) the entrance to the bathhouse
@@ -69,6 +89,3 @@ Front porch views. Center building is the rec hall while others are cabins
 The pile of plowed snow + mountain and park buildings from my bedroom window (would get ya a better picture, but it's a screened window)
 ![Pasted image 20260510135455.png](/img/user/Pasted%20image%2020260510135455.png)
 Evening views at 10pm from the entrance to the bathhouse - not bad!
-
-![Pasted image 20260510135232.png](/img/user/Pasted%20image%2020260510135232.png)
-A snowshoe hare - there seem to be lots of these lil homies roaming around C-Camp. They're like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!
