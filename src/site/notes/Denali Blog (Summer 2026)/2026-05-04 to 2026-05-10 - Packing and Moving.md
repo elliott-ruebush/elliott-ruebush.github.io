@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T21:56:11.887-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T21:57:05.501-08:00","dg-note-properties":{}}
 ---
 
 #alaska 
@@ -68,7 +68,7 @@ First, in the afternoon I got a ride with some new friends up the park road a wa
 A snowshoe hare - there seem to be lots of these lil homies roaming around C-Camp. They're like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!
 
 ![Pasted image 20260510215309.png](/img/user/Pasted%20image%2020260510215309.png)
-Moose on the loose! His antlers are growing in nicely!
+Moose on the loose! His antlers are growing in nicely! These animals actually have more negative interactions with humans than the predatory animals do. 
 
 ![Pasted image 20260510215355.png](/img/user/Pasted%20image%2020260510215355.png)
 Bear on a tear! (for underground tubers). Picture taken via a scope from across the frozen river. First grizzly bear sighting I've ever had!
