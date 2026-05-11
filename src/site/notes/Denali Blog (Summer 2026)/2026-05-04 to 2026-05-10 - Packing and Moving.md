@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T22:06:17.723-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-11T12:41:45.641-08:00","dg-note-properties":{}}
 ---
 
 #alaska 
@@ -82,6 +82,7 @@ Frozen river and snow-capped peaks!
 Arts n crafts!
 ### What's next?
 * I will attempt to recover my luggage - not sure it's happening this evening (May 10th) but maybe tomorrow...?
+	* UPDATE: As ~11:45pm on May 10th, my other luggage has arrived! A run will be had and rice will be cooked tonight!
 * I'll start work on Monday, will try to report back with an update after the first week with any fun discoveries and more details on the work I'll be doing!
 
 Finally, I'll leave you with some views from (a) my front porch, (b) my bedroom window, and (c) the entrance to the bathhouse
