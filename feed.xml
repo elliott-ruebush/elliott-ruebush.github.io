@@ -3,14 +3,14 @@
     <title>Free-range Elliott</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" ///// >
     <link href="https://elliott-ruebush.github.io" ///// >
-    <updated>2026-05-10T22:04:05Z</updated>
+    <updated>2026-05-11T05:56:57Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
                 Why not social media?
                 
             </title>
-            <updated>2026-05-10T17:40:26.611Z</updated>
+            <updated>2026-05-10T22:08:11.599Z</updated>
             <id>https://elliott-ruebush.github.io/ponderings/why-not-social-media/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#raw&quot;&gt;#raw&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#meta&quot;&gt;#meta&lt;/a&gt;&lt;/p&gt;
@@ -21,15 +21,19 @@
 &lt;h3 id=&quot;what-options-are-out-there-and-why-not-social-media&quot; tabindex=&quot;-1&quot;&gt;What options are out there and why not social media?&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Instagram&lt;/strong&gt; (and other similar social media)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;In past adventures I enjoyed keeping track of things on an Instagram account BUT I don&#39;t really like Instagram and don&#39;t wanting to support / encourage usage of big brainrot-inducing ad-tech platforms. Too many highly paid engineers and data scientists are spending their days architecting the optimal software platform (TODO LINK TO INSTAGRAM TECH BLOG) for user engagement to maximize ad revenue and thus shareholder value. Our lil brains are fighting an uphill battle trying to stop from being addicted to scrolling.
+&lt;li&gt;In past adventures I enjoyed keeping track of things on an Instagram account BUT I don&#39;t really like Instagram and don&#39;t wanting to support / encourage usage of big brainrot-inducing ad-tech platforms. Too many highly paid engineers and data scientists are spending their days architecting the optimal software platform (e.g. &lt;a href=&quot;https://about.instagram.com/blog/engineering/designing-a-constrained-exploration-system&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;2020 Instagram tech blog&lt;/a&gt;) for user engagement to maximize ad revenue and thus shareholder value. Our lil brains are fighting an uphill battle trying to stop from being addicted to scrolling.
 &lt;ul&gt;
 &lt;li&gt;I&#39;ve deleted Instagram from my phone and have quite enjoyed not using it recently. Although I must say that the LinkedIn doomscroll I accidentally found myself participating in while searching for jobs recently was almost more soulless at times.&lt;/li&gt;
-&lt;li&gt;Additionally, I have friends and family who are also not really using Instagram, so I would like to provide a platform agnostic place to see updates on my life.&lt;br /&gt;
-&lt;strong&gt;Strava&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Additionally, I have friends and family who are also not really using Instagram, so I would like to provide a platform agnostic place to see updates on my life.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Strava (my favorite social media &amp;lt;3) is fun for sharing random little updates but is not meant for blogging and not a great way to share updates more broadly. Also has the same app lock-in issue.&lt;br /&gt;
-&lt;strong&gt;Email&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Strava&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strava (my favorite social media &amp;lt;3) is fun for sharing random little updates but is not meant for blogging and not a great way to share updates more broadly. Also has the same app lock-in issue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;I plan to distribute blog-like updates (e.g. &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/&quot;&gt;Denali Blog - Intro&lt;/a&gt;) via an email list as well to notify people about new posts.&lt;/li&gt;
 &lt;li&gt;However, I want the source of truth for the content to live somewhere where it&#39;s easier to look back on in the future and is nicely organized.&lt;/li&gt;
 &lt;li&gt;Thus came the general idea of a blog, further narrowed to the digital garden concept that I had been thinking about per &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/what-is-this/&quot;&gt;What is this?&lt;/a&gt;&lt;/li&gt;
@@ -189,20 +193,22 @@ Image Source: &lt;a href=&quot;https://www.nps.gov/anch/planyourvisit/regions-in
                 Denali Blog - Intro
                 
             </title>
-            <updated>2026-05-10T22:03:20.353Z</updated>
+            <updated>2026-05-10T22:13:48.980Z</updated>
             <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt;&lt;br /&gt;
-Subscribe to my Alaska Blog&lt;/p&gt;
+Subscribe to Alaska Blog!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;COMING SOON ONCE I FIGURE THINGS OUT - Subscription for email blog updates&lt;/li&gt;
+&lt;li&gt;COMING SOON ONCE I FIGURE THINGS OUT - Subscription for email blog updates. I want to have a nice way to easily view the posts&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Hi, my name is Elliott. I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but...&lt;/p&gt;
 &lt;p&gt;...I want to contribute to Earth systems science and be closer to the mountains, so I quit and now I&#39;m spending the summer working on noise pollution modeling and monitoring for the National Park Service in Denali National Park and Preserve! &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/where-is-denali/&quot;&gt;Where is Denali?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.nps.gov/orgs/1778/index.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Natural Resources Stewardship and Science Directorate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Where does my role fall in the NPS org structure?&lt;br /&gt;
+&lt;a href=&quot;https://www.nps.gov/orgs/1778/index.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Natural Resources Stewardship and Science Directorate&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.nps.gov/orgs/1050/index.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Natural Sounds and Night Skies Division&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;As always, don&#39;t be a stranger! Feel free to shoot me a text or email response! Also let me know if you have any recs for format, things you want to hear about, etc. Part of the point of this blog is just for myself, but it&#39;s also to share my summer with friends n fam else and keep up with y&#39;all. Friendly comments and hate mail are accepted alike!&lt;/p&gt;
 
             </content>
             <link href="https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/" ///// >
@@ -257,12 +263,12 @@ Subscribe to my Alaska Blog&lt;/p&gt;
                 2026-05-04 to 2026-05-10 - Packing and Moving
                 
             </title>
-            <updated>2026-05-10T22:02:34.271Z</updated>
+            <updated>2026-05-11T05:56:11.887Z</updated>
             <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hellooooooo folks! First official blog update of the summer. See &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/ponderings/why-not-social-media/&quot;&gt;Why not social media?&lt;/a&gt; for some more context on why I&#39;m blogging. Had a fun time putting this together alongside some other pages &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/&quot;&gt;Denali Blog - Intro&lt;/a&gt; | &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/where-is-denali/&quot;&gt;Where is Denali?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;As always, don&#39;t be a stranger feel free to shoot me a text or email response!&lt;/p&gt;
+&lt;p&gt;As always, don&#39;t be a stranger feel free to shoot me a text or email response! Also let me know if you have any recs for format, things you want to hear about, etc. Part of the point of this blog is just for myself, but it&#39;s also to share my summer with everyone else and solicit some interaction. Friendly comments and hate mail are accepted alike!&lt;/p&gt;
 &lt;h3 id=&quot;packing-and-travel&quot; tabindex=&quot;-1&quot;&gt;Packing and Travel&lt;/h3&gt;
 &lt;p&gt;After a rejuvenating couple weeks spent catching up with friends and family on the east coast after quitting my previous job, I returned to Chicago to pack up my life and hop on a plane up to Alaska (departing May 8th).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510112746.png&quot; alt=&quot;Pasted image 20260510112746.png&quot; /&gt;&lt;br /&gt;
@@ -305,9 +311,22 @@ Also pictured:&lt;/p&gt;
 &lt;li&gt;part of an old map of Denali with fieldwork sites marked that my supervisor gave me (left wall)&lt;/li&gt;
 &lt;li&gt;my blackout curtain (sheet of plastic) to block the late night sun and create a dark little sleeping cave.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&quot;meeting-people-and-wildlife&quot; tabindex=&quot;-1&quot;&gt;Meeting People and Wildlife&lt;/h3&gt;
+&lt;p&gt;I had a blast meeting a bunch of folks around C-Camp Sunday afternoon/evening. Made a little key chain&lt;/p&gt;
+&lt;p&gt;First, in the afternoon I got a ride with some new friends up the park road a ways and had some lucky wildlife sightings! Saw two moose, two bears, and various birds. Also saw some majestic alpine landscapes. It&#39;s otherworldly up here, a gorgeous snowy subarctic wilderness!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510135232.png&quot; alt=&quot;Pasted image 20260510135232.png&quot; /&gt;&lt;br /&gt;
+A snowshoe hare - there seem to be lots of these lil homies roaming around C-Camp. They&#39;re like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510215309.png&quot; alt=&quot;Pasted image 20260510215309.png&quot; /&gt;&lt;br /&gt;
+Moose on the loose! His antlers are growing in nicely!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510215355.png&quot; alt=&quot;Pasted image 20260510215355.png&quot; /&gt;&lt;br /&gt;
+Bear on a tear! (for underground tubers). Picture taken via a scope from across the frozen river. First grizzly bear sighting I&#39;ve ever had!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510215532.png&quot; alt=&quot;Pasted image 20260510215532.png&quot; /&gt;&lt;br /&gt;
+Frozen river and snow-capped peaks!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510215517.png&quot; alt=&quot;Pasted image 20260510215517.png&quot; /&gt;&lt;br /&gt;
+Arts n crafts!&lt;/p&gt;
 &lt;h3 id=&quot;what-s-next&quot; tabindex=&quot;-1&quot;&gt;What&#39;s next?&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;I will attempt to recover my luggage this evening! And hopefully also meet some folks around C-Camp&lt;/li&gt;
+&lt;li&gt;I will attempt to recover my luggage - not sure it&#39;s happening this evening (May 10th) but maybe tomorrow...?&lt;/li&gt;
 &lt;li&gt;I&#39;ll start work on Monday, will try to report back with an update after the first week with any fun discoveries and more details on the work I&#39;ll be doing!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Finally, I&#39;ll leave you with some views from (a) my front porch, (b) my bedroom window, and (c) the entrance to the bathhouse&lt;br /&gt;
@@ -317,8 +336,6 @@ Front porch views. Center building is the rec hall while others are cabins&lt;br
 The pile of plowed snow + mountain and park buildings from my bedroom window (would get ya a better picture, but it&#39;s a screened window)&lt;br /&gt;
 &lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510135455.png&quot; alt=&quot;Pasted image 20260510135455.png&quot; /&gt;&lt;br /&gt;
 Evening views at 10pm from the entrance to the bathhouse - not bad!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260510135232.png&quot; alt=&quot;Pasted image 20260510135232.png&quot; /&gt;&lt;br /&gt;
-A snowshoe hare - there seem to be lots of these lil homies roaming around C-Camp. They&#39;re like a heavier duty (thicker fur and tougher looking legs) version of the rabbits back home!&lt;/p&gt;
 
             </content>
             <link href="https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/" ///// >
