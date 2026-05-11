@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T22:05:31.713-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-10T22:06:17.723-08:00","dg-note-properties":{}}
 ---
 
 #alaska 
 
 Hellooooooo folks! First official blog update of the summer. See [[Ponderings/Why not social media?\|Why not social media?]] for some more context on why I'm blogging. Had a fun time putting this together alongside some other pages [[Denali Blog (Summer 2026)/Denali Blog - Intro\|Denali Blog - Intro]] | [[Denali Blog (Summer 2026)/Where is Denali?\|Where is Denali?]]
 
-As always, don't be a stranger feel free to shoot me a text or email response! Also let me know if you have any recs for format, things you want to hear about, etc. Part of the point of this blog is just for myself, but it's also to share my summer with everyone else and solicit some interaction. Friendly comments and hate mail are accepted alike!
+As always, don't be a stranger! Feel free to shoot me a text or email response! Also let me know if you have any recs for format, things you want to hear about, etc. Part of the point of this blog is just for myself, but it's also to share my summer with friends n fam else and keep up with y'all. Friendly comments and hate mail are accepted alike!
 ### Packing and Travel
 
 After a rejuvenating couple weeks spent catching up with friends and family on the east coast after quitting my previous job, I returned to Chicago to pack up my life and hop on a plane up to Alaska (departing May 8th).
