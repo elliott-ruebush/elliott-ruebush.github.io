@@ -3,7 +3,7 @@
     <title>Free-range Elliott</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" ///// >
     <link href="https://elliott-ruebush.github.io" ///// >
-    <updated>2026-05-16T06:02:02Z</updated>
+    <updated>2026-05-16T06:53:42Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
@@ -193,22 +193,12 @@ Image Source: &lt;a href=&quot;https://www.nps.gov/anch/planyourvisit/regions-in
                 Denali Blog - Intro
                 
             </title>
-            <updated>2026-05-16T05:59:35.560Z</updated>
+            <updated>2026-05-16T06:23:51.468Z</updated>
             <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/denali-blog-intro/</id>
             <content type="html">
-                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt;&lt;br /&gt;
-Subscribe to Alaska Blog!&lt;/p&gt;
-&lt;form action=&quot;https://buttondown.com/api/emails/embed-subscribe/elliottr&quot; method=&quot;post&quot; class=&quot;embeddable-buttondown-form&quot;&gt;
-  &lt;label for=&quot;bd-email&quot;&gt;Enter your email&lt;/label&gt;
-  &lt;input type=&quot;email&quot; name=&quot;email&quot; id=&quot;bd-email&quot; /&gt;
-  &lt;input type=&quot;submit&quot; value=&quot;Subscribe&quot; /&gt;
-  &lt;p&gt;
-    &lt;a href=&quot;https://buttondown.com/refer/elliottr&quot; target=&quot;_blank&quot;&gt;
-      Powered by Buttondown.
-    &lt;/a&gt;
-  &lt;/p&gt;
-&lt;/form&gt;
-&lt;p&gt;Hi, my name is Elliott. I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but...&lt;/p&gt;
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;a-href-https-buttondown-com-elliottr-target-blank-class-external-link-subscribe-to-alaska-blog-a&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://buttondown.com/elliottr&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Subscribe to Alaska Blog!&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Hi, I&#39;m Elliott! I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but...&lt;/p&gt;
 &lt;p&gt;...I want to contribute to Earth systems science and be closer to the mountains, so I quit and now I&#39;m spending the summer working on noise pollution modeling and monitoring for the National Park Service in Denali National Park and Preserve! &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/where-is-denali/&quot;&gt;Where is Denali?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Where does my role fall in the NPS org structure?&lt;br /&gt;
 &lt;a href=&quot;https://www.nps.gov/orgs/1778/index.htm&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Natural Resources Stewardship and Science Directorate&lt;/a&gt;&lt;/p&gt;
