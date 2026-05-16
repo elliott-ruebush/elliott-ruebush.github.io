@@ -1,10 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-10T14:13:48.980-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-15T21:59:35.560-08:00","dg-note-properties":{}}
 ---
 
 #alaska
 Subscribe to Alaska Blog!
-* COMING SOON ONCE I FIGURE THINGS OUT - Subscription for email blog updates. I want to have a nice way to easily view the posts
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/elliottr"
+  method="post"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/elliottr" target="_blank">
+      Powered by Buttondown.
+    </a>
+  </p>
+</form>
 
 Hi, my name is Elliott. I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but... 
 

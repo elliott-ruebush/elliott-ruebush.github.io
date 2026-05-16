@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/where-is-denali/","created":"2026-05-10T09:44:14.400-08:00","updated":"2026-05-10T14:02:27.694-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/where-is-denali/","created":"2026-05-10T09:44:14.400-08:00","updated":"2026-05-15T22:00:45.229-08:00","dg-note-properties":{}}
 ---
 
 #alaska 
@@ -11,7 +11,7 @@ Instead, I flew from Chicago to Fairbanks (~6.5hrs) and then got a car ride down
 Image Source: Google Maps
 ### Where is Denali?
 Denali National Park and Preserve is in the interior of Alaska, about a 4 hour drive from Anchorage on the coast.
-<a href="https://www.researchgate.net/figure/Location-of-Denali-National-Park-and-Preserve-DENA-in-Alaska_fig1_280311351"><img src="https://www.researchgate.net/profile/Santosh-Panda-9/publication/280311351/figure/fig1/AS:432098969427978@1480031830425/Location-of-Denali-National-Park-and-Preserve-DENA-in-Alaska.png" alt="Location of Denali National Park and Preserve (DENA) in Alaska."/></a>
+![Pasted image 20260515220043.png](/img/user/Pasted%20image%2020260515220043.png)
 High-resolution permafrost modeling in Denali National Park and Preserve - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Location-of-Denali-National-Park-and-Preserve-DENA-in-Alaska_fig1_280311351 [accessed 10 May 2026]
 
 ### How big is Denali?
