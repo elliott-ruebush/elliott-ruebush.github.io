@@ -1,26 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-15T21:59:35.560-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-15T22:23:51.468-08:00","dg-note-properties":{}}
 ---
 
 #alaska
-Subscribe to Alaska Blog!
+## [Subscribe to Alaska Blog!](https://buttondown.com/elliottr)
 
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/elliottr"
-  method="post"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/elliottr" target="_blank">
-      Powered by Buttondown.
-    </a>
-  </p>
-</form>
-
-Hi, my name is Elliott. I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but... 
+Hi, I'm Elliott! I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but... 
 
 ...I want to contribute to Earth systems science and be closer to the mountains, so I quit and now I'm spending the summer working on noise pollution modeling and monitoring for the National Park Service in Denali National Park and Preserve! [[Denali Blog (Summer 2026)/Where is Denali?\|Where is Denali?]]
 
