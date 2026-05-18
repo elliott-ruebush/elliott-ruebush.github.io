@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-15T22:23:51.468-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-17T09:58:43.665-08:00","dg-note-properties":{}}
 ---
 
 #alaska
@@ -7,7 +7,7 @@
 
 Hi, I'm Elliott! I was a software engineer at a quant finance firm writing options market risk monitoring systems in Chicago. The job was good and the city was great but... 
 
-...I want to contribute to Earth systems science and be closer to the mountains, so I quit and now I'm spending the summer working on noise pollution modeling and monitoring for the National Park Service in Denali National Park and Preserve! [[Denali Blog (Summer 2026)/Where is Denali?\|Where is Denali?]]
+...I want to contribute to Earth systems science and be closer to the mountains, so I left my old job and now I'm spending the summer working on [soundscape](https://en.wikipedia.org/wiki/Soundscape) monitoring and modeling for the National Park Service in Denali National Park and Preserve! [[Denali Blog (Summer 2026)/Where is Denali?\|Where is Denali?]]
 
 Where does my role fall in the NPS org structure?
 [Natural Resources Stewardship and Science Directorate](https://www.nps.gov/orgs/1778/index.htm)
