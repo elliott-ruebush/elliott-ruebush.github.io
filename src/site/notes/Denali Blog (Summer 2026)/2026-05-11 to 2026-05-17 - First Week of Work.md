@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T12:45:29.362-08:00","updated":"2026-05-17T21:12:34.376-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T12:45:29.362-08:00","updated":"2026-05-17T21:18:09.627-08:00","dg-note-properties":{}}
 ---
 
 #alaska #acoustics #hiking
@@ -51,9 +51,9 @@ https://doi.org/10.1016/j.jenvman.2023.119201.
 #### Bear Safety Training!
 Had a super cool bear safety training put on by the wildlife management folks this week. I'll preface this by deferring to the [Denali Bear Safety page](https://www.nps.gov/dena/planyourvisit/bear-safety.htm), but will share a few quick notes on safety here in the park. First and foremost, prevention is key! Store your food and smelly items properly in bear resistant food containers. Make your presence known. Be alert to your surroundings.
 
-For encounters, the philosophy here emphasizes choosing how to react based on the behavior of the bear rather than the species (both grizzlies and black bears are present in Denali). A major distinction is between a defensive bear (feels threatened by you, should be addressed with calming behavior) and a curious/non-defensive bear (wants to learn more about you, should be deterred with aggressive behavior). In either case, you should have bear spray (most effective bear deterrent!) ready to deploy if they get too close. See the above page for more details.
+For encounters, the philosophy here emphasizes choosing how to react based on the behavior of the bear rather than the species (both grizzlies and black bears are present in Denali). A major distinction is between a defensive bear (feels threatened by you, should be addressed with calming behavior) and a curious/non-defensive bear (wants to learn more about you, should be deterred with aggressive behavior). In either case, you should have bear spray (most effective bear deterrent!) ready to deploy if they get too close. See the above page for more details. And remember, don't spray your bear spray in your own tent!
 
-Also we got to deploy inert bear spray which was a great practice activity!
+Also we got to deploy inert bear spray which was a great practice activity! 
 
 #### Hiking
 Took a few different wanders over the weekend!
@@ -86,11 +86,10 @@ Monstrous (but still sluggish fortunately) early-season mosquitoes (apparently t
 ![Pasted image 20260517170649.png](/img/user/Pasted%20image%2020260517170649.png)
 Moose (not) on the loose? The one seemed a bit confused about the construction fencing (which to be fair I'm not sure what exactly it's there for either) (image taken from my front porch!)
 
-Roadside Ptarmigan (they're changing coat colors now - from white winter coats to brown summer ones) (clipped from a video which is why it's so grainy)
 ![Pasted image 20260517205352.png](/img/user/Pasted%20image%2020260517205352.png)
+Roadside Ptarmigan (they're changing coat colors now - from white winter coats to brown summer ones) (clipped from a video which is why it's so grainy)
 
-Also learned about the varied thrush call! It's like a short little whistley sound with all the energy into a similar frequency that can sound quite piercing.
-
+I also learned about the varied thrush call! It's like a short little whistley sound with all the energy into a similar frequency that can sound quite piercing.
 
 ### Alpenglow
 And finally, I'll leave you with a quick pic of one of my favorite mountain phenomenon, a swath of rosy [alpenglow](https://windy.app/textbook/alpenglow-alpine-glow.html) on the snowy peaks as seen around 11pm from C-Camp on my way to bed. There was a beautiful pink tone reflecting off the clouds in the direction of the sunset as well.
