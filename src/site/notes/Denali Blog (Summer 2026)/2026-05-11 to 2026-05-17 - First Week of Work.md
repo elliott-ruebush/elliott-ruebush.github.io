@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T12:45:29.362-08:00","updated":"2026-05-17T21:18:09.627-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T12:45:29.362-08:00","updated":"2026-05-17T21:20:49.184-08:00","dg-note-properties":{}}
 ---
 
 #alaska #acoustics #hiking
@@ -7,7 +7,7 @@
 I'm back after a busy first week! I also have an email newsletter option for y'all now! [Subscribe to Alaska Blog!](https://buttondown.com/elliottr)
 
 ### An arduous and not-at-all-scenic commute to work!!!
-First off, how's the commute? Well, let me take ya along for it. It's a lovely ~5 minutes through some woods and over Rock Creek (which conveniently offers a great view of some mountains). It looks something like the following.
+First off, how's the commute? Well, let me take ya along for it. It's a lovely ~5-10 minutes through some woods and over Rock Creek (which conveniently offers a great view of some mountains). It looks something like the following.
 ![Pasted image 20260517162053.png](/img/user/Pasted%20image%2020260517162053.png)
 ![Pasted image 20260517100805.png](/img/user/Pasted%20image%2020260517100805.png)
 ![Pasted image 20260517100859.png](/img/user/Pasted%20image%2020260517100859.png)
