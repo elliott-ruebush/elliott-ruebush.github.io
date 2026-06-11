@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T12:45:29.362-08:00","updated":"2026-05-17T21:20:49.184-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T12:45:29.362-08:00","updated":"2026-06-10T23:17:24.540-08:00","dg-note-properties":{}}
 ---
 
 #alaska #acoustics #hiking
+Previous post: [[Denali Blog (Summer 2026)/2026-05-04 to 2026-05-10 - Packing and Moving\|2026-05-04 to 2026-05-10 - Packing and Moving]]
+Next post: [[Denali Blog (Summer 2026)/2026-05-11 to 2026-05-17 - First Week of Work\|2026-05-11 to 2026-05-17 - First Week of Work]]
 
 I'm back after a busy first week! I also have an email newsletter option for y'all now! [Subscribe to Alaska Blog!](https://buttondown.com/elliottr)
 

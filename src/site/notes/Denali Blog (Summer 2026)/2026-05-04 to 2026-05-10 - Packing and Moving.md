@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-05-11T12:41:45.641-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-06-10T23:17:57.623-08:00","dg-note-properties":{}}
 ---
 
 #alaska 
+
+Previous post: [[Denali Blog (Summer 2026)/Denali Blog - Intro\|Denali Blog - Intro]]
+Next post: [[Denali Blog (Summer 2026)/2026-05-11 to 2026-05-17 - First Week of Work\|2026-05-11 to 2026-05-17 - First Week of Work]]
 
 Hellooooooo folks! First official blog update of the summer. See [[Ponderings/Why not social media?\|Why not social media?]] for some more context on why I'm blogging. Had a fun time putting this together alongside some other pages [[Denali Blog (Summer 2026)/Denali Blog - Intro\|Denali Blog - Intro]] | [[Denali Blog (Summer 2026)/Where is Denali?\|Where is Denali?]]
 
