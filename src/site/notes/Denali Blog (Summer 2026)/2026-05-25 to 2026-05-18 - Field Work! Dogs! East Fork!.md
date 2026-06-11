@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-25-to-2026-05-18-field-work-dogs-east-fork/","created":"2026-05-24T13:39:39.135-08:00","updated":"2026-06-07T19:13:56.967-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-25-to-2026-05-18-field-work-dogs-east-fork/","created":"2026-05-24T13:39:39.135-08:00","updated":"2026-06-07T19:31:27.700-08:00","dg-note-properties":{}}
 ---
 
 #alaska #acoustics #snow #plants
@@ -64,6 +64,6 @@ The landscapes up high may still be snowy, but down low spring was slowly being 
 ![Pasted image 20260607190906.png](/img/user/Pasted%20image%2020260607190906.png)
 This purple little beauty is a Pasque Flower (*Anemone patens*). You can apparently find Pasque Flowers down across the lower 48 as well, but I love this purple variety and think it's super cool to see them popping out of barren soil on Southern aspects before just about anything else is flowering. Fun fact: the fuzziness on the stem acts as a cozy lil' sweater and helps keep them warmer in the cold spring temps.
 
-Later that day, we had a classic Memorial Day BBQ back at C-Camp to start off a sweet week of evening fun!
+Later that day, we had a classic Memorial Day BBQ back at C-Camp to start off a sweet week!
 
 Stay tuned for the next (retroactive) update! Hopefully dropping soon.
