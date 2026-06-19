@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-18T22:22:57.461-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-18T22:23:11.285-08:00","dg-note-properties":{}}
 ---
 
 #alaska #whitewater #packraft #plants #moose
@@ -15,7 +15,7 @@ Before using them for work, we had to get trained up. Fortunately one of the peo
 I'm very seriously considering just going for it and getting a packrafting setup now. Getting out on whitewater again for the first time in years was such a blast and the packrafts are SO much more portable than a hardshell kayak. It's just a lot of gear to acquire... but could be a great activity to get more into over the season.
 ### A Sampling of our wildflowers
 The flowers are showing out in force now! The same patch of ground goes from snowy to bare to green to multicolored as the summer arrives and it's been really interesting to observe. We had a few of the early season ones popping up last month, but now that it's getting to be properly summer there are lots more varieties. I've included a smattering of photos (some mine, some from others) and what is hopefully(?) the correct identification. One of my goals is to actually be able to recognize some of the plants and animals. I've got a few birdsongs down too. Most recently I became well acquainted with the Swainson's Thrush singing outside my window repeatedly at midnight (that darned sun never sets so the birds don't know when to sleep either).
-  
+
 ![Pasted image 20260618215849.png](/img/user/Pasted%20image%2020260618215849.png)
 Arctic Lupine (*Lupinus Arcticus*)
 Super fun design and color with whoever designed this one! Cool af. This lil dude is on my way to the bathroom.
@@ -24,11 +24,13 @@ Super fun design and color with whoever designed this one! Cool af. This lil dud
 ![Pasted image 20260618215047.png](/img/user/Pasted%20image%2020260618215047.png)
 Calypso Orchid (*Calypso Bulbosa*)
 Apparently kinda rare, I sadly can't claim credit for the pic but fun flower!
-  
+
+
 ![Pasted image 20260618220045.png](/img/user/Pasted%20image%2020260618220045.png)
 Bluebells (*Mertensia Paniculata*)
 Tastes like cucumber! These ones are edible. I have tried them and that description isn't actually too far off! I'm thinking about trying to go collect some one of these days for a snack or to try making a dish with them.
-  
+
+
 ![Pasted image 20260618215156.png](/img/user/Pasted%20image%2020260618215156.png)
 Nakedstem Wallflower (*Parrya Nudicaulis*)
 Fun pink petal arrangement!
