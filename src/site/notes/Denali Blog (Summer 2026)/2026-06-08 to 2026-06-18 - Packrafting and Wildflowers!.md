@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-18T22:23:11.285-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-18T22:35:54.029-08:00","dg-note-properties":{}}
 ---
 
 #alaska #whitewater #packraft #plants #moose
@@ -13,7 +13,7 @@ Had a pretty sweet opportunity to do some training in a packraft for work! What 
 Before using them for work, we had to get trained up. Fortunately one of the people who works here at Denali is a pretty rad paddler and certified instructor, so we were able to get some great coaching. Had the chance to run a fun section of rapids on the Nenana River (river in the picture above \[rapids not pictured\]) on our second day of training.
 
 I'm very seriously considering just going for it and getting a packrafting setup now. Getting out on whitewater again for the first time in years was such a blast and the packrafts are SO much more portable than a hardshell kayak. It's just a lot of gear to acquire... but could be a great activity to get more into over the season.
-### A Sampling of our wildflowers
+### A sampling of our wildflowers
 The flowers are showing out in force now! The same patch of ground goes from snowy to bare to green to multicolored as the summer arrives and it's been really interesting to observe. We had a few of the early season ones popping up last month, but now that it's getting to be properly summer there are lots more varieties. I've included a smattering of photos (some mine, some from others) and what is hopefully(?) the correct identification. One of my goals is to actually be able to recognize some of the plants and animals. I've got a few birdsongs down too. Most recently I became well acquainted with the Swainson's Thrush singing outside my window repeatedly at midnight (that darned sun never sets so the birds don't know when to sleep either).
 
 ![Pasted image 20260618215849.png](/img/user/Pasted%20image%2020260618215849.png)
@@ -47,7 +47,7 @@ Sadly the pasque flowers along the Triple Lakes Trail have passed their peak and
 Shortly after this photo was taken the mama threw her baby off into the deep end and led it across some decently swift moving water that was deeper than the calf's height. Tough love to learn river crossings I guess?
 
 ![Pasted image 20260618215359.png](/img/user/Pasted%20image%2020260618215359.png)
-Bull moose on the browse right outside my window. Lots of green goods to eat now! I guess It's like when you were out camping for a while and first get to have a fresh fruit or vegetable again.
+Bull moose on the browse right outside my window. Lots of green goods to eat now! I guess it's like when you were out camping for a while and first get to have a fresh fruit or vegetable again.
 
 ![Pasted image 20260618215529.png](/img/user/Pasted%20image%2020260618215529.png)
 A mom and not one, but TWO moose calves. They've been frequenting the visitor center area and soliciting lots of oohs and aahs while also making it tougher to keep visitors safe.
@@ -56,6 +56,6 @@ A mom and not one, but TWO moose calves. They've been frequenting the visitor ce
 ![Pasted image 20260618220113.png](/img/user/Pasted%20image%2020260618220113.png)
 To end, here's some alpenglow from around midnight last Saturday!
 
-The solstice is this weekend, and we truly have the midnight sun that doesn't set at the moment. The temps are warmer, the days are neverending, and its truly a unique way to experience the season. I could use a touch more sleep though...
+The solstice is this weekend, and we truly have the midnight sun that doesn't set at the moment. The temps are warmer, the days are neverending, and it's truly a unique way to experience the season. I could use a touch more sleep though...
 
 Anyways, hope y'all have a lovely weekend! Get out there and celebrate summer!
