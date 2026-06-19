@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-18T22:20:23.079-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-18T22:22:57.461-08:00","dg-note-properties":{}}
 ---
 
 #alaska #whitewater #packraft #plants #moose
@@ -33,12 +33,12 @@ Tastes like cucumber! These ones are edible. I have tried them and that descript
 Nakedstem Wallflower (*Parrya Nudicaulis*)
 Fun pink petal arrangement!
 
+
 ![Pasted image 20260618220001.png](/img/user/Pasted%20image%2020260618220001.png)
 Dwarf dogwood (*Cornus Canadensis*)
 Right outside my door! Had to snap a quick pic
 
 Sadly the pasque flowers along the Triple Lakes Trail have passed their peak and are a bit grey these days.
-**
 
 ### Moose and small moose!
 ![Pasted image 20260618215231.png](/img/user/Pasted%20image%2020260618215231.png)
