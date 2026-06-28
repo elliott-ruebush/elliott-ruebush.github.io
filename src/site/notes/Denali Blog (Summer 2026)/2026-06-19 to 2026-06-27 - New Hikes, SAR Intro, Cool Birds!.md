@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T15:23:10.849-08:00","updated":"2026-06-27T23:40:33.140-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T15:23:10.849-08:00","updated":"2026-06-27T23:43:33.672-08:00","dg-note-properties":{}}
 ---
 
 #alaska #birds #hiking #denali 
@@ -52,5 +52,5 @@ It was a great opportunity to get some more insight into SAR operations and left
 
 ### Pasta Night!
 ![Pasted image 20260627233405.png](/img/user/Pasted%20image%2020260627233405.png)
-I'm typing this while procrastinating going to bed post-pasta night (that darned light still messes with me)! I baked up some cookies and foccacia + heated up a bunch of pasta and sauce to contribute to our latest social gathering in C-Camp. It's such a great experience living together with a bunch of friendly folks in this little community. I'm also loving having the time, energy, and motivation to help organize more social events! The vibes are good 🤙
+I'm typing this while procrastinating going to bed post-pasta night (that darned midnight sun still messes with me)! I baked up some cookies and foccacia + heated up a bunch of pasta and sauce to contribute to our latest social gathering in C-Camp. It's such a great experience living together with a bunch of friendly folks in this little community. I'm also loving having the time, energy, and motivation to contribute to more social events! The vibes are good 🤙
 
