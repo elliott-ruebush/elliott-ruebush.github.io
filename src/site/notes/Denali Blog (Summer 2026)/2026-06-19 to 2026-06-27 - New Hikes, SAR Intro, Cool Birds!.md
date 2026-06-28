@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T15:23:10.849-08:00","updated":"2026-06-27T23:37:21.380-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T15:23:10.849-08:00","updated":"2026-06-27T23:37:53.030-08:00","dg-note-properties":{}}
 ---
 
 #alaska #birds #hiking 
@@ -32,7 +32,7 @@ Fortunately, the Savage Alpine Trail was on the sunny side of the valley on this
 View across the valley featuring sunny peaks out in the distance and a nice rain cloud floating over one of the near foothills.
 
 ![Pasted image 20260627230005.png](/img/user/Pasted%20image%2020260627230005.png)
-Another cool wildflower - Moss Campion (_**Silene acaulis**_) which sprouts these fun pink flowers out of mossy carpets.
+Another cool wildflower - Moss Campion (_Silene acaulis_) which sprouts these fun pink flowers out of mossy carpets.
 
 ### Wildlife
 ![Pasted image 20260627230307.png](/img/user/Pasted%20image%2020260627230307.png)
