@@ -8,6 +8,7 @@ import urllib.request
 import datetime
 import subprocess
 from pathlib import Path
+from urllib.parse import quote
 
 # Detect repository root relative to this script
 REPO_ROOT = Path(__file__).parent.parent
@@ -74,12 +75,21 @@ def strip_frontmatter(content: str) -> str:
 def strip_tags(content: str) -> str:
     return re.sub(r"(^|\s)#[^\s!@#$%^&*()=+\.,\[{\]};:'\"?><]+", "", content).strip()
 
+def _encode_img_path(path: str) -> str:
+    if "%" in path:
+        return path
+    return quote(path, safe="/")
+
 def convert_images(content: str, base_url: str) -> str:
     def _replace_wiki(match: re.Match) -> str:
         name = match.group(1).split("|")[0]
-        return f"![{name}]({base_url.rstrip('/')}/img/user/{name})"
+        encoded = _encode_img_path(f"/img/user/{name}")
+        return f"![{name}]({base_url.rstrip('/')}{encoded})"
     content = re.sub(r"!\[\[(.*?)\]\]", _replace_wiki, content)
-    content = re.sub(r"!\[(.*?)\]\((/.*?)\)", f"![\\1]({base_url.rstrip('/')}\\2)", content)
+    def _replace_standard(match: re.Match) -> str:
+        alt, path = match.group(1), match.group(2)
+        return f"![{alt}]({base_url.rstrip('/')}{_encode_img_path(path)})"
+    content = re.sub(r"!\[(.*?)\]\((/.*?)\)", _replace_standard, content)
     return content
 
 def convert_wikilinks(content: str, base_url: str, permalink_map: dict) -> str:
@@ -111,6 +121,9 @@ def convert_callouts(content: str) -> str:
 def _is_list_item(line: str) -> bool:
     return bool(re.match(r"^([\*\-] |\d+\. )", line))
 
+def _is_header(line: str) -> bool:
+    return bool(re.match(r"^#{1,6} ", line))
+
 def _is_structural_line(line: str) -> bool:
     return bool(re.match(r"^([\*\-] |\d+\. |#{1,6} |>|!\[|```)", line))
 
@@ -120,6 +133,9 @@ def normalize_markdown_for_email(content: str) -> str:
     out: list[str] = []
 
     for i, line in enumerate(lines):
+        if _is_header(line) and out and out[-1].strip() and not _is_structural_line(out[-1]):
+            out.append("")
+
         if _is_list_item(line) and out and out[-1].strip() and not _is_structural_line(out[-1]):
             out.append("")
 
@@ -127,6 +143,9 @@ def normalize_markdown_for_email(content: str) -> str:
             line = "- " + line[2:]
 
         out.append(line)
+
+        if _is_header(line) and i + 1 < len(lines) and lines[i + 1].strip() and not _is_header(lines[i + 1]):
+            out.append("")
 
         if re.match(r"^!\[.*\]\(.*\)\s*$", line) and i + 1 < len(lines) and lines[i + 1].strip():
             out.append("")
