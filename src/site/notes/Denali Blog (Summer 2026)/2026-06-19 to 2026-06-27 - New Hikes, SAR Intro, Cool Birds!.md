@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T15:23:10.849-08:00","updated":"2026-06-27T23:37:53.030-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T15:23:10.849-08:00","updated":"2026-06-27T23:40:33.140-08:00","dg-note-properties":{}}
 ---
 
-#alaska #birds #hiking 
+#alaska #birds #hiking #denali 
 Previous post: [[Denali Blog (Summer 2026)/2026-06-08 to 2026-06-18 - Packrafting and Wildflowers!\|2026-06-08 to 2026-06-18 - Packrafting and Wildflowers!]]
 Next post: WIP
 
@@ -45,7 +45,6 @@ Ground Squirrels! They're everywhere on Savage Alpine and are definitely pretty 
 ![Pasted image 20260627231656.png](/img/user/Pasted%20image%2020260627231656.png)
 Another cool predatory bird! I saw this great-horned owl swoop into a tree in the middle of our cabins and then proceed to hang out there for a while. Photo taken through the lens of my binoculars with my camera which was a very delicate process, but turned out decently.
 
-
 ### Intro to SAR
 I had the opportunity to spend a day learning about how search and rescue (SAR) works here in Denali. We spent the first half of the day in classroom sessions (got to see the CalTopo setup for SAR which is super cool as it lets the search leaders see real time tracks of all the folks on the SAR team) and doing litter carry practice (they've got a fancy litter with a wheel!), before doing a simulated ground search in the afternoon. The search featured some light bushwhacking and lots of yelling for our mysterious missing person.
 
@@ -53,5 +52,5 @@ It was a great opportunity to get some more insight into SAR operations and left
 
 ### Pasta Night!
 ![Pasted image 20260627233405.png](/img/user/Pasted%20image%2020260627233405.png)
-I'm typing this while procrastinating going to bed post-pasta night! I baked up some cookies and foccacia + heated up a bunch of pasta and sauce to contribute to our latest social gathering in C-Camp. It's such a great experience living together with a bunch of friendly folks in our little community. I'm also loving having the time, energy, and motivation to help organize more social events! The vibes are good 🤙
+I'm typing this while procrastinating going to bed post-pasta night (that darned light still messes with me)! I baked up some cookies and foccacia + heated up a bunch of pasta and sauce to contribute to our latest social gathering in C-Camp. It's such a great experience living together with a bunch of friendly folks in this little community. I'm also loving having the time, energy, and motivation to help organize more social events! The vibes are good 🤙
 
