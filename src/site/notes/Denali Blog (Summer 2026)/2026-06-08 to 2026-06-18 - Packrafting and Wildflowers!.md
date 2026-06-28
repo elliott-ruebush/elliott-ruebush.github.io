@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-18T22:35:54.029-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-27T15:24:31.695-08:00","dg-note-properties":{}}
 ---
 
 #alaska #whitewater #packraft #plants #moose
 Previous post: [[Denali Blog (Summer 2026)/2026-05-26 to 2026-06-07 - The MOUNTAIN!\|2026-05-26 to 2026-06-07 - The MOUNTAIN!]]
-Next post: WIP
+Next post: [[Denali Blog (Summer 2026)/2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!\|2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!]]
 
 ### Packrafting is kinda sick!
 ![Pasted image 20260618220142.png](/img/user/Pasted%20image%2020260618220142.png)
