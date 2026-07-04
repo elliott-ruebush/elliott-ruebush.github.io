@@ -3,7 +3,7 @@
     <title>Free-range Elliott</title>
     <link href="https://elliott-ruebush.github.io/feed.xml" rel="self" ///// >
     <link href="https://elliott-ruebush.github.io" ///// >
-    <updated>2026-06-28T07:55:21Z</updated>
+    <updated>2026-07-04T04:00:28Z</updated>
     <id>https://elliott-ruebush.github.io</id>
         <entry>
             <title>
@@ -140,6 +140,46 @@ My Chicago roommate gave me the beautiful gift of a personalized list of movie r
         </entry>
         <entry>
             <title>
+                Types of Fun
+                
+            </title>
+            <updated>2026-07-03T04:27:58.183Z</updated>
+            <id>https://elliott-ruebush.github.io/misc/types-of-fun/</id>
+            <content type="html">
+                &lt;p&gt;I&#39;m not 100% sure where I first heard about the different types of fun, but I think it might&#39;ve been while trip leading for the UMD Adventure Program in college.&lt;/p&gt;
+&lt;p&gt;Anyways, I now very regularly use these descriptions of fun for describing activities. I do love me some good type II fun from time to time.&lt;/p&gt;
+&lt;p&gt;For me some clear examples are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Type I: skiing fresh powder on a good storm day with friends. Lots of whoops and wahoos&lt;/li&gt;
+&lt;li&gt;Type II: a big long run or big day of hiking where it&#39;s a bit of a sufferfest partway in, but afterwords you&#39;re like &amp;quot;heck yeah I did the thing&amp;quot;. Also definitely some days of backpacking depending on how I sleep&lt;/li&gt;
+&lt;li&gt;Type III: luckily haven&#39;t had too much of this, probably mainly applies to the &amp;quot;wow that was really sketchy and dumb&amp;quot; kind of situations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think the below image is a good lil&#39; summary too&lt;br /&gt;
+&lt;a href=&quot;https://sketchplanations.com/the-fun-scale&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://sketchplanations.com/the-fun-scale&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260702212229.png&quot; alt=&quot;Pasted image 20260702212229.png&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/misc/types-of-fun/" ///// >
+        </entry>
+        <entry>
+            <title>
+                CalTopo
+                
+            </title>
+            <updated>2026-07-03T02:16:28.372Z</updated>
+            <id>https://elliott-ruebush.github.io/misc/cal-topo/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#gis&quot;&gt;#gis&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#backcountry&quot;&gt;#backcountry&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#hiking&quot;&gt;#hiking&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;what-is-cal-topo&quot; tabindex=&quot;-1&quot;&gt;What is CalTopo?&lt;/h3&gt;
+&lt;p&gt;CalTopo is a nifty piece of mapping software that lets you view various tons of different maps, build tracks, mark waypoints, and generally makes precise navigation in the backcountry easier.&lt;/p&gt;
+&lt;p&gt;It&#39;s used by folks at avalanche centers, SAR teams (like Denali&#39;s!), and by all sorts of backcountry recreationists. I&#39;ve found it to be a great tool for scouting out routes, navigating under poor visibility conditions, and generally keeping oneself on track in unfamiliar terrain.&lt;/p&gt;
+&lt;p&gt;It&#39;s not magic, and isn&#39;t a replacement for planning and experience actually ON the ground somewhere, but it&#39;s a very powerful tool and is just fun to play around with sometimes too! You can dream up all sorts of routes and see how feasible (or heinously unenjoyable) they might be.&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/misc/cal-topo/" ///// >
+        </entry>
+        <entry>
+            <title>
                 Home
                 
             </title>
@@ -257,15 +297,92 @@ Image Source: &lt;a href=&quot;https://www.nps.gov/anch/planyourvisit/regions-in
         </entry>
         <entry>
             <title>
+                2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip)
+                
+            </title>
+            <updated>2026-07-04T03:57:09.536Z</updated>
+            <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/</id>
+            <content type="html">
+                &lt;p&gt;Previous post: &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/&quot;&gt;2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!&lt;/a&gt;&lt;br /&gt;
+Next post: WIP&lt;/p&gt;
+&lt;p&gt;Well, all the pictures I took are gone along with my phone, read on for more details on how that happened! I&#39;m heading home for a wedding and visiting family this weekend, so had time in the Fairbanks airport (whose wifi didn&#39;t work rip) and the first leg of my flight to write up a bunch of details. This post is gonna be a lot more text-heavy and have less fun pictures than normal (although I may be able to get my hands on pictures at some point and could send an update then)&lt;/p&gt;
+&lt;p&gt;As part of my job (a pretty darned cool part), I&#39;m joining Denali backcountry rangers for a few of their patrols where we&#39;ll coordinate installs or removals of sound stations in backcountry areas. For this first trip, I went out on a 3 day / 2 night patrol.&lt;/p&gt;
+&lt;p&gt;This trip&#39;s objective was removal of a station from an area where my supervisor and I had previously installed it. In the process, the backcountry folks and I took the time to explore the area more fully and spent two nights camping up on the ridgeline.&lt;/p&gt;
+&lt;p&gt;It was also a proper introduction to the wet n&#39; cold side of camping during summers in Denali. The first two days were rainy and not all that far above freezing for overnight temps. The second morning we woke up quite literally in the clouds. However, the third morning was calm, quiet, and sunshiney, complete with resplendent views of Denali right from the tent doors as we woke up.&lt;/p&gt;
+&lt;p&gt;There is something to be said about the mists and rain fueling the greenery and making it ~pop~ a bit more. Additionally, I touched on this the previous week, but watching weather systems move through the topography is absolutely fascinating. Something about the vantage point of looking out on the atmospheric motion in the mountains drives home the sense of scale of these natural processes. Also, at times, it might be raining lightly on you, but you can look out and see that the next valley over has a cloud just parked over it dumping rainfall and feel better about your situation. This trip definitely had aspects of observing weather from afar and from within said weather.&lt;/p&gt;
+&lt;p&gt;One other plus of the mix of rain and sunshine: as the rains cleared, I got to look down on a double rainbow from the ridgeline. That had to be one of the coolest rainbows I&#39;ve seen.&lt;/p&gt;
+&lt;h3 id=&quot;some-relevant-terms&quot; tabindex=&quot;-1&quot;&gt;Some relevant terms&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;packraft: kinda like an inflatable kayak, but lighter weight and more packable. Useful lil boats! See &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/&quot;&gt;2026-06-08 to 2026-06-18 - Packrafting and Wildflowers!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;tussock: imagine walking across a field of bowling balls with grass sprouting out - now you have tussocks! They&#39;re big orbs of grass (or sedges) that form in the tundra and make for a great ankle mobility workout while walking across. &lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260702211712.png&quot; alt=&quot;Pasted image 20260702211712.png&quot; /&gt;The above is just a random image of tussocks from the NPS, but imagine these if there were little streams running in between and various additional brush covering them and obscuring the holes.&lt;/li&gt;
+&lt;li&gt;bushwhacking, (see &#39;schwackin): refers to the activity of mucking about in all manner of brushy and branchy and tussocky environments. Trail-free fun, unless you&#39;re lucky and encounter a game trail of some sort through the woods (moose make pretty nice trails on account of smashing through brush). This is part of the Denali experience and probably trends more towards the type II fun side of things at times (&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/misc/types-of-fun/&quot;&gt;Types of Fun&lt;/a&gt;). You usually gotta schwack some to earn your alpine views.
+&lt;ul&gt;
+&lt;li&gt;One very helpful piece of gear is full length heavier duty gaiters. Otherwise you&#39;re gonna get various extra bits of plants and mud and stuff in your shoes.&lt;/li&gt;
+&lt;li&gt;Some of the wickedest bushwhacking is in alder groves, they&#39;re short, cluster densely together, send branches out all ways, and are too tough to just push through sometimes. This isn&#39;t a great pic either but gives an idea of what it might look like&lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260702213202.png&quot; alt=&quot;Pasted image 20260702213202.png&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;I think I need to take some pictures to better communicate what the bushwhacking is like, but I&#39;m not usually taking my phone out while doing it (and I suppose I would&#39;ve lost those photos from this trip anyways). Plus it&#39;s really something you just need to experience in person.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;day-by-day-recap&quot; tabindex=&quot;-1&quot;&gt;Day-by-day Recap&lt;/h3&gt;
+&lt;h4 id=&quot;day-0&quot; tabindex=&quot;-1&quot;&gt;Day 0:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Packing! I hadn&#39;t been camping in Denali yet, and environmental conditions were looking like they could require some real layering + proper dry bags, so I had to put some thought into what my pack setup was going to look like. Additionally, I had to pull together sufficient food that would fit nicely into the small bear bin I had checked out from the Backcountry Information Center. Did some calorie napkin math that I think worked out well and got me enough food. However, I didn&#39;t fully account for the fact that I&#39;m a hungry fellow and just about finished everything by the end of the trip, so figuring out how to more densely pack some additional calories is a good endeavor for future trips.&lt;/li&gt;
+&lt;li&gt;I was running low on food options due to not wanting to restock my fridge ahead of travel, which meant my food options weren&#39;t too creative (whole lotta bars). Shoutout to the overpriced foods at the Riley Creek Mercantile for hurting my wallet but giving me some much-needed bar variety in the form of poptarts (brown sugar cinnamon top tier flavor) and mint protein bars. My hot food option (hot food definitely helps morale in the cold) was the michelin award-winning combo of old-fashioned oats, sugar, and cinnamon. It ain&#39;t much, but it (sorta) gets the job done. For a final fun treat, I baked up some little chocolate chip cookies for sharing with the class (cookies are good for the soul and calorically dense!).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;day-1&quot; tabindex=&quot;-1&quot;&gt;Day 1:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;We took the bus down the park road and put in packrafts at the Teklanika bridge. After rigging the boats with our packs and starting our float, I immediately got stuck on shallow river bed (uh oh! I was thinking this was about to be a very long journey...). Fortunately, after getting free (getting out of boat and dragging it to deeper water), we were able to move more smoothly. We still had plenty of butt scooting our rafts along the river and few more rounds of getting stuck on gravel bars. Overall, it was quite the different style of packrafting from the bigger river run that we did in our training a few weeks back. We agreed it was quite educational and offered the chance to practice a different style of river reading (aka answering the question of &amp;quot;where is the river deepest so I don&#39;t get stuck&amp;quot;?). There was one sketchy section with downed spruce trees that we chose to walk around as well.&lt;/li&gt;
+&lt;li&gt;After getting to the base of the ridge we wanted to ascend, we stashed our packraft gear and then started up the mountain. Going through wet brush is an interesting experience. It creates a sort of hyper-humid microclimate that&#39;s visibly steamy. It also gets you more wet than the rain itself sometimes. Suffice it to say that I think wet brush may be the fullest realization of the schwacking experience.&lt;/li&gt;
+&lt;li&gt;That evening, we got up to the ridge and actually encountered some clearer weather, which  motivated a decision to set up camp on the ridgeline itself. Might as well go for real estate with a view when you have the chance!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;day-2&quot; tabindex=&quot;-1&quot;&gt;Day 2:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;We woke up IN the clouds. Unsurprisingly, that meant lots of moisture in the air and on the tents. I had fostered a mystical, unfounded hope that my wet hiking boots might&#39;ve dried out a tiny bit overnight (I even took the insoles out!). This dream was dashed immediately when I checked and they were still sopping wet. So alas, I put back on my damp socks from the previous day and returned to the continued saga of soggy toes.
+&lt;ul&gt;
+&lt;li&gt;The wet boots and socks question is a concern to manage when you&#39;re out there for a few days. For both comfort and foot health, it&#39;s good to have a pair of dry socks for sleeping in at night. I&#39;ve heard them referred to as your &amp;quot;sacred socks&amp;quot;, which stay packed away safe and dry until it&#39;s time for getting into your sleeping bag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We retrieved our scientific equipment this day and staged it back at camp. Luckily the station was still standing, and looked untouched by overly inquisitive wildlife. The only remaining challenge at this point on the scientific part of the mission was the additional weight a bunch of batteries and electronics would add to our descent down. We also got a view of the cloud enveloping our campsite during this jaunt.&lt;/li&gt;
+&lt;li&gt;With that task out of the way, we had the chance for some additional patrolling and scouted out what a traverse along the ridgeline would look like. It was great to get my cold feet moving, particularly with a lighter pack since we kept our campsite in the same location. Also, ridgelines are just fricken rad because you get a vantage off both sides for a 360 degree view of the area around you. Additionally, you don&#39;t usually do as much elevation change as climbing up a mountain from the base and get to stay above the brush.&lt;/li&gt;
+&lt;li&gt;A highlight of our wander on this day was finding a sheltered spot where we had a rejuvenating snack break/catnap/weather-watching/soundscape-listening session. It was such a pleasant experience to just slow down and soak in the majesty of our surroundings out of the wind and rain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;day-3&quot; tabindex=&quot;-1&quot;&gt;Day 3&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;What a gorgeous morning to wake up on a sunny alpine ridge with clear views of Denali and a good chunk of the Alaska Range. We had a calm and quiet night so I slept a bit better this evening and woke up feeling more rested. (Still a slightly sleepy boi though). When I popped out of my tent I had to just stare at the vistas around us for a few minutes before doing anything else.&lt;/li&gt;
+&lt;li&gt;I finished the last of my cinnamon sugar oats, and then we rearranged the packs to account for the extra sound station equipment before heading out for a brushy trek back down to road level. We took a slightly different route down versus our route up, which proved to be a steeper and more densely vegetated decision.&lt;/li&gt;
+&lt;li&gt;Unfortunatelyyyyy, said dense vegetation is where the journey ended for my phone. I thought my pants pockets were decently secure, but grabby brush, alder-navigating acrobatics, and a small tumble after I made the rookie mistake of holding onto a dead tree for support led to it being separated from me at some point. We briefly backtracked and searched, but without cell service to call/track it more precisely, the search was a bit of a lost cause.&lt;/li&gt;
+&lt;li&gt;After getting back to my cabin, I got the GPS location from my phone&#39;s last ping and loaded that into CalTopo (&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/misc/cal-topo/&quot;&gt;CalTopo&lt;/a&gt;) along with my GPS track from when I lost it, so I&#39;d like to get back out there for a second try at searching. Unfortunately there wasn&#39;t a chance for me to look before traveling, so my next opportunity won&#39;t be for at least another 1.5 weeks :( . At that point, I&#39;m not too confident in my ability to find it since the battery will be dead and the ground cover could&#39;ve changed. There&#39;s also the complication of the route back to its location involving a potentially sketchy river crossing to start/end the day.
+&lt;ul&gt;
+&lt;li&gt;If you ever happen to find yourself at the below point (I&#39;m sure many of you will pass by regularly!), do me a favor and take a quick look around for a red iPhone in a black case! &lt;img src=&quot;https://elliott-ruebush.github.io/img/user/Pasted%20image%2020260703034136.png&quot; alt=&quot;Pasted image 20260703034136.png&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Besides the lost phone saga, the remainder of the trip back to civilization was great! The weather continued to be nice, the river crossing was manageable on foot, and we didn&#39;t have to wait long for a bus to take us back home!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, I had a great experience getting out there! The patrol was a good sampling of both the pluses and minuses to consider when backpacking here and left me excited to figure out some more adventures in the future. Working alongside the backcountry rangers was fun as well, and I appreciate the chance to join their patrol! Once again, Denali proves to be such a unique place with so many things to explore.&lt;/p&gt;
+&lt;h3 id=&quot;additional-ponderings&quot; tabindex=&quot;-1&quot;&gt;Additional Ponderings&lt;/h3&gt;
+&lt;p&gt;Some additional ponderings about backpacking/the trip that may or may not be interesting and are partially just for personal notes&lt;/p&gt;
+&lt;p&gt;A unique quirk of summertime Alaska camping, it doesn&#39;t get dark. I had decent success with using a balaclava over my eyes as a makeshift sleep mask/head warmth combo. I think a more comfy sleep mask could be worth investing in though.&lt;/p&gt;
+&lt;p&gt;I need to better figure out my sleep situation at some point, I can&#39;t say I was super well rested, particularly after the rain and some winds flapping my tent around the first night. A few improvements could be trying out a quilt setup for sleeping and getting some more stakes to better use my tent guylines. I generally feel a bit creaky while trying to sleep in a sleeping bag on a pad though. Unfortunately backpacking setups aren&#39;t really optimized for spacious comfort.&lt;/p&gt;
+&lt;p&gt;One of my patrol partners brought a pyramid tent, which proved to be a nice additional shelter and morale boost to get us somewhere communal to gather for meals and camp hangouts that was a little bit warmer and drier than just being outside. It&#39;s lightweight, sets up with a trekking pole or two, and makes for a nice cook site cover. They&#39;re probably not as easy to get set up securely in very high winds though. But overall I feel like these are definitely worth the weight in a lot of situations and will consider bringing one for future trips.&lt;/p&gt;
+&lt;p&gt;It&#39;s impressive how many layers you want when you&#39;re in the cold and damp not moving around. At one point I had an equivalent amount of layers on to what I might wear while skiing (base, mid, light puffy, rain shell) and was still not particularly toasty. The wet is a factor in that coldness too I suppose.&lt;/p&gt;
+&lt;p&gt;An interesting question arises on these wet days of when to wear rain gear. Positives: it keeps out the rain and water from wet brush (and the bugs!). Negatives: it gets toasty when hiking uphill with a heavy pack and gaiters over rain pants sorta removes any breathability (but does help protect your rain pants from spikey brush). In this case, the dense wet brush and on/off rain made rain gear the option to go with though imo. The rain gear is also good for wind once you&#39;re more exposed on a ridge too.&lt;/p&gt;
+&lt;p&gt;Random sidenote on the topic of game trails, the Dall Sheep make BEAUTIFUL ridgeline trails sometimes. We found one up on our ridge that you could&#39;ve used as a running trail.&lt;/p&gt;
+&lt;p&gt;(This is more of a self-note) Packraft Rigging setup - x-pattern through the hardpoints, followed by trucker&#39;s hitch on the last line. You then tighten down the rigging by by running the rope through the final hardpoint and then through the trucker&#39;s hitch and pull tight. Finally, you finish off with a half hitch and stopper knot (e.g. simple overhand) combo after tightening down. Packing everything into the inside of the packraft with the internal dry bags would be nice too though for better weight balance.&lt;/p&gt;
+
+            </content>
+            <link href="https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/" ///// >
+        </entry>
+        <entry>
+            <title>
                 2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!
                 
             </title>
-            <updated>2026-06-28T07:48:47.806Z</updated>
+            <updated>2026-07-03T10:43:38.263Z</updated>
             <id>https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#alaska&quot;&gt;#alaska&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#birds&quot;&gt;#birds&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#hiking&quot;&gt;#hiking&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#denali&quot;&gt;#denali&lt;/a&gt;&lt;br /&gt;
 Previous post: &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/&quot;&gt;2026-06-08 to 2026-06-18 - Packrafting and Wildflowers!&lt;/a&gt;&lt;br /&gt;
-Next post: WIP&lt;/p&gt;
+Next post: &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://elliott-ruebush.github.io/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/&quot;&gt;2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip)&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;hiking&quot; tabindex=&quot;-1&quot;&gt;Hiking!&lt;/h3&gt;
 &lt;h4 id=&quot;new-mountain-view&quot; tabindex=&quot;-1&quot;&gt;New mountain view!&lt;/h4&gt;
 &lt;p&gt;Super cool hike outside the park on Sugarloaf (why are there so many mountains named Sugarloaf??? There&#39;s at least two other ones I know of on the east coast).&lt;br /&gt;

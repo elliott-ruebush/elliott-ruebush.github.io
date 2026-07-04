@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>2026-05-11 to 2026-05-17 - First Week of Work</title>
+<title>2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip)</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -94,7 +94,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/">2026-05-11 to 2026-05-17 - First Week of Work </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/">2026-05-11 to 2026-05-17 - First Week of Work </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -114,7 +114,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/">2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip) </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/">2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip) </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -212,116 +212,83 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-07-04T04:00:27.964Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-07-04T04:00:27.964Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-07-04T04:00:27.964Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">2026-05-11 to 2026-05-17 - First Week of Work</h1>
+<h1 data-note-icon="">2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip)</h1>
 <div class="header-meta">
 <div class="header-tags">
 </div>
-<div class="timestamps"><div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="2026-05-11T16:45:29.362-04:00"></span></div><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-06-11T03:17:24.540-04:00"></span></div></div></div>
+<div class="timestamps"><div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="2026-07-02T18:08:26.479-04:00"></span></div><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-07-03T23:57:09.536-04:00"></span></div></div></div>
 </header>
-<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#alaska">#alaska</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#acoustics">#acoustics</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#hiking">#hiking</a><br>
-Previous post: <a class="internal-link" target="" data-note-icon="" href="/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/">2026-05-04 to 2026-05-10 - Packing and Moving</a><br>
-Next post: <a class="internal-link" target="" data-note-icon="" href="/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/">2026-05-11 to 2026-05-17 - First Week of Work</a></p>
-<p>I'm back after a busy first week! I also have an email newsletter option for y'all now! <a href="https://buttondown.com/elliottr" target="_blank" class="external-link">Subscribe to Alaska Blog!</a></p>
-<h3 id="an-arduous-and-not-at-all-scenic-commute-to-work" tabindex="-1">An arduous and not-at-all-scenic commute to work!!!</h3>
-<p>First off, how's the commute? Well, let me take ya along for it. It's a lovely ~5-10 minutes through some woods and over Rock Creek (which conveniently offers a great view of some mountains). It looks something like the following.<br>
-<picture src="/img/user/Pasted%20image%2020260517162053.png" alt="Pasted image 20260517162053.png"><source media="(max-width:480px)" srcset="/img/optimized/oU0B1fB2eB-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/oU0B1fB2eB-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/oU0B1fB2eB-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/oU0B1fB2eB-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517162053.png" alt="Pasted image 20260517162053.png" width=""></picture><br>
-<picture src="/img/user/Pasted%20image%2020260517100805.png" alt="Pasted image 20260517100805.png"><source media="(max-width:480px)" srcset="/img/optimized/XX3wCXLBDK-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/XX3wCXLBDK-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/XX3wCXLBDK-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/XX3wCXLBDK-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517100805.png" alt="Pasted image 20260517100805.png" width=""></picture><br>
-<picture src="/img/user/Pasted%20image%2020260517100859.png" alt="Pasted image 20260517100859.png"><source media="(max-width:480px)" srcset="/img/optimized/TK4yuhiULh-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/TK4yuhiULh-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/TK4yuhiULh-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/TK4yuhiULh-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517100859.png" alt="Pasted image 20260517100859.png" width=""></picture><br>
-First little forested bit of trail leaving the C-Camp cabins towards headquarters</p>
-<p><picture src="/img/user/Pasted%20image%2020260517100939.png" alt="Pasted image 20260517100939.png"><source media="(max-width:480px)" srcset="/img/optimized/HSUW7U7hou-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/HSUW7U7hou-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/HSUW7U7hou-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/HSUW7U7hou-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517100939.png" alt="Pasted image 20260517100939.png" width=""></picture><br>
-Views while crossing the road (I'm breaking continuity :o, this is from a commute home when we had bluer skies so the mountains contrast better than the white snow against the grey of the clouds)</p>
-<p><picture src="/img/user/Pasted%20image%2020260517101107.png" alt="Pasted image 20260517101107.png"><source media="(max-width:480px)" srcset="/img/optimized/fubDZWnm_g-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/fubDZWnm_g-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/fubDZWnm_g-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/fubDZWnm_g-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517101107.png" alt="Pasted image 20260517101107.png" width=""></picture><br>
-The little trail continues on the other side of the road - with the snow retreating more each day.</p>
-<p><picture src="/img/user/Pasted%20image%2020260517101206.png" alt="Pasted image 20260517101206.png"><source media="(max-width:480px)" srcset="/img/optimized/jo1ANSHjlf-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/jo1ANSHjlf-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/jo1ANSHjlf-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/jo1ANSHjlf-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517101206.png" alt="Pasted image 20260517101206.png" width=""></picture><br>
-NPS Denali headquarters building</p>
-<p><picture src="/img/user/Pasted%20image%2020260517101234.png" alt="Pasted image 20260517101234.png"><source media="(max-width:480px)" srcset="/img/optimized/0lBwPDRoyJ-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/0lBwPDRoyJ-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/0lBwPDRoyJ-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/0lBwPDRoyJ-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517101234.png" alt="Pasted image 20260517101234.png" width=""></picture><br>
-Resources building - where I spend my days at the desk. This building is home to a whole assortment of folks in fields like ecology, hydrology, botany, wildlife biology, and acoustics! <a href="https://www.nps.gov/orgs/1778/index.htm" target="_blank" class="external-link">Natural Resources Stewardship and Science Directorate</a></p>
-<h3 id="what-will-i-be-doing" tabindex="-1">What will I be doing?!</h3>
-<p>I'm with the <a href="https://www.nps.gov/orgs/1050/index.htm" target="_blank" class="external-link">Natural Sounds and Night Skies Division</a>, specifically focusing on the natural sounds half of that partnership. The most relevant mandate for our work comes from <a href="https://www.nps.gov/subjects/sound/soundscape-management-policy_4-9.htm" target="_blank" class="external-link">Section 4.9, Soundscape Management</a> in the NPS Management Policies.</p>
-<blockquote>
-<p>The Service will take action to prevent or minimize all noise that through frequency, magnitude, or duration adversely affects the natural soundscape or other park resources or values, or that exceeds levels that have been identified through monitoring as being acceptable to or appropriate for visitor uses at the sites being monitored.</p>
-</blockquote>
-<p>Practically, this means that we work on monitoring sounds across the park system and modeling noise impacts of human activity. The key difference between &quot;sound&quot; and &quot;noise&quot; is that &quot;noise&quot; is undesired.</p>
-<p>On the field work side, I'll be helping place acoustic monitoring stations at several different locations across the park. I'll also help place a few aircraft monitoring loggers (<a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" class="external-link">ADS-B</a>) since aircraft are one of the most significant human noise sources in Denali. Lots of folks are doing sightseeing tours and transiting to climb the mountain!</p>
-<p><picture src="/img/user/Pasted%20image%2020260517163502.png" alt="Pasted image 20260517163502.png"><source media="(max-width:480px)" srcset="/img/optimized/f3pKPAUJzI-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/f3pKPAUJzI-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/f3pKPAUJzI-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/f3pKPAUJzI-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517163502.png" alt="Pasted image 20260517163502.png" width=""></picture><br>
-See the microphone on the right of this image for an example of an older monitoring setup the park previously deployed in the field. (Image from the lovely Denali Visitor Center)</p>
-<p>On the desk side, I'll be be contributing to software (<a href="https://github.com/dbetchkal/NPS-ActiveSpace" target="_blank" class="external-link">NPS Active Space</a>) that models how far away someone can hear a sound from at a specific point on Earth, particularly focusing on aircraft noise. This involves combining microphone recordings, aircraft flight tracks, and some additional geospatial data for that specific location. Let me know if you have more questions or want to talk more details! Still learning by the day :)</p>
-<p><picture src="/img/user/Pasted%20image%2020260517170838.png" alt="Pasted image 20260517170838.png"><source media="(max-width:480px)" srcset="/img/optimized/R3VGNgF9aq-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/R3VGNgF9aq-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/R3VGNgF9aq-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/R3VGNgF9aq-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517170838.png" alt="Pasted image 20260517170838.png" width=""></picture><br>
-Images of modeled active spaces generated using the software. The red X marks a listener location and the top 3 (Hawaii) / bottom 3 (Alaska) are each different views of the same location.<br>
-<em>Davyd H. Betchkal, J. Adam Beeco, Sharolyn J. Anderson, Brian A. Peterson, Damon Joyce,</em><br>
-<em>Using aircraft tracking data to estimate the geographic scope of noise impacts from low-level overflights above parks and protected areas,</em><br>
-<em>Journal of Environmental Management</em><br>
-<a href="https://doi.org/10.1016/j.jenvman.2023.119201" target="_blank" class="external-link">https://doi.org/10.1016/j.jenvman.2023.119201</a>.<br>
-(<a href="https://www.sciencedirect.com/science/article/pii/S0301479723019898" target="_blank" class="external-link">https://www.sciencedirect.com/science/article/pii/S0301479723019898</a>)</p>
-<h3 id="sampling-of-this-week-s-activities" tabindex="-1">Sampling of this week's activities</h3>
-<h4 id="bear-safety-training" tabindex="-1">Bear Safety Training!</h4>
-<p>Had a super cool bear safety training put on by the wildlife management folks this week. I'll preface this by deferring to the <a href="https://www.nps.gov/dena/planyourvisit/bear-safety.htm" target="_blank" class="external-link">Denali Bear Safety page</a>, but will share a few quick notes on safety here in the park. First and foremost, prevention is key! Store your food and smelly items properly in bear resistant food containers. Make your presence known. Be alert to your surroundings.</p>
-<p>For encounters, the philosophy here emphasizes choosing how to react based on the behavior of the bear rather than the species (both grizzlies and black bears are present in Denali). A major distinction is between a defensive bear (feels threatened by you, should be addressed with calming behavior) and a curious/non-defensive bear (wants to learn more about you, should be deterred with aggressive behavior). In either case, you should have bear spray (most effective bear deterrent!) ready to deploy if they get too close. See the above page for more details. And remember, don't spray your bear spray in your own tent!</p>
-<p>Also we got to deploy inert bear spray which was a great practice activity!</p>
-<h4 id="hiking" tabindex="-1">Hiking</h4>
-<p>Took a few different wanders over the weekend!</p>
-<p><picture src="/img/user/Pasted%20image%2020260517171550.png" alt="Pasted image 20260517171550.png"><source media="(max-width:480px)" srcset="/img/optimized/1EV0IutqKK-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/1EV0IutqKK-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/1EV0IutqKK-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/1EV0IutqKK-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517171550.png" alt="Pasted image 20260517171550.png" width=""></picture><br>
-Photo I contributed to this <a href="https://www.chronolog.io/site/DNP102" target="_blank" class="external-link">fun timelapse project for science</a>! Taken on the Roadside Trail</p>
-<p><picture src="/img/user/Pasted%20image%2020260517171236.png" alt="Pasted image 20260517171236.png"><source media="(max-width:480px)" srcset="/img/optimized/_CsSPOyfWK-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/_CsSPOyfWK-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/_CsSPOyfWK-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/_CsSPOyfWK-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517171236.png" alt="Pasted image 20260517171236.png" width=""></picture><br>
-Wetlands, forest, and snowcapped peaks seen from the Roadside Trail</p>
-<p><picture src="/img/user/Pasted%20image%2020260517171204.png" alt="Pasted image 20260517171204.png"><source media="(max-width:480px)" srcset="/img/optimized/Foc7a9r5Ij-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/Foc7a9r5Ij-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/Foc7a9r5Ij-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/Foc7a9r5Ij-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517171204.png" alt="Pasted image 20260517171204.png" width=""></picture><br>
-Snow along the Rock Creek trail (a slushy mudfest on Saturday afternoon)</p>
-<p><picture src="/img/user/Pasted%20image%2020260517204815.png" alt="Pasted image 20260517204815.png"><source media="(max-width:480px)" srcset="/img/optimized/xo43ENXgko-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/xo43ENXgko-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/xo43ENXgko-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/xo43ENXgko-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517204815.png" alt="Pasted image 20260517204815.png" width=""></picture><br>
-Views of the Nenana River valley from the Mt. Healy Overlook Trail (looking out from the park)</p>
-<p><picture src="/img/user/Pasted%20image%2020260517204957.png" alt="Pasted image 20260517204957.png"><source media="(max-width:480px)" srcset="/img/optimized/REFH473SEH-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/REFH473SEH-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/REFH473SEH-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/REFH473SEH-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517204957.png" alt="Pasted image 20260517204957.png" width=""></picture><br>
-The higher elevation snowy slopes of Mt. Healy. You could certainly still get after some skiing these days, although conditions are probably not ideal at this elevation.</p>
-<p><picture src="/img/user/Pasted%20image%2020260517205138.png" alt="Pasted image 20260517205138.png"><source media="(max-width:480px)" srcset="/img/optimized/vVzjIqaGDw-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/vVzjIqaGDw-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/vVzjIqaGDw-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/vVzjIqaGDw-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517205138.png" alt="Pasted image 20260517205138.png" width=""></picture><br>
-And that's what we hiked up. Crazy how your little legs carry you around n up n down!</p>
-<p>Overall was a fun lil excursion of about 2k ft of vert. Running (or maybe more like power hiking...) up to the top could be fun for some fitness once the snow clears off a little!</p>
-<h3 id="wildlife" tabindex="-1">Wildlife</h3>
-<p><picture src="/img/user/Pasted%20image%2020260517170609.png" alt="Pasted image 20260517170609.png"><source media="(max-width:480px)" srcset="/img/optimized/jR8ePJ-aF7-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/jR8ePJ-aF7-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/jR8ePJ-aF7-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/jR8ePJ-aF7-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517170609.png" alt="Pasted image 20260517170609.png" width=""></picture><br>
-Monstrous (but still sluggish fortunately) early-season mosquitoes (apparently the big slow ones come first, followed by the speedy smaller ones). This one got a little too interested in me when I was about to hop in the shower, so I smacked it down with my shirt. Sorry ma'am but I'm sure y'all will be taking my blood later this summer so I'll try to fend you off while I can.</p>
-<p><picture src="/img/user/Pasted%20image%2020260517170649.png" alt="Pasted image 20260517170649.png"><source media="(max-width:480px)" srcset="/img/optimized/OIpR3jsWav-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/OIpR3jsWav-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/OIpR3jsWav-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/OIpR3jsWav-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517170649.png" alt="Pasted image 20260517170649.png" width=""></picture><br>
-Moose (not) on the loose? The one seemed a bit confused about the construction fencing (which to be fair I'm not sure what exactly it's there for either) (image taken from my front porch!)</p>
-<p><picture src="/img/user/Pasted%20image%2020260517205352.png" alt="Pasted image 20260517205352.png"><source media="(max-width:480px)" srcset="/img/optimized/3ET9OfTeXn-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/3ET9OfTeXn-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/3ET9OfTeXn-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/3ET9OfTeXn-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517205352.png" alt="Pasted image 20260517205352.png" width=""></picture><br>
-Roadside Ptarmigan (they're changing coat colors now - from white winter coats to brown summer ones) (clipped from a video which is why it's so grainy)</p>
-<p>I also learned about the varied thrush call! It's like a short little whistley sound with all the energy into a similar frequency that can sound quite piercing.</p>
-<h3 id="alpenglow" tabindex="-1">Alpenglow</h3>
-<p>And finally, I'll leave you with a quick pic of one of my favorite mountain phenomenon, a swath of rosy <a href="https://windy.app/textbook/alpenglow-alpine-glow.html" target="_blank" class="external-link">alpenglow</a> on the snowy peaks as seen around 11pm from C-Camp on my way to bed. There was a beautiful pink tone reflecting off the clouds in the direction of the sunset as well.</p>
-<p><picture src="/img/user/Pasted%20image%2020260517210831.png" alt="Pasted image 20260517210831.png"><source media="(max-width:480px)" srcset="/img/optimized/aw4tAlBDDT-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/aw4tAlBDDT-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/aw4tAlBDDT-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/aw4tAlBDDT-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260517210831.png" alt="Pasted image 20260517210831.png" width=""></picture></p>
+<p>Previous post: <a class="internal-link" target="" data-note-icon="" href="/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/">2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!</a><br>
+Next post: WIP</p>
+<p>Well, all the pictures I took are gone along with my phone, read on for more details on how that happened! I'm heading home for a wedding and visiting family this weekend, so had time in the Fairbanks airport (whose wifi didn't work rip) and the first leg of my flight to write up a bunch of details. This post is gonna be a lot more text-heavy and have less fun pictures than normal (although I may be able to get my hands on pictures at some point and could send an update then)</p>
+<p>As part of my job (a pretty darned cool part), I'm joining Denali backcountry rangers for a few of their patrols where we'll coordinate installs or removals of sound stations in backcountry areas. For this first trip, I went out on a 3 day / 2 night patrol.</p>
+<p>This trip's objective was removal of a station from an area where my supervisor and I had previously installed it. In the process, the backcountry folks and I took the time to explore the area more fully and spent two nights camping up on the ridgeline.</p>
+<p>It was also a proper introduction to the wet n' cold side of camping during summers in Denali. The first two days were rainy and not all that far above freezing for overnight temps. The second morning we woke up quite literally in the clouds. However, the third morning was calm, quiet, and sunshiney, complete with resplendent views of Denali right from the tent doors as we woke up.</p>
+<p>There is something to be said about the mists and rain fueling the greenery and making it ~pop~ a bit more. Additionally, I touched on this the previous week, but watching weather systems move through the topography is absolutely fascinating. Something about the vantage point of looking out on the atmospheric motion in the mountains drives home the sense of scale of these natural processes. Also, at times, it might be raining lightly on you, but you can look out and see that the next valley over has a cloud just parked over it dumping rainfall and feel better about your situation. This trip definitely had aspects of observing weather from afar and from within said weather.</p>
+<p>One other plus of the mix of rain and sunshine: as the rains cleared, I got to look down on a double rainbow from the ridgeline. That had to be one of the coolest rainbows I've seen.</p>
+<h3 id="some-relevant-terms" tabindex="-1">Some relevant terms</h3>
+<ul>
+<li>packraft: kinda like an inflatable kayak, but lighter weight and more packable. Useful lil boats! See <a class="internal-link" target="" data-note-icon="" href="/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/">2026-06-08 to 2026-06-18 - Packrafting and Wildflowers!</a></li>
+<li>tussock: imagine walking across a field of bowling balls with grass sprouting out - now you have tussocks! They're big orbs of grass (or sedges) that form in the tundra and make for a great ankle mobility workout while walking across. <picture src="/img/user/Pasted%20image%2020260702211712.png" alt="Pasted image 20260702211712.png"><source media="(max-width:480px)" srcset="/img/optimized/Tg9mwci3wf-500.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/Tg9mwci3wf-500.jpeg">
+<source media="(max-width:1920px)" srcset="/img/optimized/Tg9mwci3wf-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/Tg9mwci3wf-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260702211712.png" alt="Pasted image 20260702211712.png" width=""></picture>The above is just a random image of tussocks from the NPS, but imagine these if there were little streams running in between and various additional brush covering them and obscuring the holes.</li>
+<li>bushwhacking, (see 'schwackin): refers to the activity of mucking about in all manner of brushy and branchy and tussocky environments. Trail-free fun, unless you're lucky and encounter a game trail of some sort through the woods (moose make pretty nice trails on account of smashing through brush). This is part of the Denali experience and probably trends more towards the type II fun side of things at times (<a class="internal-link" target="" data-note-icon="" href="/misc/types-of-fun/">Types of Fun</a>). You usually gotta schwack some to earn your alpine views.
+<ul>
+<li>One very helpful piece of gear is full length heavier duty gaiters. Otherwise you're gonna get various extra bits of plants and mud and stuff in your shoes.</li>
+<li>Some of the wickedest bushwhacking is in alder groves, they're short, cluster densely together, send branches out all ways, and are too tough to just push through sometimes. This isn't a great pic either but gives an idea of what it might look like<picture src="/img/user/Pasted%20image%2020260702213202.png" alt="Pasted image 20260702213202.png"><source media="(max-width:480px)" srcset="/img/optimized/ApBinhkZRV-500.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/ApBinhkZRV-500.jpeg">
+<source media="(max-width:1920px)" srcset="/img/optimized/ApBinhkZRV-570.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/ApBinhkZRV-570.jpeg"><img class="" src="/img/user/Pasted%20image%2020260702213202.png" alt="Pasted image 20260702213202.png" width=""></picture></li>
+<li>I think I need to take some pictures to better communicate what the bushwhacking is like, but I'm not usually taking my phone out while doing it (and I suppose I would've lost those photos from this trip anyways). Plus it's really something you just need to experience in person.</li>
+</ul>
+</li>
+</ul>
+<h3 id="day-by-day-recap" tabindex="-1">Day-by-day Recap</h3>
+<h4 id="day-0" tabindex="-1">Day 0:</h4>
+<ul>
+<li>Packing! I hadn't been camping in Denali yet, and environmental conditions were looking like they could require some real layering + proper dry bags, so I had to put some thought into what my pack setup was going to look like. Additionally, I had to pull together sufficient food that would fit nicely into the small bear bin I had checked out from the Backcountry Information Center. Did some calorie napkin math that I think worked out well and got me enough food. However, I didn't fully account for the fact that I'm a hungry fellow and just about finished everything by the end of the trip, so figuring out how to more densely pack some additional calories is a good endeavor for future trips.</li>
+<li>I was running low on food options due to not wanting to restock my fridge ahead of travel, which meant my food options weren't too creative (whole lotta bars). Shoutout to the overpriced foods at the Riley Creek Mercantile for hurting my wallet but giving me some much-needed bar variety in the form of poptarts (brown sugar cinnamon top tier flavor) and mint protein bars. My hot food option (hot food definitely helps morale in the cold) was the michelin award-winning combo of old-fashioned oats, sugar, and cinnamon. It ain't much, but it (sorta) gets the job done. For a final fun treat, I baked up some little chocolate chip cookies for sharing with the class (cookies are good for the soul and calorically dense!).</li>
+</ul>
+<h4 id="day-1" tabindex="-1">Day 1:</h4>
+<ul>
+<li>We took the bus down the park road and put in packrafts at the Teklanika bridge. After rigging the boats with our packs and starting our float, I immediately got stuck on shallow river bed (uh oh! I was thinking this was about to be a very long journey...). Fortunately, after getting free (getting out of boat and dragging it to deeper water), we were able to move more smoothly. We still had plenty of butt scooting our rafts along the river and few more rounds of getting stuck on gravel bars. Overall, it was quite the different style of packrafting from the bigger river run that we did in our training a few weeks back. We agreed it was quite educational and offered the chance to practice a different style of river reading (aka answering the question of &quot;where is the river deepest so I don't get stuck&quot;?). There was one sketchy section with downed spruce trees that we chose to walk around as well.</li>
+<li>After getting to the base of the ridge we wanted to ascend, we stashed our packraft gear and then started up the mountain. Going through wet brush is an interesting experience. It creates a sort of hyper-humid microclimate that's visibly steamy. It also gets you more wet than the rain itself sometimes. Suffice it to say that I think wet brush may be the fullest realization of the schwacking experience.</li>
+<li>That evening, we got up to the ridge and actually encountered some clearer weather, which motivated a decision to set up camp on the ridgeline itself. Might as well go for real estate with a view when you have the chance!</li>
+</ul>
+<h4 id="day-2" tabindex="-1">Day 2:</h4>
+<ul>
+<li>We woke up IN the clouds. Unsurprisingly, that meant lots of moisture in the air and on the tents. I had fostered a mystical, unfounded hope that my wet hiking boots might've dried out a tiny bit overnight (I even took the insoles out!). This dream was dashed immediately when I checked and they were still sopping wet. So alas, I put back on my damp socks from the previous day and returned to the continued saga of soggy toes.
+<ul>
+<li>The wet boots and socks question is a concern to manage when you're out there for a few days. For both comfort and foot health, it's good to have a pair of dry socks for sleeping in at night. I've heard them referred to as your &quot;sacred socks&quot;, which stay packed away safe and dry until it's time for getting into your sleeping bag.</li>
+</ul>
+</li>
+<li>We retrieved our scientific equipment this day and staged it back at camp. Luckily the station was still standing, and looked untouched by overly inquisitive wildlife. The only remaining challenge at this point on the scientific part of the mission was the additional weight a bunch of batteries and electronics would add to our descent down. We also got a view of the cloud enveloping our campsite during this jaunt.</li>
+<li>With that task out of the way, we had the chance for some additional patrolling and scouted out what a traverse along the ridgeline would look like. It was great to get my cold feet moving, particularly with a lighter pack since we kept our campsite in the same location. Also, ridgelines are just fricken rad because you get a vantage off both sides for a 360 degree view of the area around you. Additionally, you don't usually do as much elevation change as climbing up a mountain from the base and get to stay above the brush.</li>
+<li>A highlight of our wander on this day was finding a sheltered spot where we had a rejuvenating snack break/catnap/weather-watching/soundscape-listening session. It was such a pleasant experience to just slow down and soak in the majesty of our surroundings out of the wind and rain.</li>
+</ul>
+<h4 id="day-3" tabindex="-1">Day 3</h4>
+<ul>
+<li>What a gorgeous morning to wake up on a sunny alpine ridge with clear views of Denali and a good chunk of the Alaska Range. We had a calm and quiet night so I slept a bit better this evening and woke up feeling more rested. (Still a slightly sleepy boi though). When I popped out of my tent I had to just stare at the vistas around us for a few minutes before doing anything else.</li>
+<li>I finished the last of my cinnamon sugar oats, and then we rearranged the packs to account for the extra sound station equipment before heading out for a brushy trek back down to road level. We took a slightly different route down versus our route up, which proved to be a steeper and more densely vegetated decision.</li>
+<li>Unfortunatelyyyyy, said dense vegetation is where the journey ended for my phone. I thought my pants pockets were decently secure, but grabby brush, alder-navigating acrobatics, and a small tumble after I made the rookie mistake of holding onto a dead tree for support led to it being separated from me at some point. We briefly backtracked and searched, but without cell service to call/track it more precisely, the search was a bit of a lost cause.</li>
+<li>After getting back to my cabin, I got the GPS location from my phone's last ping and loaded that into CalTopo (<a class="internal-link" target="" data-note-icon="" href="/misc/cal-topo/">CalTopo</a>) along with my GPS track from when I lost it, so I'd like to get back out there for a second try at searching. Unfortunately there wasn't a chance for me to look before traveling, so my next opportunity won't be for at least another 1.5 weeks :( . At that point, I'm not too confident in my ability to find it since the battery will be dead and the ground cover could've changed. There's also the complication of the route back to its location involving a potentially sketchy river crossing to start/end the day.
+<ul>
+<li>If you ever happen to find yourself at the below point (I'm sure many of you will pass by regularly!), do me a favor and take a quick look around for a red iPhone in a black case! <picture src="/img/user/Pasted%20image%2020260703034136.png" alt="Pasted image 20260703034136.png"><source media="(max-width:480px)" srcset="/img/optimized/5hhNQKEAyf-500.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/5hhNQKEAyf-500.jpeg">
+<source media="(max-width:1920px)" srcset="/img/optimized/5hhNQKEAyf-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/5hhNQKEAyf-700.jpeg"><img class="" src="/img/user/Pasted%20image%2020260703034136.png" alt="Pasted image 20260703034136.png" width=""></picture></li>
+</ul>
+</li>
+<li>Besides the lost phone saga, the remainder of the trip back to civilization was great! The weather continued to be nice, the river crossing was manageable on foot, and we didn't have to wait long for a bus to take us back home!</li>
+</ul>
+<p>Overall, I had a great experience getting out there! The patrol was a good sampling of both the pluses and minuses to consider when backpacking here and left me excited to figure out some more adventures in the future. Working alongside the backcountry rangers was fun as well, and I appreciate the chance to join their patrol! Once again, Denali proves to be such a unique place with so many things to explore.</p>
+<h3 id="additional-ponderings" tabindex="-1">Additional Ponderings</h3>
+<p>Some additional ponderings about backpacking/the trip that may or may not be interesting and are partially just for personal notes</p>
+<p>A unique quirk of summertime Alaska camping, it doesn't get dark. I had decent success with using a balaclava over my eyes as a makeshift sleep mask/head warmth combo. I think a more comfy sleep mask could be worth investing in though.</p>
+<p>I need to better figure out my sleep situation at some point, I can't say I was super well rested, particularly after the rain and some winds flapping my tent around the first night. A few improvements could be trying out a quilt setup for sleeping and getting some more stakes to better use my tent guylines. I generally feel a bit creaky while trying to sleep in a sleeping bag on a pad though. Unfortunately backpacking setups aren't really optimized for spacious comfort.</p>
+<p>One of my patrol partners brought a pyramid tent, which proved to be a nice additional shelter and morale boost to get us somewhere communal to gather for meals and camp hangouts that was a little bit warmer and drier than just being outside. It's lightweight, sets up with a trekking pole or two, and makes for a nice cook site cover. They're probably not as easy to get set up securely in very high winds though. But overall I feel like these are definitely worth the weight in a lot of situations and will consider bringing one for future trips.</p>
+<p>It's impressive how many layers you want when you're in the cold and damp not moving around. At one point I had an equivalent amount of layers on to what I might wear while skiing (base, mid, light puffy, rain shell) and was still not particularly toasty. The wet is a factor in that coldness too I suppose.</p>
+<p>An interesting question arises on these wet days of when to wear rain gear. Positives: it keeps out the rain and water from wet brush (and the bugs!). Negatives: it gets toasty when hiking uphill with a heavy pack and gaiters over rain pants sorta removes any breathability (but does help protect your rain pants from spikey brush). In this case, the dense wet brush and on/off rain made rain gear the option to go with though imo. The rain gear is also good for wind once you're more exposed on a ridge too.</p>
+<p>Random sidenote on the topic of game trails, the Dall Sheep make BEAUTIFUL ridgeline trails sometimes. We found one up on our ridge that you could've used as a running trail.</p>
+<p>(This is more of a self-note) Packraft Rigging setup - x-pattern through the hardpoints, followed by trucker's hitch on the last line. You then tighten down the rigging by by running the rope through the final hardpoint and then through the trucker's hitch and pull tight. Finally, you finish off with a half hitch and stopper knot (e.g. simple overhand) combo after tightening down. Packing everything into the inside of the packraft with the internal dry bags would be nice too though for better weight balance.</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -363,21 +330,21 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#an-arduous-and-not-at-all-scenic-commute-to-work">An arduous and not-at-all-scenic commute to work!!!</a>
+<li><a href="#some-relevant-terms">Some relevant terms</a>
 </li>
-<li><a href="#what-will-i-be-doing">What will I be doing?!</a>
-</li>
-<li><a href="#sampling-of-this-week-s-activities">Sampling of this week's activities</a>
+<li><a href="#day-by-day-recap">Day-by-day Recap</a>
 <ol>
-<li><a href="#bear-safety-training">Bear Safety Training!</a>
+<li><a href="#day-0">Day 0:</a>
 </li>
-<li><a href="#hiking">Hiking</a>
+<li><a href="#day-1">Day 1:</a>
+</li>
+<li><a href="#day-2">Day 2:</a>
+</li>
+<li><a href="#day-3">Day 3</a>
 </li>
 </ol>
 </li>
-<li><a href="#wildlife">Wildlife</a>
-</li>
-<li><a href="#alpenglow">Alpenglow</a>
+<li><a href="#additional-ponderings">Additional Ponderings</a>
 </li>
 </ol>
 </nav>
@@ -385,8 +352,7 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/" data-note-icon="" class="backlink">2026-05-04 to 2026-05-10 - Packing and Moving</a>
-</div><div class="backlink-card"><i icon-name="link"></i><a href="/denali-blog-summer-2026/2026-05-18-to-2026-05-25-field-work-dogs-east-fork/" data-note-icon="" class="backlink">2026-05-18 to 2026-05-25 - Field Work! Dogs! East Fork!</a>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/" data-note-icon="" class="backlink">2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!</a>
 </div></div>
 </div>
 </div>
