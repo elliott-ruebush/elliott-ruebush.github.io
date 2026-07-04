@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/powder-days-heather-hansman/","created":"2026-04-27T07:52:27.404-08:00","updated":"2026-04-27T11:21:27.961-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/books/powder-days-heather-hansman/","created":"2026-04-27T11:52:27.404-04:00","updated":"2026-04-27T15:21:27.961-04:00","dg-note-properties":{}}
 ---
 
 #polished #nature #ski 

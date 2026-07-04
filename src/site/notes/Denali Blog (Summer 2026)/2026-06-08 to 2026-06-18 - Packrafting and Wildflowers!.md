@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T14:33:15.188-08:00","updated":"2026-06-27T15:24:31.695-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-08-to-2026-06-18-packrafting-and-wildflowers/","created":"2026-06-14T18:33:15.188-04:00","updated":"2026-06-27T19:24:31.695-04:00","dg-note-properties":{}}
 ---
 
 #alaska #whitewater #packraft #plants #moose

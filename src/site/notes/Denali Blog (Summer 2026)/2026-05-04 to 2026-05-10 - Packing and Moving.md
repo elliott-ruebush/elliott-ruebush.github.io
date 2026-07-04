@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T08:20:28.709-08:00","updated":"2026-06-10T23:17:57.623-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-04-to-2026-05-10-packing-and-moving/","created":"2026-05-10T12:20:28.709-04:00","updated":"2026-06-11T03:17:57.623-04:00","dg-note-properties":{}}
 ---
 
 #alaska 

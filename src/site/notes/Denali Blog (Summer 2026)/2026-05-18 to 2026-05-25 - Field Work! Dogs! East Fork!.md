@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-18-to-2026-05-25-field-work-dogs-east-fork/","created":"2026-05-24T13:39:39.135-08:00","updated":"2026-06-18T22:11:20.673-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-18-to-2026-05-25-field-work-dogs-east-fork/","created":"2026-05-24T17:39:39.135-04:00","updated":"2026-06-19T02:11:20.673-04:00","dg-note-properties":{}}
 ---
 
 #alaska #acoustics #snow #plants #moose 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponderings/states-of-pages/","created":"2026-04-27T11:11:06.509-08:00","updated":"2026-05-02T17:20:15.838-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponderings/states-of-pages/","created":"2026-04-27T15:11:06.509-04:00","updated":"2026-05-02T21:20:15.838-04:00","dg-note-properties":{}}
 ---
 
 #meta 
