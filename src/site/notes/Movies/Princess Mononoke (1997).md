@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/princess-mononoke-1997/","created":"2026-04-27T10:41:37.960-08:00","updated":"2026-04-27T11:34:50.873-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/movies/princess-mononoke-1997/","created":"2026-04-27T14:41:37.960-04:00","updated":"2026-04-27T15:34:50.873-04:00","dg-note-properties":{}}
 ---
 
 #raw #nature 

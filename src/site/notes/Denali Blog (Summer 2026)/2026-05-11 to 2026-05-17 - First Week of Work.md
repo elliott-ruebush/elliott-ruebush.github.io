@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T12:45:29.362-08:00","updated":"2026-06-10T23:17:24.540-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-05-11-to-2026-05-17-first-week-of-work/","created":"2026-05-11T16:45:29.362-04:00","updated":"2026-06-11T03:17:24.540-04:00","dg-note-properties":{}}
 ---
 
 #alaska #acoustics #hiking
