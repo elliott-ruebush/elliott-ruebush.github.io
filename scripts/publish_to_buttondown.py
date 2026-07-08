@@ -119,16 +119,33 @@ def convert_callouts(content: str) -> str:
     return re.sub(r"^>\s*\[!\w+\]\s*\+?", ">", content, flags=re.MULTILINE)
 
 def _is_list_item(line: str) -> bool:
-    return bool(re.match(r"^([\*\-] |\d+\. )", line))
+    return bool(re.match(r"^(\s*[\*\-] |\d+\. )", line))
 
 def _is_header(line: str) -> bool:
     return bool(re.match(r"^#{1,6} ", line))
 
 def _is_structural_line(line: str) -> bool:
-    return bool(re.match(r"^([\*\-] |\d+\. |#{1,6} |>|!\[|```)", line))
+    return bool(re.match(r"^(\s*[\*\-] |\d+\. |#{1,6} |>|!\[|```)", line))
+
+def fix_nested_lists(content: str) -> str:
+    """Convert Obsidian tab-indented bullets to CommonMark nested lists."""
+    lines = []
+    for line in content.split("\n"):
+        match = re.match(r"^(\t+)([\*\-] )(.*)$", line)
+        if match:
+            indent = "  " * len(match.group(1))
+            line = f"{indent}- {match.group(3)}"
+        lines.append(line)
+    return "\n".join(lines)
+
+def fix_inline_images(content: str) -> str:
+    """Put images on their own line so email markdown parsers render them."""
+    return re.sub(r"(!\[[^\]]*\]\([^)]*\))(?=\S)", r"\1\n\n", content)
 
 def normalize_markdown_for_email(content: str) -> str:
     """Adjust Obsidian-style markdown for Buttondown's Python-Markdown parser."""
+    content = fix_nested_lists(content)
+    content = fix_inline_images(content)
     lines = content.split("\n")
     out: list[str] = []
 
@@ -139,8 +156,8 @@ def normalize_markdown_for_email(content: str) -> str:
         if _is_list_item(line) and out and out[-1].strip() and not _is_structural_line(out[-1]):
             out.append("")
 
-        if re.match(r"^\* ", line):
-            line = "- " + line[2:]
+        if re.match(r"^\s*[\*\-] ", line):
+            line = re.sub(r"^(\s*)[\*\-] ", r"\1- ", line)
 
         out.append(line)
 
