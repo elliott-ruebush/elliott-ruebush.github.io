@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/","created":"2026-07-02T18:08:26.479-04:00","updated":"2026-07-07T22:18:03.635-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/","created":"2026-07-02T14:08:26.479-08:00","updated":"2026-07-07T18:18:03.635-08:00","dg-note-properties":{}}
 ---
 
 

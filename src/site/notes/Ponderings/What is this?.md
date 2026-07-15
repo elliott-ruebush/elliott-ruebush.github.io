@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponderings/what-is-this/","created":"2026-04-27T10:15:24.006-04:00","updated":"2026-05-10T16:31:02.636-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponderings/what-is-this/","created":"2026-04-27T06:15:24.006-08:00","updated":"2026-05-10T12:31:02.636-08:00","dg-note-properties":{}}
 ---
 
 #meta 

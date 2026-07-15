@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-list-of-movies/","created":"2026-04-27T12:36:29.581-04:00","updated":"2026-05-10T12:18:31.431-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/movies/the-list-of-movies/","created":"2026-04-27T08:36:29.581-08:00","updated":"2026-05-10T08:18:31.431-08:00","dg-note-properties":{}}
 ---
 
 #meta 

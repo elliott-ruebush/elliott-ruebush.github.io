@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/types-of-fun/","created":"2026-07-03T00:22:21.920-04:00","updated":"2026-07-03T00:27:58.183-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/misc/types-of-fun/","created":"2026-07-02T20:22:21.920-08:00","updated":"2026-07-02T20:27:58.183-08:00","dg-note-properties":{}}
 ---
 
 I'm not 100% sure where I first heard about the different types of fun, but I think it might've been while trip leading for the UMD Adventure Program in college.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T19:23:10.849-04:00","updated":"2026-07-03T06:43:38.263-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-19-to-2026-06-27-new-hikes-sar-intro-cool-birds/","created":"2026-06-27T15:23:10.849-08:00","updated":"2026-07-03T02:43:38.263-08:00","dg-note-properties":{}}
 ---
 
 #alaska #birds #hiking #denali 

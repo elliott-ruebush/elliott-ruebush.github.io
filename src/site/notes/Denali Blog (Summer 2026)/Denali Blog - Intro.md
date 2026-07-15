@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T12:19:30.934-04:00","updated":"2026-05-17T13:58:43.665-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/denali-blog-intro/","created":"2026-05-10T08:19:30.934-08:00","updated":"2026-05-17T09:58:43.665-08:00","dg-note-properties":{}}
 ---
 
 #alaska

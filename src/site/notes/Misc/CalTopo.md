@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/cal-topo/","created":"2026-07-02T22:09:55.334-04:00","updated":"2026-07-02T22:16:28.372-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/misc/cal-topo/","created":"2026-07-02T18:09:55.334-08:00","updated":"2026-07-02T18:16:28.372-08:00","dg-note-properties":{}}
 ---
 
 #gis #backcountry #hiking 
