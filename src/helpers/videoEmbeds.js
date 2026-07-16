@@ -24,7 +24,8 @@ function videoHtml(vaultRelativePath) {
   const webPath = vaultMediaPathToWebPath(vaultRelativePath);
   const lower = vaultRelativePath.toLowerCase();
   const mimeType = lower.endsWith(".mov") ? "video/quicktime" : "video/mp4";
-  return `<video controls playsinline width="100%" preload="metadata"><source src="${webPath}" type="${mimeType}"></video>`;
+  // Blank lines keep markdown-it from wrapping the player in <p>, which breaks layout.
+  return `\n\n<video controls playsinline width="100%" preload="metadata" style="display:block;max-width:100%;margin:1em 0;"><source src="${webPath}" type="${mimeType}"></video>\n\n`;
 }
 
 function embedVaultVideos(content) {
