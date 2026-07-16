@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/","created":"2026-07-02T14:08:26.479-08:00","updated":"2026-07-07T18:18:03.635-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-06-28-to-2026-07-02-first-overnight-fieldwork-lost-phone-rip/","created":"2026-07-02T14:08:26.479-08:00","updated":"2026-07-14T22:34:50.173-08:00","dg-note-properties":{}}
 ---
 
 
 Previous post: [[Denali Blog (Summer 2026)/2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!\|2026-06-19 to 2026-06-27 - New Hikes, SAR Intro, Cool Birds!]]
-Next post: WIP
+Next post: [[Denali Blog (Summer 2026)/2026-07-03 to 2026-07-12 - Denali Hiatus (but I have bonus content for ya)\|2026-07-03 to 2026-07-12 - Denali Hiatus (but I have bonus content for ya)]]
 
 Well, all the pictures I took are gone along with my phone, read on for more details on how that happened! I'm heading home for a wedding and visiting family this weekend, so had time in the Fairbanks airport (whose wifi didn't work rip) and the first leg of my flight to write up a bunch of details. This post is gonna be a lot more text-heavy and have less fun pictures than normal (although I may be able to get my hands on pictures at some point and could send an update then)
 
