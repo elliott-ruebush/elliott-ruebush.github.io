@@ -17,6 +17,11 @@ function resolveShortVideoEmbeds(content) {
 }
 
 function vaultMediaPathToWebPath(vaultRelativePath) {
+  // Store videos under /img/instagram/, not /img/user/ — DG deletes unknown files in img/user on publish.
+  const match = vaultRelativePath.match(/_media\/([^/]+)\/([^/]+)$/i);
+  if (match) {
+    return encodeURI(`/img/instagram/${match[1]}/${match[2]}`);
+  }
   return encodeURI(`/img/user/${vaultRelativePath}`);
 }
 

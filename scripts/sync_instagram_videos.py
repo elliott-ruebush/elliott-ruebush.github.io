@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Copy Instagram archive videos from the Obsidian vault into the site img folder.
 
-Digital Garden publishes images but not MP4/MOV files. Run this after publishing
-Instagram archive notes so videos are available at /img/user/... on the live site.
+Digital Garden publishes images but not MP4/MOV files, and it will DELETE any
+files in src/site/img/user/ that it doesn't recognize on the next publish.
+Videos are stored under src/site/img/instagram/ instead (outside DG's scope).
 
 Usage:
   python scripts/sync_instagram_videos.py
@@ -21,16 +22,17 @@ REPO_ROOT = Path(__file__).parent.parent
 DEFAULT_VAULT = Path.home() / "digital_garden" / "elliott_garden"
 ARCHIVE_NAME = "freerange_elliott Instagram Archive"
 VIDEO_EXTENSIONS = {".mp4", ".mov"}
+# Outside img/user/ so Digital Garden won't delete these on republish.
+SITE_MEDIA_ROOT = REPO_ROOT / "src/site/img/instagram"
 
 
-def sync_videos(vault: Path, site_media_root: Path, dry_run: bool) -> tuple[int, int, int]:
+def sync_videos(vault: Path, site_media_root: Path, dry_run: bool) -> tuple[int, int]:
     vault_media = vault / ARCHIVE_NAME / "_media"
     if not vault_media.is_dir():
         raise FileNotFoundError(f"Expected vault media directory: {vault_media}")
 
     copied = 0
     skipped = 0
-    missing_dest_parents = 0
 
     for src in sorted(vault_media.rglob("*")):
         if not src.is_file() or src.suffix.lower() not in VIDEO_EXTENSIONS:
@@ -39,7 +41,11 @@ def sync_videos(vault: Path, site_media_root: Path, dry_run: bool) -> tuple[int,
         rel = src.relative_to(vault_media)
         dest = site_media_root / rel
 
-        if dest.exists() and dest.stat().st_mtime >= src.stat().st_mtime and dest.stat().st_size == src.stat().st_size:
+        if (
+            dest.exists()
+            and dest.stat().st_mtime >= src.stat().st_mtime
+            and dest.stat().st_size == src.stat().st_size
+        ):
             skipped += 1
             continue
 
@@ -49,13 +55,9 @@ def sync_videos(vault: Path, site_media_root: Path, dry_run: bool) -> tuple[int,
         if not dry_run:
             dest.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(src, dest)
-            copied += 1
-        else:
-            copied += 1
-            if not dest.parent.exists():
-                missing_dest_parents += 1
+        copied += 1
 
-    return copied, skipped, missing_dest_parents
+    return copied, skipped
 
 
 def main() -> None:
@@ -74,17 +76,14 @@ def main() -> None:
     args = parser.parse_args()
 
     vault = args.vault.expanduser().resolve()
-    site_media_root = (
-        REPO_ROOT / "src/site/img/user" / ARCHIVE_NAME / "_media"
-    )
 
     print(f"Vault media: {vault / ARCHIVE_NAME / '_media'}")
-    print(f"Site media:  {site_media_root}")
+    print(f"Site media:  {SITE_MEDIA_ROOT}")
     if args.dry_run:
         print("Dry run — no files will be written.\n")
 
     try:
-        copied, skipped, _ = sync_videos(vault, site_media_root, args.dry_run)
+        copied, skipped = sync_videos(vault, SITE_MEDIA_ROOT, args.dry_run)
     except FileNotFoundError as exc:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
@@ -96,7 +95,12 @@ def main() -> None:
     )
     if copied and not args.dry_run:
         print(
-            '\nNext: git add "src/site/img/user/freerange_elliott Instagram Archive/_media" && git commit && git push'
+            "\nNext: git add src/site/img/instagram src/helpers/videoEmbeds.js scripts/sync_instagram_videos.py"
+            "\n      git commit -m 'Restore Instagram videos outside DG-managed img/user path'"
+            "\n      git push"
+        )
+        print(
+            "\nNote: Re-run this script after any DG publish that adds new Instagram videos."
         )
 
 
