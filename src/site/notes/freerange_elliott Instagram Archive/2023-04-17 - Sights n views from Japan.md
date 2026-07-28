@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-17-sights-n-views-from-japan/","created":"2026-07-06T13:05:48.912-08:00","updated":"2026-07-14T22:29:41.791-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-17-sights-n-views-from-japan/","created":"2026-07-06T13:05:48.912-08:00","updated":"2026-07-16T12:58:45.721-08:00","dg-note-properties":{}}
 ---
 
 #instagram #archive
@@ -43,5 +43,5 @@ Besides that, we’ve got a great collection of shrines, parks, and city views.
 ![freerange_elliott Instagram Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/06.jpg](/img/user/freerange_elliott%20Instagram%20Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/06.jpg)
 ![freerange_elliott Instagram Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/07.jpg](/img/user/freerange_elliott%20Instagram%20Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/07.jpg)
 ![freerange_elliott Instagram Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/08.jpg](/img/user/freerange_elliott%20Instagram%20Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/08.jpg)
-![[09.mp4]]
+![[freerange_elliott Instagram Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/09.mp4]]
 ![freerange_elliott Instagram Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/10.jpg](/img/user/freerange_elliott%20Instagram%20Archive/_media/2023-04-17-some-sights-n-views-from-my-time-in-j/10.jpg)
