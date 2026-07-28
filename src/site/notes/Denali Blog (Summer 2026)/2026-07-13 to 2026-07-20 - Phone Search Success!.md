@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T13:21:35.260-08:00","updated":"2026-07-28T12:07:45.355-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T13:21:35.260-08:00","updated":"2026-07-28T12:10:55.770-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 
@@ -44,9 +44,9 @@ We stopped here for a snack/meditative catnap break and just quietly soaked in t
 
 #### There's a rainbow on the other side of the rain!
 ![Pasted image 20260728110855.png](/img/user/Pasted%20image%2020260728110855.png)
-Rainbow #1
+Rainbow One
 ![Pasted image 20260728110915.png](/img/user/Pasted%20image%2020260728110915.png)
-Rainbow #2
+Rainbow Two
 ![Pasted image 20260728110217.png](/img/user/Pasted%20image%2020260728110217.png)
 The Backcountry Rangers with whom I was working survey the valley through the lens of our second rainbow!
 
