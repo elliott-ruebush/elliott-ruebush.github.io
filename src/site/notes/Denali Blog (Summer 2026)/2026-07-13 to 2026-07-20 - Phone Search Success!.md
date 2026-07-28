@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T13:21:35.260-08:00","updated":"2026-07-28T11:59:03.938-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T13:21:35.260-08:00","updated":"2026-07-28T12:07:45.355-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 
@@ -50,7 +50,7 @@ Rainbow #2
 ![Pasted image 20260728110217.png](/img/user/Pasted%20image%2020260728110217.png)
 The Backcountry Rangers with whom I was working survey the valley through the lens of our second rainbow!
 
-For this update, I'll end with a brief excerpt from a write-up I did after the trip:
+For this update, I'll end with an excerpt from a write-up I did for our park newsletter after the trip:
 
 > We shwacked through wet brush, got rained on plenty, woke up in the clouds, hunkered down in our cook tent, and I _misplaced_ a phone. However, on day 2, after watching the weather systems undulate through the topography around (and on top of) us all day, more patches of light began to appear. Though the last fits of rain weren't done just yet, the sun brought much-appreciated warmth and the stunning, ephemeral sight of a double rainbow off the ridgeline.
 > 
