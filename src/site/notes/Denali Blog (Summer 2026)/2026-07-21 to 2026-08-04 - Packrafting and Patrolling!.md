@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T18:32:35.193-08:00","updated":"2026-08-07T20:09:08.226-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T18:32:35.193-08:00","updated":"2026-08-07T20:42:34.220-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 
@@ -83,4 +83,4 @@ However, you don't need to come to Alaska to get out there and appreciate both t
 
 (I do really appreciate the effects of some topography on the landscape though - sorry Illinois...)
 
-Get out there and see what you can see in the land around you this week!
+Get out there and see what you can see this week!
