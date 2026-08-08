@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T18:32:35.193-08:00","updated":"2026-08-07T20:07:24.288-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T18:32:35.193-08:00","updated":"2026-08-07T20:09:08.226-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 
@@ -24,7 +24,7 @@ Looking down on a section of the creek that we floated!
 
 #### Starting from the South!
 ![Pasted image 20260807184040.png](/img/user/Pasted%20image%2020260807184040.png)
-Oh baby - the Mountain was OUT n ABOUT on our drive to the starting point of our patrol!
+Oh baby - the Mountain was OUT n ABOUT on the drive to our patrol's starting point! A view of the mountain never gets old. It simply continues to be awe-inspiring every single time.
 
 ![Pasted image 20260807195126.png](/img/user/Pasted%20image%2020260807195126.png)
 Looking out over the first night's campsite, not a bad spot for a bathroom break!
