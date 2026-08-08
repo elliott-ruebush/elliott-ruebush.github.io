@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T13:21:35.260-08:00","updated":"2026-07-28T12:10:55.770-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T13:21:35.260-08:00","updated":"2026-08-07T18:39:05.322-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 
 
 Previous post: [[Denali Blog (Summer 2026)/2026-07-03 to 2026-07-12 - Denali Hiatus (but I have bonus content for ya)\|2026-07-03 to 2026-07-12 - Denali Hiatus (but I have bonus content for ya)]]
-Next post: WIP
+Next post: [[Denali Blog (Summer 2026)/2026-07-21 to 2026-08-04 - Packrafting and Patrolling!\|2026-07-21 to 2026-08-04 - Packrafting and Patrolling!]]
 
 ![Pasted image 20260728104638.png](/img/user/Pasted%20image%2020260728104638.png)
 WOOOHOOOO! Look at that lil guy hiding in the leaves (Y-shaped branch pictured in the background was part of the alder that broke when I grabbed it, which made me fall, which made my phone take a trip down-slope)
@@ -24,7 +24,7 @@ There may not be sunny, sandy, beaches up here. However, you can kick your feet 
 A stellar example of Yellow Moose Dung Moss (*splachnum luteum*). A funky (and apparently somewhat uncommon) plant that, as the name suggests, likes to grow starting in a pile of moose droppings.
 
 ![Pasted image 20260728114426.png](/img/user/Pasted%20image%2020260728114426.png)
-Dwarf Fireweed (*Chamaenerion latifolium*), closely related to our normal fireweed which recently started flowering all over. This version is shorter and grows in mats rather than long stalks. Fun fact: it's the national flower of Greenland, where it goes by the name *Niviaqsiaq*
+Dwarf Fireweed (aka River Beauty) (*Chamaenerion latifolium*), closely related to our normal fireweed which recently started flowering all over. This version is shorter and grows in mats rather than long stalks. Fun fact: it's the national flower of Greenland, where it goes by the name *Niviaqsiaq*
 
 ![Pasted image 20260728114810.png](/img/user/Pasted%20image%2020260728114810.png)
 Slightly blurry, but here's a Tundra Rose / Shrubby Cinquefoil (*dasiphora fruticosa*)
