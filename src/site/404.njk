@@ -14,6 +14,30 @@ permalink: 404.html
         {%endif%}
 
         <link href="/styles/custom-style.css" rel="stylesheet">
+
+        <script>
+        (function () {
+          var rules = [
+            {
+              prefix: "/alaska_acoustic_highlights",
+              target: "https://mertensia.github.io/alaska_acoustic_highlights"
+            },
+            {
+              prefix: "/snotel_leaderboard",
+              target: "https://mertensia.github.io/snotel_leaderboard"
+            }
+          ];
+          var path = location.pathname.replace(/\/$/, "");
+          for (var i = 0; i < rules.length; i++) {
+            var rule = rules[i];
+            if (path === rule.prefix || path.indexOf(rule.prefix + "/") === 0) {
+              var rest = path.slice(rule.prefix.length);
+              location.replace(rule.target + rest + location.search + location.hash);
+              return;
+            }
+          }
+        })();
+        </script>
         
     </head>
     <body class="theme-{{meta.baseTheme}} markdown-preview-view">
