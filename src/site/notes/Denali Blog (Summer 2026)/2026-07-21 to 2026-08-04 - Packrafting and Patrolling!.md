@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T18:32:35.193-08:00","updated":"2026-08-07T20:42:34.220-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T18:32:35.193-08:00","updated":"2026-08-17T21:48:58.018-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 
 Previous Post: [[Denali Blog (Summer 2026)/2026-07-13 to 2026-07-20 - Phone Search Success!\|2026-07-13 to 2026-07-20 - Phone Search Success!]]
-Next Post: WIP
+Next Post: [[Denali Blog (Summer 2026)/2026-08-05 to 2026-08-16 - Bikepacking Out West! Soundscape Website (check it out)!\|2026-08-05 to 2026-08-16 - Bikepacking Out West! Soundscape Website (check it out)!]]
 
 ### Packrafting
 
