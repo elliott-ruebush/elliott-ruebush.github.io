@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-05-to-2026-08-16-bikepacking-out-west-soundscape-website-check-it-out/","created":"2026-08-11T08:23:20.094-08:00","updated":"2026-08-17T21:51:34.629-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-05-to-2026-08-16-bikepacking-out-west-soundscape-website-check-it-out/","created":"2026-08-11T08:23:20.094-08:00","updated":"2026-08-17T22:00:59.832-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #bikepacking #animals #acoustics #soundscapes
@@ -7,7 +7,7 @@
 Previous Post: [[Denali Blog (Summer 2026)/2026-07-21 to 2026-08-04 - Packrafting and Patrolling!\|2026-07-21 to 2026-08-04 - Packrafting and Patrolling!]]
 Next Post: WIP
 ### Bikepacking out West!
-The adventures (and not getting quite enough sleep) continued this weekend! I had a friend visiting from Chicago who's into bikepacking, the weather was gorgeous, and I had a flexible day off from working last weekend, so it was the perfect chance to finally get out and see the west side of the park beyond the landslide and almost-officially-completed Pretty Rocks Bridge. 
+The adventures (and not getting quite enough sleep) continued the weekend of August 8th! I had a friend visiting from Chicago who's into bikepacking, the weather was gorgeous, and I had a flexible day off from working last weekend, so it was the perfect chance to finally get out and see the west side of the park beyond the landslide and almost-officially-completed Pretty Rocks Bridge. 
 ![Pasted image 20260817211455.png](/img/user/Pasted%20image%2020260817211455.png)
 The setups! Rented from a local shop - I also had a backpack on that I used to carry snacks, some layers, and water.
 
@@ -34,7 +34,7 @@ Views from Eielson Visitor Center (which is closed and in need of major repairs,
 It's the things on the sign! I can see them!
 
 ![Pasted image 20260817210839.png](/img/user/Pasted%20image%2020260817210839.png)
-We waved goodbye to a rosy peak bathed in alpenglow as we broke down our campsite at 5am on Monday morning.
+We waved goodbye to a rosy peak bathed in alpenglow as we broke down our campsite at 5am on Monday morning and headed out on a quest to make it back in time for my friend to make it for his flight that evening in Anchorage.
 #### Wildlife (4 out of the big 5 in one trip is pretty good!)
 They like to talk about the big 5 large mammals up here: moose, caribou, dall sheep, bear, and wolf. We saw all of them except the wolf, which I have yet to see all summer.
 
@@ -46,13 +46,15 @@ However, we got some great views of wildlife (although the sheep were so far off
 Two young moose right off the bat on the bus ride out! Mama was down the hill.
 
 ![Pasted image 20260817211839.png](/img/user/Pasted%20image%2020260817211839.png)
-Look at those antlers!
+Look at those antlers on that caribou!
 
 ![Pasted image 20260817211859.png](/img/user/Pasted%20image%2020260817211859.png)
-Licking rocks is all the rage these days! Don't knock it till you try it! Not sure how these three got into this position originally, but it was pretty cool to see.
+Licking rocks is all the rage these days! Don't knock it till you try it. Not sure how these three got into this position originally, but it was pretty cool to see.
 
 ![Pasted image 20260817205432.png](/img/user/Pasted%20image%2020260817205432.png)
 Honestly, from the inside of a bus on the way home is the absolute best place to see a bear during a camping trip. They look so silly when they trot along... but also they can run 35mph...
+
+Overall, it was a really cool trip. Our day out to Wonder Lake on the Sunday is probably in contention for the hardest 60 miles I've done on a bike. The loose gravel and steep climbs combined to make it quite the slog (also maybe the fact that I haven't really ridden a bike this summer didn't help). It was worth it for the views and to explore a new part of the park, but was definitely a long day that included a solid helping of type II fun ([[Misc/Types of Fun\|Types of Fun]]) and just grinding out pedal strokes.
 ### Soundscapes of Alaska
 I have some fun new digital content for you this week! 
 
