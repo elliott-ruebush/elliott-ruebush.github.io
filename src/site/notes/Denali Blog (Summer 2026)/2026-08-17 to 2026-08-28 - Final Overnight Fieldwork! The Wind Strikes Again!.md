@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-17-to-2026-08-28-final-overnight-fieldwork-the-wind-strikes-again/","created":"2026-08-31T21:07:36.873-08:00","updated":"2026-08-31T22:12:15.043-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-17-to-2026-08-28-final-overnight-fieldwork-the-wind-strikes-again/","created":"2026-08-31T21:07:36.873-08:00","updated":"2026-08-31T22:12:37.597-08:00","dg-note-properties":{}}
 ---
 
 #alaska #bread #baking #backcountry #snow #birds 
 ### Not nature to start, but bread!
 I've been putting in lots of time baking and am proud to say I've used over 30lbs of flour so far this summer! The biggest portion is on bread, but I've done plenty of cookies as well. I recently went on a sourdough baking spree and did a loaf per day for a week. That endeavor involved a lot of effort spent managing starter and dough each day, but it was amazing to have a hefty supply of fresh bread. I think I got sufficient calories in that week :)
 
-Here are a few pics of loaves over the past few weeks.
+Here are some pics of loaves over the past few weeks.
 ![Pasted image 20260831211226.png](/img/user/Pasted%20image%2020260831211226.png)
 I actually forgot to add my salt at the start for this one and tried to get some sort of salt slurry concoction mixed in at the proofing stage which was dubiously effective. You can't tell that from looking at it though!
 
