@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-05-to-2026-08-16-bikepacking-out-west-soundscape-website-check-it-out/","created":"2026-08-11T08:23:20.094-08:00","updated":"2026-08-17T22:00:59.832-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-05-to-2026-08-16-bikepacking-out-west-soundscape-website-check-it-out/","created":"2026-08-11T08:23:20.094-08:00","updated":"2026-08-31T22:14:22.795-08:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #bikepacking #animals #acoustics #soundscapes
 
 Previous Post: [[Denali Blog (Summer 2026)/2026-07-21 to 2026-08-04 - Packrafting and Patrolling!\|2026-07-21 to 2026-08-04 - Packrafting and Patrolling!]]
-Next Post: WIP
+Next Post: [[Denali Blog (Summer 2026)/2026-08-17 to 2026-08-28 - Final Overnight Fieldwork! The Wind Strikes Again!\|2026-08-17 to 2026-08-28 - Final Overnight Fieldwork! The Wind Strikes Again!]]
 ### Bikepacking out West!
 The adventures (and not getting quite enough sleep) continued the weekend of August 8th! I had a friend visiting from Chicago who's into bikepacking, the weather was gorgeous, and I had a flexible day off from working last weekend, so it was the perfect chance to finally get out and see the west side of the park beyond the landslide and almost-officially-completed Pretty Rocks Bridge. 
 ![Pasted image 20260817211455.png](/img/user/Pasted%20image%2020260817211455.png)
