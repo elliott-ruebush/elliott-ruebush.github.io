@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-30-intro-to-ski-mountaineering/","created":"2026-07-06T13:05:48.906-08:00","updated":"2026-07-14T22:30:21.871-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-30-intro-to-ski-mountaineering/","created":"2026-07-06T14:05:48.906-07:00","updated":"2026-07-14T23:30:21.871-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

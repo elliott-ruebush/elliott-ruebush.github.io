@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-02-sniffing-out-good-snow-in-times-of-scarcity/","created":"2026-07-06T13:05:48.911-08:00","updated":"2026-07-14T22:29:17.221-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-02-sniffing-out-good-snow-in-times-of-scarcity/","created":"2026-07-06T14:05:48.911-07:00","updated":"2026-07-14T23:29:17.221-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

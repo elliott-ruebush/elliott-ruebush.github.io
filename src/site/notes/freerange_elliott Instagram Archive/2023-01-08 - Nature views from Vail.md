@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-01-08-nature-views-from-vail/","created":"2026-07-06T13:05:48.905-08:00","updated":"2026-07-14T22:26:44.257-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-01-08-nature-views-from-vail/","created":"2026-07-06T14:05:48.905-07:00","updated":"2026-07-14T23:26:44.257-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

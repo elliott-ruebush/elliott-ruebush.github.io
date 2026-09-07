@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/instagram-archive-intro/","created":"2026-07-06T13:05:48.900-08:00","updated":"2026-07-14T22:31:15.789-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/instagram-archive-intro/","created":"2026-07-06T14:05:48.900-07:00","updated":"2026-07-14T23:31:15.789-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

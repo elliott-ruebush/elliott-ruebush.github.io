@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-17-to-2026-08-28-final-overnight-fieldwork-the-wind-strikes-again/","created":"2026-08-31T21:07:36.873-08:00","updated":"2026-08-31T22:14:49.345-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-17-to-2026-08-28-final-overnight-fieldwork-the-wind-strikes-again/","created":"2026-08-31T22:07:36.873-07:00","updated":"2026-09-05T10:31:04.792-07:00","dg-note-properties":{}}
 ---
 
 #alaska #bread #baking #backcountry #snow #birds 
 
 Previous Post: [[Denali Blog (Summer 2026)/2026-08-05 to 2026-08-16 - Bikepacking Out West! Soundscape Website (check it out)!\|2026-08-05 to 2026-08-16 - Bikepacking Out West! Soundscape Website (check it out)!]]
-Next Post: WIP
+Next Post: [[Denali Blog (Summer 2026)/2026-08-29 to 2026-09-04 - Fall Colors and Snow! What's next?\|2026-08-29 to 2026-09-04 - Fall Colors and Snow! What's next?]]
 ### Not nature to start, but bread!
 I've been putting in lots of time baking and am proud to say I've used over 30lbs of flour so far this summer! The biggest portion is on bread, but I've done plenty of cookies as well. I recently went on a sourdough baking spree and did a loaf per day for a week. That endeavor involved a lot of effort spent managing starter and dough each day, but it was amazing to have a hefty supply of fresh bread. I think I got sufficient calories in that week :)
 
@@ -60,7 +60,7 @@ The mission was a resounding success, lovely hiking, gorgeous views, some leg-bu
 
 However, our weather window would come to an end. As we made our way back to camp, the winds started to pick up, and we surmised that the forecast may have ALSO been correct about 60mph gusts of wind rolling in that night.
 ![Pasted image 20260831214639.png](/img/user/Pasted%20image%2020260831214639.png)
-Views from inside one of our tents as the wind tried to push it over. Note that the end of the tent is supposed to be a symmetrical arch. Additionally, note that this is a heavy-duty 4-season tent - the kind that they use for mountaineering expeditions in extreme environments. For a more immersive experience, check out [these clips](https://photos.google.com/share/AF1QipMh4ETaZwVfhfyi-K24MnsTUnTnWtlcNXn3QeTVkyIYVzdTMHcKjL-MArxlD-3Qtg?key=LU9uRW9XNDNEZkVLdlJUcHd4bHJFMGgwLWRobHZB). The first is from the beginnings of the wind storm as we were going to bed (note that I did not say "as we were going to sleep"). The second is too dark to see anything, but was taken at sometime around 4am after we had a tent guyline snap and had to have one person go out and fix it while the other person held the tent up from the outside. 
+Views from inside one of our tents as the wind tried to push it over. Note that the end of the tent is supposed to be a symmetrical arch. Additionally, note that this is a heavy-duty 4-season tent - the kind that they use for mountaineering expeditions in extreme environments. For a more immersive experience, check out [these clips](https://photos.google.com/share/AF1QipMh4ETaZwVfhfyi-K24MnsTUnTnWtlcNXn3QeTVkyIYVzdTMHcKjL-MArxlD-3Qtg?key=LU9uRW9XNDNEZkVLdlJUcHd4bHJFMGgwLWRobHZB). The first is from the beginnings of the wind storm as we were going to bed (note that I did not say "as we were going to sleep"). The second is too dark to see anything, but was taken at sometime around 4am after we had a tent guyline snap and had to have one person go out and fix it while the other person held the tent up from the outside.
 
 If you were taking all those notes, you probably deduced that it was not the most restful night. If you were taking notes from previous blog posts, you might remember a similar experience involving a windy night and not enough sleep. Alas, once you're in it, there's nothing to be done but hunker down and amble along the next day. Fortunately, both of these windy nights were on the last day of the patrols and not too far from the end point. We were certainly glad to have brought the heavier dutier tents on the most recent patrol as the lighter-weight ones probably wouldn't have made it.
 

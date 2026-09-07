@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T13:21:35.260-08:00","updated":"2026-08-07T18:39:05.322-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-13-to-2026-07-20-phone-search-success/","created":"2026-07-16T14:21:35.260-07:00","updated":"2026-08-07T19:39:05.322-07:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 

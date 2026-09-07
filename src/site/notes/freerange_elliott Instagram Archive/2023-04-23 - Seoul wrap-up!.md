@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-23-seoul-wrap-up/","created":"2026-07-06T13:05:48.904-08:00","updated":"2026-07-28T12:03:19.614-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-23-seoul-wrap-up/","created":"2026-07-06T14:05:48.904-07:00","updated":"2026-07-28T13:03:19.614-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

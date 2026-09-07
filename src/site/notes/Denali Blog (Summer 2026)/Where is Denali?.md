@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/where-is-denali/","created":"2026-05-10T09:44:14.400-08:00","updated":"2026-05-15T22:00:45.229-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/where-is-denali/","created":"2026-05-10T10:44:14.400-07:00","updated":"2026-05-15T23:00:45.229-07:00","dg-note-properties":{}}
 ---
 
 #alaska 

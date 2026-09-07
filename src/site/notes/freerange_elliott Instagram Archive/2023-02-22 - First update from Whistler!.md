@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-02-22-first-update-from-whistler/","created":"2026-07-06T13:05:48.905-08:00","updated":"2026-07-14T22:28:20.688-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-02-22-first-update-from-whistler/","created":"2026-07-06T14:05:48.905-07:00","updated":"2026-07-14T23:28:20.688-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

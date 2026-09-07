@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2022-12-28-winter-2020-2021-colorado-trip/","created":"2026-07-06T13:05:48.899-08:00","updated":"2026-07-14T22:26:13.879-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2022-12-28-winter-2020-2021-colorado-trip/","created":"2026-07-06T14:05:48.899-07:00","updated":"2026-07-14T23:26:13.879-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

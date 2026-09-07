@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T18:32:35.193-08:00","updated":"2026-08-17T21:48:58.018-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-21-to-2026-08-04-packrafting-and-patrolling/","created":"2026-08-07T19:32:35.193-07:00","updated":"2026-08-17T22:48:58.018-07:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #plants 

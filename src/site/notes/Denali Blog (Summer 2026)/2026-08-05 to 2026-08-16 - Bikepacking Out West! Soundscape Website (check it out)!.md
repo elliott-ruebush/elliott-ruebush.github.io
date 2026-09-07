@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-05-to-2026-08-16-bikepacking-out-west-soundscape-website-check-it-out/","created":"2026-08-11T08:23:20.094-08:00","updated":"2026-08-31T22:14:22.795-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-05-to-2026-08-16-bikepacking-out-west-soundscape-website-check-it-out/","created":"2026-08-11T09:23:20.094-07:00","updated":"2026-08-31T23:14:22.795-07:00","dg-note-properties":{}}
 ---
 
 #denali #alaska #bikepacking #animals #acoustics #soundscapes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-01-26-down-in-the-crevasse-what-s-up/","created":"2026-07-06T13:05:48.903-08:00","updated":"2026-07-14T22:27:53.724-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-01-26-down-in-the-crevasse-what-s-up/","created":"2026-07-06T14:05:48.903-07:00","updated":"2026-07-14T23:27:53.724-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-03-to-2026-07-12-denali-hiatus-but-i-have-bonus-content-for-ya/","created":"2026-07-12T10:12:15.180-08:00","updated":"2026-07-28T10:40:40.282-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-07-03-to-2026-07-12-denali-hiatus-but-i-have-bonus-content-for-ya/","created":"2026-07-12T11:12:15.180-07:00","updated":"2026-07-28T11:40:40.282-07:00","dg-note-properties":{}}
 ---
 
 Previous post: [[Denali Blog (Summer 2026)/2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip)\|2026-06-28 to 2026-07-02 - First Overnight Fieldwork + Lost Phone (rip)]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ponderings/why-not-social-media/","created":"2026-04-27T08:04:11.624-08:00","updated":"2026-07-12T10:23:23.095-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ponderings/why-not-social-media/","created":"2026-04-27T09:04:11.624-07:00","updated":"2026-07-12T11:23:23.095-07:00","dg-note-properties":{}}
 ---
 
 #raw #meta

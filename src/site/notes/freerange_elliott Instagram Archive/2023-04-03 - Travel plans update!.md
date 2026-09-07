@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-03-travel-plans-update/","created":"2026-07-06T13:05:48.910-08:00","updated":"2026-07-14T22:29:22.918-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/freerange-elliott-instagram-archive/2023-04-03-travel-plans-update/","created":"2026-07-06T14:05:48.910-07:00","updated":"2026-07-14T23:29:22.918-07:00","dg-note-properties":{}}
 ---
 
 #instagram #archive
