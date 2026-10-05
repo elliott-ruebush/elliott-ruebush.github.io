@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-09-13-to-2026-09-26-a-beautiful-end-to-the-season/","created":"2026-09-27T22:49:41.382-05:00","updated":"2026-10-04T22:34:16.179-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-09-13-to-2026-09-26-a-beautiful-end-to-the-season/","created":"2026-09-27T22:49:41.382-05:00","updated":"2026-10-04T22:45:47.139-05:00","dg-note-properties":{}}
 ---
 
 Previous Post: [[Denali Blog (Summer 2026)/2026-08-29 to 2026-09-04 - Fall Colors and Snow! What's next?\|2026-08-29 to 2026-09-04 - Fall Colors and Snow! What's next?]]
