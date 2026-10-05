@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-29-to-2026-09-04-fall-colors-and-snow-what-s-next/","created":"2026-08-31T22:23:53.474-07:00","updated":"2026-09-07T07:09:54.342-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/denali-blog-summer-2026/2026-08-29-to-2026-09-04-fall-colors-and-snow-what-s-next/","created":"2026-09-01T00:23:53.474-05:00","updated":"2026-10-04T22:34:01.621-05:00","dg-note-properties":{}}
 ---
 
 #alaska #snow #birds 
 
 Previous Post: [[Denali Blog (Summer 2026)/2026-08-17 to 2026-08-28 - Final Overnight Fieldwork! The Wind Strikes Again!\|2026-08-17 to 2026-08-28 - Final Overnight Fieldwork! The Wind Strikes Again!]]
-Next Post: WIP
+Next Post: [[Denali Blog (Summer 2026)/2026-09-13 to 2026-09-26 - A Beautiful End to the Season!\|2026-09-13 to 2026-09-26 - A Beautiful End to the Season!]]
 
 ### Change of Plans Hike
 Originally, we were aiming to walk out to the newly open (to pedestrians and bikes) Pretty Rocks Bridge, but the bears have been active recently, and said activity meant the route was closed. 
